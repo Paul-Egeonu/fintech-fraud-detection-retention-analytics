@@ -216,6 +216,35 @@ All transactions converted to USD:
 
 ---
 
+## ⚠️ Model Limitations
+
+- Fraud is highly **imbalanced**
+- Model may **overfit historical patterns**
+- Limited behavioral depth reduces accuracy
+
+### 🔄 Important Note
+
+> The model should be **retrained periodically with new data** to:
+- Capture evolving fraud patterns  
+- Reduce class imbalance issues  
+- Improve prediction accuracy  
+- Adapt to new user behaviors  
+
+---
+
+## 🖼️ Screenshots & Visuals
+
+### 📊 Dashboard Preview
+![Dashboard](images/dashboard.png)
+
+### 📉 Cohort Retention Heatmap
+![Cohort](images/cohort_heatmap.png)
+
+### 🚨 Fraud Analysis
+![Fraud](images/fraud_analysis.png)
+
+---
+
 ## 🧠 Executive Summary
 
 - Fraud driven by behavior & transaction patterns  
@@ -261,6 +290,30 @@ streamlit run fraud_shield.py
 ```
 
 ⚠️ FastAPI not yet implemented
+
+---
+
+## 📦 Requirements
+
+Create a `requirements.txt` file:
+
+```
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+plotly
+streamlit
+joblib
+faker
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
 
 ---
 
