@@ -13,11 +13,19 @@
 
 ## 📌 Project Overview
 
-An end-to-end fintech analytics system combining:
+This project is an end-to-end fintech analytics solution that integrates:
+
 - 📊 Exploratory Data Analysis (EDA)
-- 🤖 Fraud Detection (Machine Learning)
-- 👥 Customer Retention Analysis (Cohorts)
-- ⚡ Real-Time Risk Dashboard (FraudShield AI)
+- 🤖 Machine Learning for Fraud Detection
+- 👥 Cohort-Based Customer Retention Analysis
+- ⚡ Real-Time Risk Scoring via Interactive Dashboard (FraudShield AI)
+
+### 🎯 Goal
+
+Simulate how modern fintech companies:
+- Detect fraudulent transactions
+- Understand user behavior
+- Improve decision-making using data
 
 ---
 
@@ -25,12 +33,21 @@ An end-to-end fintech analytics system combining:
 
 | Challenge | Impact |
 |----------|--------|
-| Fraudulent Transactions | Financial loss & security risks |
-| Customer Retention | Poor growth & revenue instability |
+| 🛡️ Fraud Risk | Financial loss, security vulnerabilities, reduced trust |
+| 📉 Customer Retention | Early churn, weak engagement, poor revenue growth |
 
 ---
 
-## 🧾 Dataset Features
+## ✅ Solution Approach
+
+- Identify high-risk transactions using ML
+- Analyze user behavior (RFM, cohorts)
+- Monitor retention trends
+- Build real-time fraud risk dashboard
+
+---
+
+## 🧾 Dataset Description
 
 | Feature | Description |
 |--------|-------------|
@@ -46,42 +63,106 @@ An end-to-end fintech analytics system combining:
 
 ---
 
+## 🛠️ Data Integration
+
+```python
+transactions = pd.read_csv("data/transactions.csv")
+users = pd.read_csv("data/users.csv")
+revenue = pd.read_csv("data/revenue.csv")
+
+df = transactions.merge(revenue, on='transaction_id', how='left')
+df = df.merge(users, on='user_id', how='left')
+```
+
+---
+
+## 💱 Currency Normalization
+
+All transactions converted to USD:
+
+- Nigeria → 1500 NGN = 1 USD  
+- Ghana → 15 GHS = 1 USD  
+- Kenya → 130 KES = 1 USD  
+- South Africa → 18 ZAR = 1 USD  
+
+---
+
+## 🧠 Project Objectives
+
+- Perform EDA  
+- Identify fraud patterns  
+- Build ML models  
+- Cohort retention analysis  
+- Develop real-time app  
+
+---
+
 ## 🧪 Methodology
 
-1. Data Cleaning  
-2. Feature Engineering  
-3. Exploratory Data Analysis  
-4. Model Training  
-5. Evaluation (ROC AUC, Recall, Precision)  
-6. Retention Analysis  
-7. Dashboard Development  
+### 1. Data Cleaning
+- Missing values
+- Duplicate removal
+- Type standardization
+
+### 2. Feature Engineering
+
+**Time Features**
+- Year, Month, Day, Day Name
+
+**User Behavior**
+- Transaction frequency
+- Average spend
+- Amount vs user average
+
+**Risk Features**
+- Failed transaction flag
+- High-value indicator
+- Fraud interaction features
 
 ---
 
-## 📊 Key Insights
+## 📊 Exploratory Data Analysis (EDA)
 
-### 🔍 Fraud Insights
-- High-value transactions → higher fraud risk  
-- Failed transactions → strong fraud signal  
-- Fraud varies by country & device  
+### 📊 Overall Trend Summary
+- 🚀 2022 → Growth Phase  
+- 📉 2023 → Decline Phase  
+
+> Growth → Peak → Decline lifecycle
+
+### 🔥 Critical Insight
+> Revenue decline is driven by drop in transaction volume, not spending behavior.
 
 ---
 
-### 📉 Retention Insights
+## 📉 Retention Insights
+
 - Sharp drop after Month 1  
-- Retention ~76% across all segments  
-- Problem is product experience, not acquisition  
+- Stabilization after Month 2  
+- ~76% retention across segments  
+- Minimal variation across devices/channels  
+
+> Indicates product-level issue
 
 ---
 
-### 📊 Revenue Insights
+## 📊 Revenue Insights
+
 - 93% revenue from Ghana & South Africa  
-- Heavy reliance on VIP users  
-- 2023 shows major decline  
+- VIP users dominate revenue  
+- Sustained 2023 decline  
 
 ---
 
-## 🤖 Model Performance
+## 🔍 Fraud Insights
+
+- High-value transactions → higher fraud  
+- Failed transactions → strong signal  
+- Fraud varies by country  
+- Web & transfer → higher risk  
+
+---
+
+## 🤖 Machine Learning Models
 
 | Model | ROC AUC | Precision | Recall | F1 |
 |------|--------|----------|--------|----|
@@ -89,50 +170,110 @@ An end-to-end fintech analytics system combining:
 | Logistic Regression | 0.9078 | 0.06 | **0.97** | 0.12 |
 | Random Forest | 0.8985 | 0.93 | 0.16 | 0.27 |
 
+### ✅ Final Model
+- Gradient Boosting  
+- ROC AUC: 0.9107  
+- Threshold: 0.0784  
+
+---
+
+## ⚠️ Modeling Insights
+
+- Class imbalance handled with `class_weight='balanced'`
+- ROC AUC preferred over accuracy
+- Feature quality impacts performance
+
+---
+
+## 🧠 Executive Summary
+
+- Fraud driven by behavior & transaction patterns  
+- Severe early churn  
+- Retention consistent across segments  
+
+---
+
+## 💼 Business Recommendations
+
+### 🛡️ Fraud Prevention
+- Flag high-value transactions  
+- Monitor failed attempts  
+- Geo-based controls  
+
+### 📈 Retention Strategy
+- Improve onboarding  
+- Incentives & rewards  
+- Habit-forming features  
+
+### ⚙️ Risk Management
+- Use probability thresholds  
+- Monitor fraud segments  
+- Real-time alerts  
+
+### 📢 Growth Strategy
+- Shift to retention-first  
+- Fix product before scaling  
+
 ---
 
 ## 🖥️ FraudShield AI (App)
 
 ### Features
-- 🔐 Login System  
-- 🔍 Real-Time Fraud Prediction  
-- 📊 KPI Dashboard  
-- 📉 Retention Insights  
+- 🔐 Authentication  
+- 🔍 Real-time fraud prediction  
+- 📊 KPI dashboard  
+- 📉 Retention analysis  
 
 ### Run App
 ```bash
 streamlit run fraud_shield.py
 ```
 
+⚠️ FastAPI not yet implemented
+
 ---
 
 ## 🧰 Tech Stack
 
-- Python
-- Pandas / NumPy
-- Scikit-learn
-- Plotly
-- Streamlit
+- Python  
+- Pandas / NumPy  
+- Scikit-learn  
+- Plotly  
+- Streamlit  
+- Joblib  
 
 ---
 
 ## 🚀 Future Improvements
 
-- SHAP Explainability  
-- Churn Prediction Model  
-- FastAPI Deployment  
-- Power BI Dashboard  
+- SHAP explainability  
+- Churn prediction  
+- Kafka pipeline  
+- Feature store  
+- Power BI dashboard  
+- FastAPI deployment  
 
 ---
 
-## 🎯 Final Insight
+## 🎯 Project Value
 
-> Fraud is a **security problem**, retention is a **product problem**.
+- End-to-end analytics  
+- Real fintech problem solving  
+- ML development  
+- Business insights  
+- App deployment  
+
+---
+
+## ⭐ Final Insight
+
+> Fraud is a **behavior problem**  
+> Retention is a **product problem**
 
 Success depends on:
-- Secure platform
-- Strong user experience
-- Data-driven decision making
+- Security  
+- Engagement  
+- Data-driven decisions  
 
 ---
 
