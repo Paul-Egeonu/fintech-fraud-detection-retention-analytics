@@ -29,6 +29,37 @@ Simulate how modern fintech companies:
 
 ---
 
+## 📁 Project Structure
+
+```
+fintech-analytics/
+│
+├── data/
+│   ├── transactions.csv
+│   ├── users.csv
+│   └── revenue.csv
+│
+├── notebooks/
+│   └── master_analysis.ipynb
+│
+├── app/
+│   └── fraud_shield.py
+│
+├── models/
+│   ├── fraud_model.pkl
+│   └── model_columns.pkl
+│
+├── images/
+│   ├── dashboard.png
+│   ├── cohort_heatmap.png
+│   └── fraud_analysis.png
+│
+├── requirements.txt
+└── README.md
+```
+---
+
+
 ## 🎯 Business Problem
 
 | Challenge | Impact |
