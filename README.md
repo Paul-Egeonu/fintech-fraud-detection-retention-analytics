@@ -243,7 +243,9 @@ All transactions converted to USD:
 
 
 ### 🚨 Fraud Analysis
-![Fraud](images/fraud_analysis.png)
+**Fraud Rate by Transaction Amount**
+<img width="708" height="471" alt="fraud_by_amount" src="https://github.com/user-attachments/assets/24c1dc85-ab7e-4e39-a594-3a9685dc1a4a" />
+
 
 ---
 
