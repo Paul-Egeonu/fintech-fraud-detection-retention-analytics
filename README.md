@@ -241,9 +241,7 @@ All transactions converted to USD:
 <img width="952" height="547" alt="Retention_cohort_Heatmap" src="https://github.com/user-attachments/assets/c647a94f-7271-4b6f-a620-29db78f5c9d2" />
 
 
-
 ### 🚨 Fraud Analysis
-**Fraud Rate by Transaction Amount**
 <img width="708" height="471" alt="fraud_by_amount" src="https://github.com/user-attachments/assets/24c1dc85-ab7e-4e39-a594-3a9685dc1a4a" />
 
 
