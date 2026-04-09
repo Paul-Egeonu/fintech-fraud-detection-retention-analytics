@@ -202,7 +202,7 @@ All transactions converted to USD:
 | Random Forest | 0.8985 | 0.93 | 0.16 | 0.27 |
 
 ### ✅ Final Model
-- Gradient Boosting  
+- Gradient Boost  
 - ROC AUC: 0.9107  
 - Threshold: 0.0784  
 
