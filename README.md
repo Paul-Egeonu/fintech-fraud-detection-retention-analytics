@@ -245,6 +245,10 @@ All transactions converted to USD:
 <img width="708" height="471" alt="fraud_by_amount" src="https://github.com/user-attachments/assets/24c1dc85-ab7e-4e39-a594-3a9685dc1a4a" />
 
 
+### Growth Trend (MoM Analysis)
+<img width="833" height="502" alt="MOM_growth" src="https://github.com/user-attachments/assets/0652f19d-34a3-4b31-a7fb-0eca1246ac94" />
+
+
 ---
 
 ## 🧠 Executive Summary
