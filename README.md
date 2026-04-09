@@ -238,7 +238,8 @@ All transactions converted to USD:
 ![Dashboard](images/dashboard.png)
 
 ### 📉 Cohort Retention Heatmap
-![Cohort](images/cohort_heatmap.png)
+<img width="952" height="547" alt="Retention_cohort_Heatmap" src="https://github.com/user-attachments/assets/c647a94f-7271-4b6f-a620-29db78f5c9d2" />
+
 
 ### 🚨 Fraud Analysis
 ![Fraud](images/fraud_analysis.png)
