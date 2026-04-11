@@ -295,6 +295,9 @@ All transactions converted to USD:
 streamlit run fraud_shield.py
 ```
 
+![fraud_shield](https://github.com/user-attachments/assets/229237a2-3720-4747-a0d7-ff7810bce186)
+
+
 ⚠️ FastAPI not yet implemented
 
 ---
