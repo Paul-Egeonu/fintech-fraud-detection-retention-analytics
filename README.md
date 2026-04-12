@@ -39,15 +39,14 @@ fintech-analytics/
 │   ├── users.csv
 │   └── revenue.csv
 │
-├── notebook/
+├── notebooks/
 │   └── fintech_analytics_project.ipynb
 │
 ├── app/
 │   └── fraud_shield.py
 │
-├── models/
-│   ├── fraud_model.pkl
-│   └── model_columns.pkl
+├── model/
+│   └── best_model.pkl
 │
 ├── images/
 │   ├── dashboard.png
