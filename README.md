@@ -295,6 +295,12 @@ All transactions converted to USD:
 streamlit run fraud_shield.py
 ```
 
+### 🌐 Live App Deployment
+
+👉 [Access FraudShield AI (Live App)](https://fintech-fraud-detection-retention-analytics-ktmiaqnd7osw5sersb.streamlit.app/)
+
+> This application is deployed on Streamlit Cloud and enables real-time fraud risk prediction and interactive analytics.
+
 ![fraud_shield](https://github.com/user-attachments/assets/229237a2-3720-4747-a0d7-ff7810bce186)
 
 
