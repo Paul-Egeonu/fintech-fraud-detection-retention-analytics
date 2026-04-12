@@ -40,7 +40,7 @@ fintech-analytics/
 │   └── revenue.csv
 │
 ├── notebooks/
-│   └── master_analysis.ipynb
+│   └── fintech_analytics_project.ipynb
 │
 ├── app/
 │   └── fraud_shield.py
@@ -53,6 +53,7 @@ fintech-analytics/
 │   ├── dashboard.png
 │   ├── cohort_heatmap.png
 │   └── fraud_analysis.png
+│   └── growth_trend.png
 │
 ├── requirements.txt
 └── README.md
