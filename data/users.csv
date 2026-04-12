@@ -1,0 +1,5001 @@
+user_id,signup_date,country,device_type,acquisition_channel
+1,2022-04-13,Ghana,Web,Organic
+2,2022-12-15,South Africa,iOS,Organic
+3,2022-09-28,Ghana,iOS,Referral
+4,2022-04-17,Nigeria,Android,Referral
+5,2022-03-13,Kenya,Android,Referral
+6,2022-07-08,Nigeria,iOS,Ads
+7,2022-01-21,Ghana,iOS,Ads
+8,2022-04-13,Nigeria,Android,Organic
+9,2022-05-02,Nigeria,Web,Referral
+10,2022-08-03,Nigeria,iOS,Referral
+11,2022-11-27,Kenya,Android,Organic
+12,2022-03-29,Ghana,Android,Organic
+13,2022-04-10,Ghana,Android,Referral
+14,2022-12-26,South Africa,Web,Ads
+15,2022-06-01,Kenya,Android,Organic
+16,2022-05-11,Kenya,Android,Ads
+17,2022-05-30,Kenya,Web,Organic
+18,2022-11-05,Kenya,Web,Referral
+19,2022-09-15,Nigeria,Web,Ads
+20,2022-12-10,South Africa,iOS,Referral
+21,2022-10-21,South Africa,iOS,Ads
+22,2022-07-11,Ghana,iOS,Organic
+23,2022-10-04,Ghana,Android,Organic
+24,2022-06-10,Ghana,Android,Ads
+25,2022-11-10,South Africa,Android,Referral
+26,2022-01-22,South Africa,iOS,Organic
+27,2022-09-10,Kenya,Android,Referral
+28,2022-08-24,South Africa,iOS,Ads
+29,2022-12-11,South Africa,Web,Referral
+30,2022-02-18,Ghana,Android,Ads
+31,2022-02-28,Kenya,Android,Ads
+32,2022-06-19,South Africa,iOS,Ads
+33,2022-07-07,Kenya,Android,Ads
+34,2022-09-28,Kenya,iOS,Organic
+35,2022-07-09,Kenya,Android,Referral
+36,2022-06-24,Kenya,Web,Referral
+37,2022-02-20,Ghana,Web,Referral
+38,2022-12-30,Kenya,Android,Ads
+39,2022-02-24,South Africa,iOS,Organic
+40,2022-09-01,Ghana,Android,Referral
+41,2022-11-16,Ghana,Android,Organic
+42,2022-05-11,Kenya,Web,Ads
+43,2022-11-03,Kenya,Web,Organic
+44,2022-05-15,Ghana,Android,Ads
+45,2022-01-21,Nigeria,Web,Ads
+46,2022-11-25,South Africa,iOS,Ads
+47,2022-06-16,Kenya,Web,Referral
+48,2022-10-01,Nigeria,Android,Referral
+49,2022-03-30,Nigeria,Android,Ads
+50,2022-11-12,Nigeria,Android,Organic
+51,2022-01-14,Ghana,iOS,Ads
+52,2022-08-30,South Africa,iOS,Referral
+53,2022-09-22,Kenya,Android,Ads
+54,2022-12-12,South Africa,Android,Ads
+55,2022-02-22,South Africa,Android,Ads
+56,2022-12-06,Nigeria,Android,Ads
+57,2022-04-02,Kenya,Android,Referral
+58,2022-09-21,Kenya,Web,Ads
+59,2022-02-04,Ghana,iOS,Referral
+60,2022-07-25,Nigeria,iOS,Ads
+61,2022-03-22,Nigeria,iOS,Ads
+62,2022-02-19,Ghana,Android,Organic
+63,2022-12-26,Ghana,Web,Ads
+64,2022-01-02,South Africa,Web,Ads
+65,2022-02-23,South Africa,iOS,Referral
+66,2022-04-16,South Africa,Web,Organic
+67,2022-09-17,Ghana,iOS,Referral
+68,2022-11-06,Kenya,Web,Organic
+69,2022-07-10,Ghana,iOS,Ads
+70,2022-08-06,Ghana,iOS,Organic
+71,2022-02-13,Kenya,Android,Referral
+72,2022-06-11,Ghana,iOS,Organic
+73,2022-07-21,South Africa,Android,Referral
+74,2022-09-27,South Africa,iOS,Organic
+75,2022-12-17,Nigeria,Android,Referral
+76,2022-10-31,South Africa,Web,Ads
+77,2022-09-28,Kenya,Android,Ads
+78,2022-08-03,Ghana,Android,Organic
+79,2022-09-09,Kenya,Web,Referral
+80,2022-07-09,South Africa,Android,Ads
+81,2022-10-23,Kenya,Android,Ads
+82,2022-08-01,Ghana,Android,Ads
+83,2022-07-27,Kenya,Android,Organic
+84,2022-08-25,Kenya,Web,Organic
+85,2022-12-04,Ghana,iOS,Ads
+86,2022-02-22,Ghana,iOS,Ads
+87,2022-10-07,South Africa,Android,Ads
+88,2022-08-05,Ghana,iOS,Organic
+89,2022-09-09,Kenya,iOS,Organic
+90,2022-07-07,Ghana,iOS,Organic
+91,2022-02-10,Ghana,iOS,Organic
+92,2022-06-06,Kenya,iOS,Referral
+93,2022-01-15,Ghana,Android,Ads
+94,2022-10-28,Nigeria,iOS,Organic
+95,2022-03-06,Ghana,Web,Ads
+96,2022-12-11,South Africa,Web,Referral
+97,2022-11-23,South Africa,Web,Organic
+98,2022-01-09,South Africa,Android,Referral
+99,2022-12-10,Ghana,Web,Ads
+100,2022-05-09,Ghana,iOS,Ads
+101,2022-05-16,Ghana,Android,Referral
+102,2022-03-04,South Africa,iOS,Referral
+103,2022-05-19,Nigeria,Android,Organic
+104,2022-03-22,Ghana,iOS,Referral
+105,2022-06-12,Kenya,iOS,Organic
+106,2022-10-16,Ghana,Web,Organic
+107,2022-09-18,South Africa,Android,Referral
+108,2022-08-19,South Africa,iOS,Ads
+109,2022-02-10,Ghana,Web,Organic
+110,2022-01-28,Nigeria,iOS,Organic
+111,2022-05-15,Nigeria,Android,Ads
+112,2022-07-20,Nigeria,Android,Ads
+113,2022-11-24,Kenya,Web,Organic
+114,2022-09-25,Kenya,iOS,Referral
+115,2022-02-02,Nigeria,Web,Organic
+116,2022-02-17,Nigeria,Web,Referral
+117,2022-03-03,South Africa,Web,Referral
+118,2022-08-04,Ghana,Android,Referral
+119,2022-10-20,Kenya,iOS,Organic
+120,2022-04-09,Nigeria,Android,Organic
+121,2022-06-21,Nigeria,Android,Ads
+122,2022-12-26,Kenya,iOS,Organic
+123,2022-08-02,Nigeria,Android,Referral
+124,2022-02-04,Kenya,Web,Ads
+125,2022-08-15,South Africa,Web,Referral
+126,2022-04-11,Kenya,iOS,Ads
+127,2022-05-11,South Africa,iOS,Ads
+128,2022-09-14,Nigeria,Android,Referral
+129,2022-01-05,Kenya,Web,Referral
+130,2022-08-06,Kenya,iOS,Ads
+131,2022-09-12,Nigeria,Android,Organic
+132,2022-12-25,Kenya,iOS,Ads
+133,2022-10-10,Ghana,Web,Organic
+134,2022-07-26,South Africa,Android,Organic
+135,2022-01-15,Kenya,Web,Organic
+136,2022-12-12,South Africa,iOS,Referral
+137,2022-02-11,Ghana,iOS,Referral
+138,2022-06-28,Nigeria,Web,Organic
+139,2022-03-04,South Africa,iOS,Ads
+140,2022-12-18,Nigeria,iOS,Referral
+141,2022-08-19,South Africa,Web,Referral
+142,2022-08-29,Ghana,iOS,Organic
+143,2022-02-21,South Africa,Web,Organic
+144,2022-04-06,Ghana,iOS,Referral
+145,2022-08-10,Ghana,Web,Referral
+146,2022-08-19,Nigeria,iOS,Ads
+147,2022-08-25,South Africa,Android,Referral
+148,2022-05-23,South Africa,Web,Ads
+149,2022-06-20,Nigeria,Web,Referral
+150,2022-01-29,South Africa,iOS,Referral
+151,2022-02-05,Nigeria,Android,Ads
+152,2022-01-13,Kenya,Android,Referral
+153,2022-06-09,South Africa,Web,Ads
+154,2022-11-23,South Africa,Web,Organic
+155,2022-07-06,Nigeria,Android,Organic
+156,2022-08-31,South Africa,Android,Organic
+157,2022-03-27,Ghana,iOS,Referral
+158,2022-10-11,Nigeria,Web,Referral
+159,2022-03-07,South Africa,Android,Ads
+160,2022-06-19,Nigeria,Web,Referral
+161,2022-02-14,Kenya,Android,Ads
+162,2022-03-03,Kenya,iOS,Ads
+163,2022-05-14,Ghana,Android,Ads
+164,2022-10-11,Kenya,iOS,Referral
+165,2022-01-28,Nigeria,Web,Referral
+166,2022-04-18,Nigeria,Web,Referral
+167,2022-02-13,South Africa,Web,Organic
+168,2022-12-06,Kenya,Android,Referral
+169,2022-10-13,South Africa,Web,Organic
+170,2022-11-27,Nigeria,iOS,Referral
+171,2022-05-08,Ghana,Web,Organic
+172,2022-12-14,South Africa,Web,Ads
+173,2022-08-19,South Africa,Web,Referral
+174,2022-07-09,South Africa,Android,Organic
+175,2022-08-13,Kenya,Web,Organic
+176,2022-10-10,Ghana,iOS,Referral
+177,2022-05-01,Nigeria,iOS,Organic
+178,2022-04-26,Ghana,Web,Ads
+179,2022-08-21,Ghana,Android,Referral
+180,2022-09-16,Kenya,Android,Ads
+181,2022-12-25,Kenya,Web,Ads
+182,2022-07-17,Nigeria,Android,Organic
+183,2022-05-17,Ghana,Web,Organic
+184,2022-11-14,Kenya,Android,Referral
+185,2022-06-14,Kenya,iOS,Organic
+186,2022-08-13,South Africa,iOS,Organic
+187,2022-11-03,Ghana,iOS,Organic
+188,2022-08-22,Kenya,Web,Organic
+189,2022-06-21,Ghana,Android,Ads
+190,2022-06-01,South Africa,Android,Organic
+191,2022-11-11,Kenya,iOS,Referral
+192,2022-06-09,Ghana,iOS,Organic
+193,2022-04-06,Nigeria,Web,Ads
+194,2022-08-21,Nigeria,Android,Referral
+195,2022-06-29,South Africa,Web,Referral
+196,2022-04-23,South Africa,iOS,Organic
+197,2022-11-14,South Africa,Web,Organic
+198,2022-02-21,Nigeria,Web,Referral
+199,2022-09-25,Kenya,Web,Referral
+200,2022-10-22,Kenya,iOS,Ads
+201,2022-04-23,Kenya,iOS,Referral
+202,2022-04-11,Ghana,Web,Referral
+203,2022-04-23,South Africa,Web,Organic
+204,2022-03-22,Nigeria,Web,Referral
+205,2022-07-06,Ghana,Web,Referral
+206,2022-04-23,Ghana,Android,Organic
+207,2022-01-02,South Africa,Web,Ads
+208,2022-05-10,South Africa,Android,Organic
+209,2022-08-08,Nigeria,Android,Organic
+210,2022-02-23,South Africa,iOS,Organic
+211,2022-12-09,Nigeria,Web,Ads
+212,2022-08-12,Kenya,Android,Referral
+213,2022-08-13,South Africa,Android,Referral
+214,2022-05-06,Nigeria,Web,Ads
+215,2022-05-10,Ghana,iOS,Organic
+216,2022-02-22,Ghana,Web,Referral
+217,2022-06-21,Kenya,Web,Referral
+218,2022-08-06,Ghana,iOS,Ads
+219,2022-06-09,Nigeria,iOS,Referral
+220,2022-07-17,South Africa,iOS,Organic
+221,2022-09-04,Nigeria,iOS,Ads
+222,2022-11-20,Kenya,Android,Organic
+223,2022-07-22,Kenya,Android,Ads
+224,2022-07-03,Kenya,iOS,Referral
+225,2022-05-03,Kenya,Web,Organic
+226,2022-09-12,Kenya,iOS,Ads
+227,2022-10-21,Kenya,Web,Organic
+228,2022-10-07,Nigeria,iOS,Referral
+229,2022-11-21,Ghana,Web,Referral
+230,2022-04-08,South Africa,Android,Organic
+231,2022-07-17,Ghana,Android,Ads
+232,2022-08-28,Kenya,Web,Ads
+233,2022-05-24,Kenya,iOS,Ads
+234,2022-04-07,Kenya,iOS,Referral
+235,2022-07-20,Ghana,iOS,Ads
+236,2022-05-04,Nigeria,Android,Referral
+237,2022-07-06,Kenya,Android,Ads
+238,2022-11-22,Nigeria,iOS,Ads
+239,2022-12-15,South Africa,Web,Organic
+240,2022-09-16,Nigeria,Android,Referral
+241,2022-05-28,Kenya,Web,Referral
+242,2022-09-09,Ghana,Web,Referral
+243,2022-12-12,South Africa,iOS,Organic
+244,2022-05-27,Nigeria,Android,Referral
+245,2022-05-28,Kenya,Web,Ads
+246,2022-12-18,Ghana,Web,Referral
+247,2022-07-18,Ghana,Web,Referral
+248,2022-11-04,Kenya,iOS,Referral
+249,2022-05-08,Ghana,iOS,Ads
+250,2022-02-08,Ghana,Android,Organic
+251,2022-12-04,Kenya,Web,Ads
+252,2022-12-26,Nigeria,iOS,Organic
+253,2022-05-09,Kenya,Android,Referral
+254,2022-09-24,Kenya,iOS,Ads
+255,2022-05-31,Nigeria,iOS,Ads
+256,2022-10-25,South Africa,iOS,Organic
+257,2022-04-09,South Africa,Web,Referral
+258,2022-09-20,Ghana,iOS,Ads
+259,2022-09-09,Kenya,iOS,Ads
+260,2022-05-24,Nigeria,iOS,Ads
+261,2022-12-12,Nigeria,Web,Organic
+262,2022-04-22,South Africa,iOS,Referral
+263,2022-03-01,Ghana,Web,Ads
+264,2022-01-02,Ghana,Android,Organic
+265,2022-10-31,Nigeria,iOS,Ads
+266,2022-09-11,Ghana,Android,Organic
+267,2022-05-20,South Africa,Web,Referral
+268,2022-02-06,Kenya,Android,Organic
+269,2022-06-09,Nigeria,iOS,Referral
+270,2022-01-09,Kenya,Web,Organic
+271,2022-08-21,Kenya,Android,Organic
+272,2022-04-09,Ghana,iOS,Organic
+273,2022-05-27,Ghana,Web,Organic
+274,2022-10-31,Kenya,Android,Referral
+275,2022-07-27,Nigeria,iOS,Referral
+276,2022-05-11,Nigeria,Web,Referral
+277,2022-06-01,Kenya,Android,Referral
+278,2022-02-23,Nigeria,Web,Ads
+279,2022-04-30,Ghana,iOS,Referral
+280,2022-06-10,South Africa,iOS,Organic
+281,2022-04-26,South Africa,Web,Ads
+282,2022-03-16,Nigeria,iOS,Organic
+283,2022-04-23,Nigeria,Android,Ads
+284,2022-04-14,Ghana,iOS,Ads
+285,2022-12-06,South Africa,Android,Ads
+286,2022-09-11,Nigeria,Android,Ads
+287,2022-08-15,South Africa,iOS,Organic
+288,2022-04-22,Kenya,Web,Referral
+289,2022-04-09,South Africa,Android,Referral
+290,2022-06-02,South Africa,Web,Referral
+291,2022-12-15,South Africa,Web,Ads
+292,2022-12-04,South Africa,iOS,Ads
+293,2022-07-13,South Africa,Android,Organic
+294,2022-11-06,South Africa,iOS,Ads
+295,2022-06-12,Nigeria,iOS,Referral
+296,2022-07-27,South Africa,Android,Ads
+297,2022-06-18,Kenya,iOS,Organic
+298,2022-06-10,Nigeria,iOS,Referral
+299,2022-03-09,Ghana,iOS,Ads
+300,2022-10-16,Ghana,iOS,Referral
+301,2022-10-04,Nigeria,Web,Ads
+302,2022-10-31,Nigeria,Android,Referral
+303,2022-05-15,Nigeria,Android,Referral
+304,2022-07-14,Nigeria,Android,Organic
+305,2022-05-08,South Africa,Web,Organic
+306,2022-02-02,Nigeria,Web,Ads
+307,2022-06-25,South Africa,iOS,Referral
+308,2022-01-22,Ghana,Android,Ads
+309,2022-08-26,Nigeria,iOS,Organic
+310,2022-06-07,South Africa,iOS,Referral
+311,2022-02-07,Kenya,Web,Organic
+312,2022-08-18,Kenya,Android,Referral
+313,2022-12-31,Nigeria,Android,Ads
+314,2022-02-20,Nigeria,Android,Ads
+315,2022-09-21,Nigeria,Android,Referral
+316,2022-10-10,South Africa,Web,Ads
+317,2022-01-27,Kenya,Android,Ads
+318,2022-08-14,Nigeria,Web,Referral
+319,2022-10-04,Ghana,Android,Ads
+320,2022-10-13,Ghana,Web,Referral
+321,2022-04-07,South Africa,iOS,Referral
+322,2022-10-11,South Africa,Android,Organic
+323,2022-11-13,South Africa,Web,Organic
+324,2022-10-31,Kenya,Android,Organic
+325,2022-05-27,Ghana,iOS,Referral
+326,2022-01-04,Ghana,iOS,Organic
+327,2022-02-04,Kenya,Android,Organic
+328,2022-07-11,Ghana,Web,Referral
+329,2022-02-18,South Africa,Android,Referral
+330,2022-01-17,Nigeria,Android,Referral
+331,2022-06-21,Ghana,Web,Ads
+332,2022-08-08,Nigeria,Web,Organic
+333,2022-06-07,South Africa,iOS,Organic
+334,2022-02-15,Nigeria,Android,Referral
+335,2022-01-06,Nigeria,Android,Organic
+336,2022-04-09,South Africa,Android,Ads
+337,2022-08-21,Ghana,Web,Organic
+338,2022-02-06,Ghana,Web,Referral
+339,2022-10-07,Ghana,Android,Organic
+340,2022-12-15,Ghana,Web,Referral
+341,2022-10-29,Kenya,Web,Ads
+342,2022-06-30,South Africa,Android,Referral
+343,2022-04-05,Ghana,Web,Ads
+344,2022-04-09,Kenya,Android,Organic
+345,2022-07-07,Nigeria,Android,Organic
+346,2022-04-26,South Africa,Web,Ads
+347,2022-07-10,Ghana,iOS,Organic
+348,2022-09-10,Nigeria,iOS,Organic
+349,2022-06-10,Nigeria,iOS,Organic
+350,2022-09-13,Nigeria,Android,Organic
+351,2022-11-19,Nigeria,Web,Referral
+352,2022-05-08,Ghana,iOS,Organic
+353,2022-01-18,South Africa,iOS,Organic
+354,2022-10-08,Nigeria,Android,Referral
+355,2022-08-11,Kenya,Web,Organic
+356,2022-02-23,Nigeria,iOS,Ads
+357,2022-02-27,Nigeria,iOS,Organic
+358,2022-11-19,South Africa,iOS,Organic
+359,2022-12-26,South Africa,Web,Organic
+360,2022-06-23,Nigeria,Web,Ads
+361,2022-10-07,South Africa,Android,Referral
+362,2022-04-24,South Africa,Web,Referral
+363,2022-10-15,Ghana,iOS,Organic
+364,2022-12-08,Nigeria,Android,Ads
+365,2022-05-31,South Africa,Android,Organic
+366,2022-05-07,Nigeria,Android,Referral
+367,2022-06-04,Ghana,iOS,Ads
+368,2022-09-30,Kenya,Web,Ads
+369,2022-04-14,Nigeria,Android,Organic
+370,2022-10-26,Kenya,iOS,Ads
+371,2022-09-03,Nigeria,Android,Ads
+372,2022-06-25,Nigeria,iOS,Ads
+373,2022-02-08,South Africa,iOS,Referral
+374,2022-06-19,South Africa,Android,Organic
+375,2022-09-04,Kenya,Web,Referral
+376,2022-01-26,Ghana,Android,Referral
+377,2022-12-21,Ghana,Android,Referral
+378,2022-11-02,Kenya,iOS,Referral
+379,2022-01-13,South Africa,iOS,Ads
+380,2022-11-12,Kenya,Android,Organic
+381,2022-11-09,Nigeria,Web,Referral
+382,2022-02-05,Nigeria,Android,Organic
+383,2022-06-22,Ghana,Android,Organic
+384,2022-01-20,Kenya,iOS,Organic
+385,2022-11-17,Nigeria,iOS,Ads
+386,2022-09-21,Kenya,Web,Referral
+387,2022-05-22,Nigeria,Web,Referral
+388,2022-05-23,Ghana,Web,Organic
+389,2022-04-02,Ghana,Web,Referral
+390,2022-12-20,Nigeria,Web,Organic
+391,2022-11-18,Kenya,Web,Organic
+392,2022-10-15,Nigeria,Web,Ads
+393,2022-08-03,South Africa,Web,Referral
+394,2022-12-08,Nigeria,Android,Referral
+395,2022-02-20,Kenya,iOS,Referral
+396,2022-06-02,South Africa,Android,Referral
+397,2022-07-05,Ghana,Android,Referral
+398,2022-03-04,Ghana,Android,Organic
+399,2022-07-09,Nigeria,iOS,Referral
+400,2022-05-05,Kenya,Web,Organic
+401,2022-05-30,Ghana,iOS,Ads
+402,2022-11-10,Nigeria,Android,Referral
+403,2022-02-27,Kenya,iOS,Organic
+404,2022-12-08,Nigeria,Web,Referral
+405,2022-11-01,Ghana,Android,Ads
+406,2022-06-29,Kenya,iOS,Ads
+407,2022-06-19,South Africa,Android,Referral
+408,2022-11-22,Kenya,iOS,Organic
+409,2022-09-28,Kenya,Android,Organic
+410,2022-02-23,Nigeria,iOS,Ads
+411,2022-04-11,Ghana,Web,Ads
+412,2022-09-21,Nigeria,Android,Ads
+413,2022-02-22,Nigeria,Web,Organic
+414,2022-03-01,Nigeria,Android,Organic
+415,2022-04-18,Kenya,Android,Organic
+416,2022-01-05,Ghana,Web,Referral
+417,2022-04-13,Nigeria,Android,Organic
+418,2022-07-15,Kenya,Android,Organic
+419,2022-09-19,Nigeria,iOS,Referral
+420,2022-12-31,Ghana,Web,Referral
+421,2022-12-16,Kenya,Android,Referral
+422,2022-02-16,Nigeria,iOS,Ads
+423,2022-12-21,Kenya,iOS,Referral
+424,2022-11-07,Kenya,iOS,Referral
+425,2022-11-04,Ghana,iOS,Referral
+426,2022-05-24,South Africa,Android,Ads
+427,2022-09-26,South Africa,Android,Referral
+428,2022-05-04,Nigeria,iOS,Ads
+429,2022-04-16,South Africa,iOS,Referral
+430,2022-06-07,South Africa,Android,Organic
+431,2022-05-27,South Africa,Web,Organic
+432,2022-05-25,Kenya,Web,Organic
+433,2022-04-30,South Africa,iOS,Ads
+434,2022-11-15,South Africa,Web,Organic
+435,2022-10-02,Ghana,iOS,Organic
+436,2022-04-02,Kenya,Web,Ads
+437,2022-02-27,Ghana,Web,Ads
+438,2022-12-12,South Africa,iOS,Referral
+439,2022-08-17,Nigeria,Web,Referral
+440,2022-04-27,Kenya,Android,Organic
+441,2022-11-14,Kenya,Web,Ads
+442,2022-10-06,Ghana,Android,Organic
+443,2022-05-07,South Africa,Web,Referral
+444,2022-05-09,Kenya,Web,Referral
+445,2022-02-27,Nigeria,iOS,Organic
+446,2022-05-02,Kenya,Web,Ads
+447,2022-01-01,South Africa,Android,Organic
+448,2022-08-27,South Africa,Android,Referral
+449,2022-10-17,Kenya,iOS,Organic
+450,2022-04-06,Kenya,Android,Referral
+451,2022-05-06,Kenya,Web,Referral
+452,2022-04-28,South Africa,Android,Organic
+453,2022-02-17,South Africa,Android,Ads
+454,2022-03-30,South Africa,iOS,Ads
+455,2022-08-25,Ghana,Android,Referral
+456,2022-09-29,Nigeria,Android,Organic
+457,2022-07-08,South Africa,Android,Ads
+458,2022-07-11,Kenya,iOS,Organic
+459,2022-03-10,South Africa,Web,Organic
+460,2022-10-05,Nigeria,Android,Ads
+461,2022-12-15,Ghana,Web,Referral
+462,2022-09-04,Kenya,Web,Organic
+463,2022-03-17,South Africa,Web,Organic
+464,2022-06-03,Nigeria,iOS,Ads
+465,2022-05-24,Nigeria,iOS,Organic
+466,2022-03-27,Kenya,Android,Referral
+467,2022-07-04,Ghana,iOS,Referral
+468,2022-10-12,Kenya,iOS,Ads
+469,2022-08-08,South Africa,iOS,Referral
+470,2022-03-10,Nigeria,iOS,Organic
+471,2022-02-16,Ghana,iOS,Ads
+472,2022-04-04,Kenya,Android,Ads
+473,2022-08-26,South Africa,Web,Referral
+474,2022-07-23,Kenya,Web,Ads
+475,2022-08-06,Ghana,iOS,Ads
+476,2022-12-07,South Africa,Web,Organic
+477,2022-02-08,Ghana,iOS,Ads
+478,2022-04-10,Ghana,Android,Ads
+479,2022-10-16,Ghana,Android,Ads
+480,2022-09-11,Nigeria,Web,Organic
+481,2022-08-10,South Africa,Android,Ads
+482,2022-12-23,Kenya,Web,Ads
+483,2022-01-23,Nigeria,iOS,Organic
+484,2022-09-07,South Africa,iOS,Referral
+485,2022-01-10,Ghana,Android,Organic
+486,2022-09-03,Kenya,iOS,Referral
+487,2022-11-21,Kenya,Android,Organic
+488,2022-04-10,Kenya,iOS,Organic
+489,2022-10-17,Nigeria,Android,Ads
+490,2022-06-29,Ghana,Android,Organic
+491,2022-08-11,South Africa,iOS,Referral
+492,2022-09-07,Nigeria,Android,Ads
+493,2022-05-27,Kenya,iOS,Referral
+494,2022-04-06,Kenya,iOS,Ads
+495,2022-09-14,Nigeria,Android,Organic
+496,2022-11-21,South Africa,Android,Ads
+497,2022-01-04,Ghana,Android,Ads
+498,2022-01-16,Kenya,Android,Ads
+499,2022-10-07,Kenya,iOS,Ads
+500,2022-12-02,Ghana,Web,Organic
+501,2022-09-04,Nigeria,iOS,Referral
+502,2022-09-15,Kenya,Web,Referral
+503,2022-06-09,Nigeria,Web,Organic
+504,2022-12-06,Ghana,iOS,Ads
+505,2022-06-01,Ghana,Web,Organic
+506,2022-06-27,Kenya,Android,Referral
+507,2022-06-12,Kenya,Web,Referral
+508,2022-02-02,South Africa,iOS,Organic
+509,2022-06-28,Ghana,Android,Organic
+510,2022-04-11,Ghana,Web,Organic
+511,2022-09-25,Ghana,Web,Organic
+512,2022-11-19,Ghana,Web,Organic
+513,2022-03-06,Kenya,Web,Organic
+514,2022-06-17,Ghana,iOS,Organic
+515,2022-11-26,South Africa,iOS,Ads
+516,2022-02-12,Nigeria,iOS,Referral
+517,2022-02-13,Nigeria,Android,Ads
+518,2022-10-12,South Africa,Android,Organic
+519,2022-01-12,Nigeria,iOS,Organic
+520,2022-04-05,South Africa,Android,Organic
+521,2022-10-29,South Africa,iOS,Referral
+522,2022-09-10,Kenya,iOS,Ads
+523,2022-08-30,South Africa,iOS,Organic
+524,2022-02-04,South Africa,Android,Ads
+525,2022-08-03,Ghana,Android,Organic
+526,2022-12-03,Ghana,Web,Referral
+527,2022-03-31,Ghana,Android,Ads
+528,2022-09-21,South Africa,Android,Organic
+529,2022-04-03,South Africa,Android,Ads
+530,2022-03-31,Nigeria,Web,Ads
+531,2022-04-25,Nigeria,Android,Organic
+532,2022-04-15,South Africa,iOS,Organic
+533,2022-07-15,Kenya,Android,Organic
+534,2022-11-10,Nigeria,iOS,Ads
+535,2022-04-24,Ghana,Web,Organic
+536,2022-03-16,Kenya,Web,Organic
+537,2022-08-05,Kenya,Web,Referral
+538,2022-10-04,South Africa,iOS,Organic
+539,2022-09-06,Ghana,Web,Referral
+540,2022-06-13,Ghana,Android,Ads
+541,2022-12-23,Kenya,Android,Organic
+542,2022-07-11,Kenya,Web,Organic
+543,2022-08-15,Nigeria,Web,Organic
+544,2022-06-26,Nigeria,iOS,Organic
+545,2022-04-09,Kenya,Web,Ads
+546,2022-02-05,Ghana,Web,Ads
+547,2022-04-06,Ghana,Web,Ads
+548,2022-06-01,Ghana,Android,Ads
+549,2022-05-31,South Africa,Web,Organic
+550,2022-07-09,Nigeria,Web,Ads
+551,2022-08-12,Nigeria,Android,Referral
+552,2022-02-06,Ghana,Web,Ads
+553,2022-09-25,South Africa,iOS,Referral
+554,2022-07-02,Nigeria,iOS,Referral
+555,2022-01-13,Kenya,Android,Organic
+556,2022-10-06,South Africa,iOS,Organic
+557,2022-08-05,Kenya,iOS,Referral
+558,2022-12-21,Kenya,Android,Organic
+559,2022-12-27,Kenya,iOS,Referral
+560,2022-10-13,Nigeria,Web,Organic
+561,2022-09-30,South Africa,iOS,Organic
+562,2022-03-03,Ghana,Android,Ads
+563,2022-03-25,South Africa,iOS,Referral
+564,2022-08-05,Kenya,Web,Ads
+565,2022-12-08,Kenya,Web,Ads
+566,2022-07-06,South Africa,Web,Organic
+567,2022-01-19,Ghana,iOS,Ads
+568,2022-06-26,Nigeria,Android,Ads
+569,2022-04-10,Ghana,Android,Referral
+570,2022-08-21,Kenya,iOS,Organic
+571,2022-03-17,Ghana,Web,Organic
+572,2022-09-22,Kenya,Android,Ads
+573,2022-10-11,South Africa,Android,Organic
+574,2022-07-25,Kenya,Web,Organic
+575,2022-08-11,South Africa,Android,Ads
+576,2022-02-21,Kenya,Android,Ads
+577,2022-12-05,South Africa,Web,Organic
+578,2022-05-24,Nigeria,Android,Organic
+579,2022-03-10,Kenya,Web,Ads
+580,2022-04-09,South Africa,Web,Ads
+581,2022-01-25,Nigeria,Android,Referral
+582,2022-02-22,South Africa,Web,Ads
+583,2022-05-31,Kenya,Web,Ads
+584,2022-05-24,Ghana,Android,Ads
+585,2022-02-26,Kenya,Web,Referral
+586,2022-02-08,Kenya,iOS,Organic
+587,2022-04-19,South Africa,Web,Organic
+588,2022-06-30,Ghana,Android,Referral
+589,2022-02-11,Kenya,Android,Referral
+590,2022-07-05,Ghana,Android,Referral
+591,2022-08-11,Ghana,Web,Organic
+592,2022-05-02,Kenya,Web,Referral
+593,2022-05-13,Nigeria,iOS,Ads
+594,2022-06-12,Ghana,Web,Organic
+595,2022-08-03,Nigeria,Android,Ads
+596,2022-08-09,South Africa,Android,Referral
+597,2022-08-23,South Africa,Web,Ads
+598,2022-11-27,Ghana,Android,Ads
+599,2022-05-26,South Africa,iOS,Organic
+600,2022-08-27,South Africa,iOS,Organic
+601,2022-03-17,South Africa,iOS,Referral
+602,2022-01-09,South Africa,Web,Ads
+603,2022-03-15,South Africa,Web,Organic
+604,2022-09-10,South Africa,iOS,Referral
+605,2022-08-18,South Africa,Android,Referral
+606,2022-01-07,South Africa,Web,Organic
+607,2022-06-23,Nigeria,iOS,Referral
+608,2022-05-21,Ghana,Web,Referral
+609,2022-06-17,Ghana,iOS,Referral
+610,2022-06-19,Kenya,Android,Organic
+611,2022-10-10,Nigeria,Web,Referral
+612,2022-05-02,Nigeria,Android,Ads
+613,2022-07-13,Ghana,iOS,Organic
+614,2022-01-05,Kenya,Android,Ads
+615,2022-01-29,Kenya,Android,Referral
+616,2022-06-14,Kenya,iOS,Organic
+617,2022-12-05,Kenya,Web,Referral
+618,2022-05-16,South Africa,iOS,Organic
+619,2022-12-31,Kenya,Android,Organic
+620,2022-11-17,South Africa,Web,Organic
+621,2022-12-08,Ghana,iOS,Ads
+622,2022-05-25,Kenya,Android,Organic
+623,2022-11-23,South Africa,iOS,Ads
+624,2022-08-05,Kenya,Web,Organic
+625,2022-10-28,Ghana,Android,Ads
+626,2022-05-12,Kenya,iOS,Organic
+627,2022-10-19,Kenya,Web,Referral
+628,2022-03-11,Nigeria,iOS,Ads
+629,2022-09-09,Nigeria,Android,Ads
+630,2022-10-02,Nigeria,iOS,Referral
+631,2022-12-30,Nigeria,Android,Organic
+632,2022-07-01,Ghana,Web,Referral
+633,2022-06-16,Kenya,Web,Referral
+634,2022-04-01,Kenya,Android,Ads
+635,2022-07-21,Nigeria,iOS,Organic
+636,2022-12-12,South Africa,Android,Ads
+637,2022-01-19,Kenya,Android,Referral
+638,2022-02-08,Nigeria,iOS,Referral
+639,2022-05-06,Nigeria,Android,Organic
+640,2022-06-22,Kenya,iOS,Referral
+641,2022-05-21,South Africa,Web,Ads
+642,2022-08-30,South Africa,Android,Ads
+643,2022-08-08,Ghana,Web,Referral
+644,2022-05-06,South Africa,Android,Organic
+645,2022-02-27,Ghana,iOS,Ads
+646,2022-05-28,Kenya,iOS,Ads
+647,2022-11-13,Nigeria,iOS,Referral
+648,2022-12-27,Kenya,Web,Organic
+649,2022-01-01,Ghana,Android,Referral
+650,2022-12-14,South Africa,Android,Organic
+651,2022-07-09,Kenya,Android,Ads
+652,2022-07-10,Nigeria,Web,Ads
+653,2022-11-08,Kenya,iOS,Ads
+654,2022-04-27,Kenya,iOS,Organic
+655,2022-05-14,Ghana,Web,Referral
+656,2022-02-27,Ghana,Android,Organic
+657,2022-02-13,South Africa,iOS,Organic
+658,2022-06-22,South Africa,Android,Referral
+659,2022-06-09,South Africa,Web,Ads
+660,2022-06-22,Kenya,Web,Referral
+661,2022-11-13,South Africa,iOS,Ads
+662,2022-10-30,Kenya,Android,Referral
+663,2022-05-29,South Africa,Android,Referral
+664,2022-03-21,South Africa,Web,Referral
+665,2022-08-01,Nigeria,iOS,Ads
+666,2022-07-22,Ghana,iOS,Referral
+667,2022-09-09,Kenya,Android,Ads
+668,2022-08-17,Kenya,iOS,Organic
+669,2022-06-13,Ghana,Web,Ads
+670,2022-08-15,Kenya,iOS,Referral
+671,2022-05-27,Kenya,Web,Organic
+672,2022-01-20,Ghana,Web,Referral
+673,2022-02-16,Nigeria,Android,Ads
+674,2022-08-21,Kenya,iOS,Organic
+675,2022-11-01,Nigeria,Web,Ads
+676,2022-01-14,South Africa,iOS,Referral
+677,2022-05-23,Nigeria,Web,Ads
+678,2022-01-01,South Africa,iOS,Organic
+679,2022-02-23,South Africa,Web,Organic
+680,2022-09-16,South Africa,Web,Ads
+681,2022-05-24,South Africa,Web,Ads
+682,2022-01-12,Nigeria,iOS,Organic
+683,2022-11-26,Ghana,iOS,Referral
+684,2022-08-12,South Africa,Web,Organic
+685,2022-09-29,Kenya,Web,Organic
+686,2022-12-24,Kenya,Android,Ads
+687,2022-06-05,Ghana,Web,Referral
+688,2022-01-08,Nigeria,Android,Ads
+689,2022-05-02,Ghana,iOS,Ads
+690,2022-12-14,South Africa,Web,Organic
+691,2022-06-13,South Africa,Web,Organic
+692,2022-03-31,Ghana,Android,Referral
+693,2022-05-16,Kenya,iOS,Referral
+694,2022-07-05,Nigeria,Web,Organic
+695,2022-11-12,South Africa,iOS,Referral
+696,2022-06-27,South Africa,Web,Organic
+697,2022-01-28,Nigeria,Web,Referral
+698,2022-08-08,South Africa,Android,Organic
+699,2022-12-23,Kenya,Web,Organic
+700,2022-02-10,South Africa,iOS,Referral
+701,2022-08-16,Nigeria,Web,Organic
+702,2022-07-11,Kenya,iOS,Organic
+703,2022-05-25,Nigeria,iOS,Organic
+704,2022-07-20,South Africa,Android,Organic
+705,2022-07-31,Ghana,Android,Ads
+706,2022-08-08,Kenya,iOS,Ads
+707,2022-08-28,Ghana,iOS,Ads
+708,2022-02-15,South Africa,iOS,Referral
+709,2022-02-04,Nigeria,Web,Organic
+710,2022-09-10,South Africa,Web,Referral
+711,2022-03-23,Kenya,iOS,Referral
+712,2022-09-13,Nigeria,Android,Organic
+713,2022-07-16,South Africa,Android,Referral
+714,2022-10-30,South Africa,Web,Organic
+715,2022-01-10,Ghana,iOS,Referral
+716,2022-11-08,Kenya,Web,Referral
+717,2022-10-13,Kenya,iOS,Organic
+718,2022-08-30,Kenya,iOS,Referral
+719,2022-09-08,South Africa,Web,Organic
+720,2022-12-31,Kenya,Web,Ads
+721,2022-01-05,Ghana,iOS,Referral
+722,2022-04-29,South Africa,Web,Ads
+723,2022-10-16,Nigeria,iOS,Referral
+724,2022-03-06,South Africa,iOS,Ads
+725,2022-05-26,Kenya,Web,Ads
+726,2022-08-12,South Africa,Web,Referral
+727,2022-08-27,South Africa,Web,Organic
+728,2022-06-26,South Africa,Web,Referral
+729,2022-09-24,Kenya,Web,Ads
+730,2022-12-07,Kenya,iOS,Ads
+731,2022-10-09,Kenya,iOS,Referral
+732,2022-03-04,Nigeria,Web,Ads
+733,2022-08-05,South Africa,Web,Ads
+734,2022-12-08,Nigeria,Android,Ads
+735,2022-11-11,Ghana,iOS,Referral
+736,2022-10-10,Nigeria,iOS,Organic
+737,2022-06-26,South Africa,Android,Ads
+738,2022-04-08,Nigeria,Android,Ads
+739,2022-04-15,Nigeria,Web,Ads
+740,2022-04-09,Nigeria,Web,Organic
+741,2022-11-07,Kenya,iOS,Referral
+742,2022-01-06,South Africa,Android,Ads
+743,2022-07-16,Nigeria,Web,Organic
+744,2022-12-17,South Africa,iOS,Ads
+745,2022-05-13,Kenya,Web,Ads
+746,2022-12-24,Ghana,iOS,Organic
+747,2022-09-16,South Africa,Web,Organic
+748,2022-01-23,Nigeria,Web,Organic
+749,2022-02-22,Nigeria,Android,Ads
+750,2022-06-14,South Africa,Android,Organic
+751,2022-07-21,Kenya,Web,Referral
+752,2022-03-24,Kenya,Web,Ads
+753,2022-05-25,South Africa,Web,Organic
+754,2022-03-26,Kenya,Android,Ads
+755,2022-03-19,Nigeria,Android,Organic
+756,2022-01-01,Kenya,Android,Organic
+757,2022-02-20,Kenya,Android,Ads
+758,2022-06-22,South Africa,Web,Ads
+759,2022-07-24,Kenya,Web,Ads
+760,2022-09-17,South Africa,iOS,Referral
+761,2022-10-15,Kenya,iOS,Referral
+762,2022-02-03,Kenya,Web,Referral
+763,2022-12-14,Kenya,iOS,Ads
+764,2022-04-05,Ghana,Android,Ads
+765,2022-03-13,Nigeria,iOS,Ads
+766,2022-02-08,South Africa,Web,Referral
+767,2022-06-03,South Africa,Web,Referral
+768,2022-09-07,Kenya,iOS,Organic
+769,2022-06-11,South Africa,Web,Ads
+770,2022-04-28,Kenya,Android,Organic
+771,2022-09-16,South Africa,Android,Organic
+772,2022-11-02,South Africa,Android,Referral
+773,2022-09-25,South Africa,iOS,Ads
+774,2022-02-23,South Africa,Web,Organic
+775,2022-08-24,Ghana,Android,Ads
+776,2022-08-10,Ghana,Android,Ads
+777,2022-09-08,Kenya,Android,Ads
+778,2022-11-09,Nigeria,iOS,Referral
+779,2022-04-22,Ghana,Android,Referral
+780,2022-09-12,Nigeria,Web,Referral
+781,2022-10-30,Nigeria,iOS,Organic
+782,2022-07-26,Ghana,iOS,Referral
+783,2022-08-17,Ghana,Web,Referral
+784,2022-12-07,Nigeria,iOS,Organic
+785,2022-03-07,South Africa,Android,Organic
+786,2022-03-16,Kenya,iOS,Referral
+787,2022-04-13,South Africa,Android,Referral
+788,2022-07-11,South Africa,Android,Ads
+789,2022-09-09,South Africa,iOS,Organic
+790,2022-08-14,South Africa,Web,Ads
+791,2022-10-21,Nigeria,Web,Referral
+792,2022-11-02,Kenya,Web,Organic
+793,2022-04-08,South Africa,iOS,Organic
+794,2022-12-04,Ghana,iOS,Organic
+795,2022-10-13,South Africa,Web,Ads
+796,2022-12-01,Nigeria,Android,Organic
+797,2022-12-13,South Africa,iOS,Referral
+798,2022-11-04,Nigeria,Android,Organic
+799,2022-09-06,Nigeria,Android,Referral
+800,2022-06-15,South Africa,iOS,Organic
+801,2022-12-01,Nigeria,iOS,Organic
+802,2022-01-30,Nigeria,Android,Organic
+803,2022-09-04,Ghana,Web,Ads
+804,2022-04-16,South Africa,iOS,Ads
+805,2022-02-20,Kenya,Android,Ads
+806,2022-03-22,Ghana,Android,Ads
+807,2022-05-13,Ghana,Web,Referral
+808,2022-10-12,Ghana,Web,Referral
+809,2022-05-18,Ghana,Web,Ads
+810,2022-07-03,Ghana,Web,Ads
+811,2022-11-26,South Africa,iOS,Ads
+812,2022-09-30,Nigeria,iOS,Referral
+813,2022-12-06,Ghana,iOS,Referral
+814,2022-03-10,Kenya,Web,Ads
+815,2022-02-03,Kenya,Android,Organic
+816,2022-09-19,Ghana,Web,Ads
+817,2022-02-22,Ghana,Android,Referral
+818,2022-07-24,Ghana,iOS,Ads
+819,2022-05-06,Ghana,Android,Ads
+820,2022-08-23,Ghana,iOS,Ads
+821,2022-02-12,South Africa,iOS,Ads
+822,2022-08-28,Kenya,Android,Referral
+823,2022-04-21,Ghana,Android,Ads
+824,2022-09-06,South Africa,iOS,Referral
+825,2022-05-31,Kenya,Android,Referral
+826,2022-07-02,Kenya,iOS,Organic
+827,2022-12-02,Nigeria,Web,Organic
+828,2022-04-05,Ghana,Web,Ads
+829,2022-01-08,Nigeria,iOS,Ads
+830,2022-12-26,Nigeria,Web,Referral
+831,2022-07-03,Ghana,Web,Referral
+832,2022-10-08,Ghana,Web,Ads
+833,2022-07-14,Kenya,iOS,Referral
+834,2022-12-18,Nigeria,iOS,Ads
+835,2022-07-14,South Africa,Android,Ads
+836,2022-06-04,Kenya,Android,Ads
+837,2022-04-03,South Africa,Web,Referral
+838,2022-06-09,South Africa,Web,Referral
+839,2022-03-02,Ghana,Web,Ads
+840,2022-05-02,Ghana,Web,Referral
+841,2022-02-20,South Africa,Android,Organic
+842,2022-10-04,Nigeria,Web,Ads
+843,2022-01-05,South Africa,Android,Organic
+844,2022-04-02,South Africa,iOS,Organic
+845,2022-06-19,Kenya,iOS,Referral
+846,2022-11-13,South Africa,Web,Organic
+847,2022-01-22,South Africa,Web,Ads
+848,2022-11-22,Ghana,Android,Ads
+849,2022-01-01,Nigeria,Web,Ads
+850,2022-05-13,Nigeria,iOS,Referral
+851,2022-08-21,Kenya,iOS,Ads
+852,2022-01-12,Kenya,Web,Organic
+853,2022-12-12,Nigeria,Android,Referral
+854,2022-02-15,Kenya,Android,Ads
+855,2022-02-03,Ghana,Android,Referral
+856,2022-03-19,South Africa,Android,Referral
+857,2022-08-06,Kenya,Web,Referral
+858,2022-10-28,Nigeria,Web,Organic
+859,2022-03-14,Ghana,Android,Referral
+860,2022-10-09,South Africa,Android,Ads
+861,2022-09-06,Ghana,Web,Organic
+862,2022-02-16,South Africa,Web,Referral
+863,2022-05-01,Kenya,Web,Ads
+864,2022-08-02,Ghana,iOS,Ads
+865,2022-08-27,Ghana,iOS,Organic
+866,2022-02-25,Kenya,iOS,Ads
+867,2022-12-16,South Africa,Android,Referral
+868,2022-04-17,Nigeria,Android,Ads
+869,2022-11-15,Kenya,iOS,Ads
+870,2022-02-17,Kenya,iOS,Organic
+871,2022-03-02,Ghana,Android,Organic
+872,2022-12-03,Kenya,Android,Referral
+873,2022-01-26,Kenya,Android,Organic
+874,2022-10-19,Kenya,Android,Ads
+875,2022-09-14,Nigeria,Web,Organic
+876,2022-01-08,Kenya,Web,Organic
+877,2022-04-23,Ghana,iOS,Organic
+878,2022-12-21,Kenya,Android,Referral
+879,2022-09-10,Nigeria,Web,Organic
+880,2022-06-29,Nigeria,iOS,Ads
+881,2022-07-26,Nigeria,iOS,Organic
+882,2022-10-30,South Africa,Web,Organic
+883,2022-05-07,Nigeria,iOS,Referral
+884,2022-02-25,Nigeria,Android,Referral
+885,2022-08-02,South Africa,Android,Referral
+886,2022-01-14,Nigeria,Web,Referral
+887,2022-01-28,Nigeria,Android,Organic
+888,2022-03-19,South Africa,Web,Ads
+889,2022-08-04,Nigeria,iOS,Organic
+890,2022-12-31,Nigeria,Web,Referral
+891,2022-06-03,Nigeria,iOS,Referral
+892,2022-01-14,Kenya,Web,Referral
+893,2022-07-06,Ghana,Web,Referral
+894,2022-11-08,Nigeria,iOS,Ads
+895,2022-01-07,Ghana,Android,Ads
+896,2022-01-03,Kenya,Android,Referral
+897,2022-04-21,South Africa,Web,Organic
+898,2022-08-26,South Africa,Android,Referral
+899,2022-12-29,South Africa,Android,Referral
+900,2022-08-27,Kenya,Android,Organic
+901,2022-10-01,Ghana,Web,Organic
+902,2022-10-21,Ghana,iOS,Organic
+903,2022-08-15,Kenya,Android,Referral
+904,2022-01-15,Nigeria,Android,Organic
+905,2022-07-11,Nigeria,iOS,Referral
+906,2022-04-29,South Africa,Android,Ads
+907,2022-01-28,South Africa,Web,Organic
+908,2022-07-21,South Africa,Android,Ads
+909,2022-02-08,Kenya,Web,Organic
+910,2022-09-30,South Africa,iOS,Ads
+911,2022-08-19,Nigeria,Web,Referral
+912,2022-03-27,Kenya,iOS,Ads
+913,2022-05-06,South Africa,Web,Referral
+914,2022-10-27,South Africa,Web,Ads
+915,2022-01-25,South Africa,Android,Ads
+916,2022-05-25,Kenya,Android,Referral
+917,2022-01-13,South Africa,Web,Referral
+918,2022-07-31,Nigeria,Android,Referral
+919,2022-01-25,Kenya,Android,Organic
+920,2022-03-09,Ghana,Web,Organic
+921,2022-03-08,Kenya,Web,Referral
+922,2022-08-21,Kenya,Android,Referral
+923,2022-04-19,Kenya,iOS,Referral
+924,2022-05-26,Ghana,Android,Organic
+925,2022-04-21,Ghana,Web,Organic
+926,2022-08-16,Nigeria,Web,Ads
+927,2022-04-21,Nigeria,Android,Referral
+928,2022-02-03,Ghana,Web,Ads
+929,2022-04-21,Kenya,iOS,Organic
+930,2022-09-21,Nigeria,Web,Ads
+931,2022-08-24,South Africa,Android,Organic
+932,2022-03-24,South Africa,iOS,Ads
+933,2022-02-11,Nigeria,Android,Ads
+934,2022-04-11,Kenya,Android,Ads
+935,2022-01-06,Nigeria,iOS,Ads
+936,2022-06-29,Kenya,Android,Organic
+937,2022-10-09,Kenya,Web,Organic
+938,2022-11-16,Nigeria,Android,Referral
+939,2022-08-14,Nigeria,Web,Organic
+940,2022-11-11,Ghana,Android,Referral
+941,2022-12-31,Ghana,iOS,Referral
+942,2022-08-17,Ghana,Web,Organic
+943,2022-10-16,South Africa,Android,Referral
+944,2022-05-30,Ghana,Android,Organic
+945,2022-10-04,Ghana,Android,Referral
+946,2022-07-17,Kenya,iOS,Organic
+947,2022-03-11,Ghana,Android,Referral
+948,2022-04-22,Nigeria,Web,Referral
+949,2022-01-04,South Africa,iOS,Organic
+950,2022-12-16,Kenya,Android,Organic
+951,2022-11-27,Ghana,iOS,Referral
+952,2022-11-14,South Africa,Android,Organic
+953,2022-12-16,Nigeria,iOS,Ads
+954,2022-04-05,Ghana,Android,Referral
+955,2022-06-01,Kenya,Android,Referral
+956,2022-11-07,Ghana,Android,Ads
+957,2022-05-17,Kenya,Web,Ads
+958,2022-09-04,Nigeria,iOS,Organic
+959,2022-08-31,Ghana,iOS,Organic
+960,2022-01-31,Nigeria,Android,Ads
+961,2022-02-09,Nigeria,Web,Ads
+962,2022-08-17,Kenya,Android,Ads
+963,2022-02-05,South Africa,iOS,Organic
+964,2022-08-11,Kenya,Web,Ads
+965,2022-01-06,Nigeria,Web,Referral
+966,2022-11-18,South Africa,Android,Referral
+967,2022-08-08,Ghana,Android,Referral
+968,2022-03-16,South Africa,iOS,Referral
+969,2022-01-04,Kenya,iOS,Organic
+970,2022-12-01,South Africa,Android,Organic
+971,2022-05-14,South Africa,Android,Organic
+972,2022-04-28,South Africa,Android,Ads
+973,2022-04-04,Ghana,iOS,Organic
+974,2022-03-03,Kenya,iOS,Ads
+975,2022-07-13,Kenya,Web,Referral
+976,2022-12-01,Ghana,iOS,Referral
+977,2022-07-22,Nigeria,Web,Organic
+978,2022-01-26,South Africa,Web,Referral
+979,2022-06-22,Kenya,iOS,Referral
+980,2022-10-27,Kenya,Web,Referral
+981,2022-05-13,South Africa,Android,Organic
+982,2022-11-22,South Africa,Web,Referral
+983,2022-04-28,South Africa,Web,Ads
+984,2022-11-20,South Africa,Web,Ads
+985,2022-10-02,Kenya,iOS,Organic
+986,2022-07-31,Kenya,Android,Organic
+987,2022-08-13,Kenya,iOS,Ads
+988,2022-01-20,Nigeria,iOS,Organic
+989,2022-04-23,Kenya,Web,Referral
+990,2022-05-20,Kenya,Android,Organic
+991,2022-02-16,Kenya,iOS,Ads
+992,2022-01-01,South Africa,iOS,Organic
+993,2022-03-31,Ghana,iOS,Ads
+994,2022-05-22,South Africa,Web,Organic
+995,2022-11-16,South Africa,iOS,Referral
+996,2022-02-07,South Africa,iOS,Organic
+997,2022-10-20,South Africa,Android,Referral
+998,2022-05-19,Kenya,Android,Ads
+999,2022-12-22,Kenya,Android,Referral
+1000,2022-11-29,South Africa,Android,Ads
+1001,2022-09-16,Nigeria,Web,Ads
+1002,2022-06-10,Nigeria,iOS,Referral
+1003,2022-06-27,Nigeria,Android,Referral
+1004,2022-01-10,Ghana,Web,Referral
+1005,2022-09-18,Kenya,iOS,Ads
+1006,2022-05-18,South Africa,Web,Referral
+1007,2022-06-21,Kenya,Android,Referral
+1008,2022-01-13,Nigeria,Web,Referral
+1009,2022-06-17,Nigeria,iOS,Ads
+1010,2022-05-10,Ghana,Web,Referral
+1011,2022-03-25,Ghana,iOS,Referral
+1012,2022-11-17,South Africa,iOS,Organic
+1013,2022-11-15,Nigeria,Android,Organic
+1014,2022-04-11,Ghana,iOS,Organic
+1015,2022-11-25,Ghana,iOS,Organic
+1016,2022-09-30,Nigeria,iOS,Ads
+1017,2022-09-22,Nigeria,Android,Organic
+1018,2022-02-07,Nigeria,Android,Organic
+1019,2022-04-04,Ghana,iOS,Referral
+1020,2022-04-05,Ghana,Web,Ads
+1021,2022-11-01,Ghana,Android,Referral
+1022,2022-03-10,Kenya,Web,Referral
+1023,2022-11-14,Kenya,iOS,Referral
+1024,2022-08-24,Kenya,Android,Referral
+1025,2022-11-30,Ghana,Web,Referral
+1026,2022-05-17,Kenya,Web,Referral
+1027,2022-03-17,Nigeria,Web,Organic
+1028,2022-02-04,Kenya,iOS,Referral
+1029,2022-01-01,Kenya,Web,Referral
+1030,2022-10-23,Nigeria,Android,Ads
+1031,2022-11-16,South Africa,Web,Referral
+1032,2022-03-01,Kenya,Android,Ads
+1033,2022-11-16,South Africa,iOS,Ads
+1034,2022-12-15,Kenya,iOS,Ads
+1035,2022-11-24,Ghana,iOS,Referral
+1036,2022-09-24,Ghana,Android,Ads
+1037,2022-12-27,Kenya,iOS,Referral
+1038,2022-08-17,South Africa,Android,Ads
+1039,2022-09-27,Nigeria,Android,Organic
+1040,2022-11-12,Kenya,Web,Organic
+1041,2022-10-13,South Africa,iOS,Organic
+1042,2022-10-18,Ghana,Android,Referral
+1043,2022-08-01,Ghana,Android,Referral
+1044,2022-06-14,Nigeria,Web,Referral
+1045,2022-01-05,Nigeria,Android,Organic
+1046,2022-12-05,South Africa,iOS,Organic
+1047,2022-03-19,Ghana,iOS,Ads
+1048,2022-03-03,Nigeria,Web,Ads
+1049,2022-05-12,Ghana,Android,Ads
+1050,2022-03-30,Ghana,Web,Ads
+1051,2022-08-25,Kenya,iOS,Organic
+1052,2022-02-11,Kenya,Web,Ads
+1053,2022-03-30,Nigeria,Android,Organic
+1054,2022-10-23,South Africa,Android,Ads
+1055,2022-11-24,Kenya,Web,Organic
+1056,2022-10-22,South Africa,iOS,Ads
+1057,2022-04-14,Ghana,iOS,Referral
+1058,2022-01-14,Nigeria,Android,Organic
+1059,2022-10-15,Nigeria,iOS,Ads
+1060,2022-06-28,Kenya,iOS,Referral
+1061,2022-05-05,Ghana,Web,Ads
+1062,2022-12-19,Nigeria,Web,Referral
+1063,2022-01-23,Nigeria,Web,Referral
+1064,2022-03-04,Kenya,Android,Referral
+1065,2022-05-23,South Africa,iOS,Referral
+1066,2022-06-02,Kenya,iOS,Organic
+1067,2022-05-25,Nigeria,iOS,Organic
+1068,2022-08-13,Ghana,Web,Organic
+1069,2022-11-05,South Africa,Android,Organic
+1070,2022-04-14,Kenya,Android,Referral
+1071,2022-04-14,South Africa,Android,Referral
+1072,2022-02-08,Nigeria,iOS,Ads
+1073,2022-07-17,South Africa,iOS,Referral
+1074,2022-05-14,Kenya,Web,Referral
+1075,2022-03-08,Ghana,Web,Referral
+1076,2022-06-28,Ghana,Web,Organic
+1077,2022-02-11,Ghana,iOS,Organic
+1078,2022-01-15,Ghana,iOS,Referral
+1079,2022-04-21,Nigeria,Android,Ads
+1080,2022-06-06,Kenya,Android,Organic
+1081,2022-10-16,South Africa,Android,Ads
+1082,2022-08-19,Kenya,iOS,Ads
+1083,2022-06-06,Kenya,Android,Ads
+1084,2022-02-07,South Africa,iOS,Organic
+1085,2022-04-07,Ghana,Android,Referral
+1086,2022-10-16,Ghana,Android,Ads
+1087,2022-09-11,Nigeria,Web,Organic
+1088,2022-07-15,Ghana,iOS,Ads
+1089,2022-03-27,Nigeria,iOS,Referral
+1090,2022-11-18,Nigeria,iOS,Referral
+1091,2022-01-10,Ghana,Android,Ads
+1092,2022-01-05,Kenya,iOS,Organic
+1093,2022-05-03,Ghana,Android,Ads
+1094,2022-11-26,Kenya,Web,Referral
+1095,2022-12-19,South Africa,iOS,Ads
+1096,2022-04-28,Kenya,iOS,Organic
+1097,2022-10-21,Nigeria,Android,Ads
+1098,2022-06-08,Nigeria,iOS,Organic
+1099,2022-10-30,South Africa,iOS,Organic
+1100,2022-08-16,Nigeria,Web,Ads
+1101,2022-12-31,South Africa,iOS,Ads
+1102,2022-08-04,Ghana,Web,Ads
+1103,2022-07-03,Ghana,Web,Referral
+1104,2022-01-15,Nigeria,iOS,Organic
+1105,2022-06-06,Ghana,Web,Organic
+1106,2022-05-16,South Africa,Android,Referral
+1107,2022-09-18,Nigeria,Android,Ads
+1108,2022-06-06,South Africa,Android,Ads
+1109,2022-02-16,Ghana,Android,Referral
+1110,2022-11-20,Ghana,iOS,Referral
+1111,2022-11-28,Ghana,Android,Ads
+1112,2022-06-22,Nigeria,iOS,Referral
+1113,2022-05-10,Ghana,Web,Referral
+1114,2022-04-05,Kenya,Web,Ads
+1115,2022-04-25,Kenya,iOS,Organic
+1116,2022-08-31,Kenya,Web,Organic
+1117,2022-10-19,Kenya,Android,Ads
+1118,2022-10-09,Nigeria,Android,Ads
+1119,2022-10-26,Kenya,Web,Referral
+1120,2022-10-10,Kenya,Web,Referral
+1121,2022-03-10,Ghana,Web,Organic
+1122,2022-05-28,Nigeria,Web,Ads
+1123,2022-01-11,Ghana,Web,Referral
+1124,2022-09-11,Ghana,iOS,Ads
+1125,2022-11-26,Ghana,iOS,Referral
+1126,2022-12-26,South Africa,Android,Ads
+1127,2022-02-07,Nigeria,iOS,Referral
+1128,2022-05-14,Kenya,iOS,Organic
+1129,2022-07-19,South Africa,Android,Ads
+1130,2022-01-23,Nigeria,iOS,Referral
+1131,2022-10-30,Kenya,Web,Ads
+1132,2022-12-12,South Africa,Android,Organic
+1133,2022-10-29,Ghana,Web,Referral
+1134,2022-12-29,Ghana,Android,Referral
+1135,2022-08-06,Kenya,Web,Ads
+1136,2022-05-21,South Africa,Web,Organic
+1137,2022-04-14,Ghana,Web,Ads
+1138,2022-07-29,Kenya,Android,Referral
+1139,2022-04-21,Kenya,iOS,Referral
+1140,2022-04-14,Kenya,Android,Referral
+1141,2022-11-12,Kenya,Android,Ads
+1142,2022-06-20,Kenya,Android,Referral
+1143,2022-12-22,Kenya,iOS,Ads
+1144,2022-11-20,South Africa,Web,Ads
+1145,2022-05-13,Nigeria,Android,Referral
+1146,2022-10-20,Ghana,Web,Referral
+1147,2022-11-24,Nigeria,Web,Organic
+1148,2022-05-07,Ghana,iOS,Referral
+1149,2022-04-16,South Africa,iOS,Referral
+1150,2022-04-02,Nigeria,Web,Referral
+1151,2022-10-14,Ghana,iOS,Referral
+1152,2022-02-20,Ghana,Web,Ads
+1153,2022-01-29,South Africa,Android,Referral
+1154,2022-10-23,Nigeria,iOS,Ads
+1155,2022-10-24,South Africa,Web,Ads
+1156,2022-08-02,Ghana,Web,Organic
+1157,2022-09-24,Nigeria,Android,Organic
+1158,2022-09-14,Ghana,Web,Organic
+1159,2022-10-29,Nigeria,Web,Organic
+1160,2022-04-11,Nigeria,iOS,Ads
+1161,2022-12-12,South Africa,iOS,Referral
+1162,2022-04-20,South Africa,iOS,Ads
+1163,2022-07-01,Nigeria,Android,Organic
+1164,2022-11-09,Nigeria,Android,Organic
+1165,2022-01-01,Ghana,Web,Ads
+1166,2022-11-15,Kenya,Android,Referral
+1167,2022-02-24,Kenya,Web,Referral
+1168,2022-05-29,Ghana,Android,Ads
+1169,2022-11-05,Ghana,Web,Ads
+1170,2022-05-17,Ghana,iOS,Referral
+1171,2022-07-21,Kenya,Android,Organic
+1172,2022-11-09,Kenya,Android,Referral
+1173,2022-04-27,South Africa,Web,Ads
+1174,2022-06-03,Ghana,Web,Organic
+1175,2022-10-18,Nigeria,Web,Ads
+1176,2022-03-04,Ghana,Web,Ads
+1177,2022-09-01,Nigeria,Android,Organic
+1178,2022-01-25,Kenya,Web,Referral
+1179,2022-03-31,Ghana,Android,Organic
+1180,2022-03-16,Ghana,Web,Organic
+1181,2022-10-21,South Africa,iOS,Ads
+1182,2022-07-29,Nigeria,Android,Referral
+1183,2022-12-13,South Africa,Web,Referral
+1184,2022-01-17,Nigeria,iOS,Organic
+1185,2022-05-08,Ghana,Web,Ads
+1186,2022-12-30,South Africa,Web,Referral
+1187,2022-09-08,Nigeria,Android,Organic
+1188,2022-06-28,Ghana,Web,Ads
+1189,2022-07-01,Ghana,Android,Ads
+1190,2022-06-01,South Africa,Web,Referral
+1191,2022-01-25,Kenya,iOS,Ads
+1192,2022-06-29,Nigeria,Web,Ads
+1193,2022-07-17,Kenya,Android,Ads
+1194,2022-12-10,Kenya,iOS,Ads
+1195,2022-06-10,Kenya,iOS,Organic
+1196,2022-06-26,Nigeria,iOS,Organic
+1197,2022-10-12,Kenya,Android,Organic
+1198,2022-03-04,South Africa,Web,Organic
+1199,2022-05-30,Ghana,Android,Organic
+1200,2022-06-03,Nigeria,Android,Organic
+1201,2022-06-05,Ghana,Web,Organic
+1202,2022-02-18,Nigeria,iOS,Ads
+1203,2022-12-03,Ghana,Android,Ads
+1204,2022-03-25,Kenya,iOS,Organic
+1205,2022-12-27,Kenya,Android,Ads
+1206,2022-06-26,Nigeria,Android,Referral
+1207,2022-05-28,Ghana,Web,Ads
+1208,2022-04-28,Ghana,iOS,Ads
+1209,2022-12-08,Kenya,Android,Referral
+1210,2022-03-04,Nigeria,Android,Referral
+1211,2022-07-08,Ghana,iOS,Organic
+1212,2022-12-26,Kenya,Android,Referral
+1213,2022-02-18,Nigeria,iOS,Organic
+1214,2022-11-23,Kenya,iOS,Referral
+1215,2022-09-14,Kenya,Web,Organic
+1216,2022-08-12,Ghana,iOS,Ads
+1217,2022-05-21,Ghana,Web,Organic
+1218,2022-08-03,South Africa,Web,Ads
+1219,2022-07-30,Ghana,Web,Organic
+1220,2022-11-14,Kenya,Web,Ads
+1221,2022-02-01,South Africa,Web,Referral
+1222,2022-06-07,Nigeria,Android,Ads
+1223,2022-10-12,Nigeria,Web,Organic
+1224,2022-11-01,South Africa,Web,Referral
+1225,2022-10-13,South Africa,Android,Organic
+1226,2022-05-24,Kenya,Web,Ads
+1227,2022-01-19,Ghana,Android,Ads
+1228,2022-01-18,Nigeria,Web,Ads
+1229,2022-09-14,Nigeria,iOS,Organic
+1230,2022-03-19,South Africa,Web,Referral
+1231,2022-06-24,Ghana,Web,Organic
+1232,2022-07-13,South Africa,Android,Organic
+1233,2022-04-23,Kenya,Web,Organic
+1234,2022-04-24,South Africa,Web,Ads
+1235,2022-08-10,Kenya,Android,Referral
+1236,2022-06-15,Ghana,Android,Ads
+1237,2022-11-15,Kenya,Web,Organic
+1238,2022-05-12,Kenya,iOS,Organic
+1239,2022-09-21,Ghana,Web,Organic
+1240,2022-02-24,Nigeria,iOS,Ads
+1241,2022-12-25,Ghana,Web,Referral
+1242,2022-05-11,Nigeria,Android,Referral
+1243,2022-10-15,South Africa,Web,Organic
+1244,2022-09-23,Ghana,iOS,Organic
+1245,2022-06-11,Ghana,iOS,Organic
+1246,2022-03-28,South Africa,iOS,Ads
+1247,2022-02-24,South Africa,Android,Referral
+1248,2022-10-15,Kenya,iOS,Ads
+1249,2022-06-27,Nigeria,Web,Referral
+1250,2022-12-15,South Africa,Android,Referral
+1251,2022-01-08,Ghana,Web,Ads
+1252,2022-11-17,Ghana,iOS,Ads
+1253,2022-11-09,Nigeria,iOS,Organic
+1254,2022-09-04,Ghana,Android,Ads
+1255,2022-11-19,Ghana,iOS,Organic
+1256,2022-09-12,Nigeria,Android,Organic
+1257,2022-11-24,Kenya,iOS,Referral
+1258,2022-02-23,Ghana,Android,Ads
+1259,2022-09-06,South Africa,Web,Ads
+1260,2022-08-27,South Africa,Web,Ads
+1261,2022-08-17,South Africa,Web,Ads
+1262,2022-03-08,Kenya,iOS,Referral
+1263,2022-02-20,Ghana,iOS,Referral
+1264,2022-04-07,Ghana,Android,Organic
+1265,2022-04-02,Kenya,Android,Organic
+1266,2022-09-21,Kenya,iOS,Referral
+1267,2022-10-18,Nigeria,Web,Organic
+1268,2022-04-06,South Africa,iOS,Organic
+1269,2022-03-29,Kenya,Web,Organic
+1270,2022-03-19,South Africa,Android,Referral
+1271,2022-10-15,Nigeria,Android,Referral
+1272,2022-04-30,Nigeria,iOS,Ads
+1273,2022-10-29,Kenya,Android,Ads
+1274,2022-06-14,Ghana,Web,Organic
+1275,2022-07-01,Nigeria,iOS,Ads
+1276,2022-08-11,South Africa,Web,Ads
+1277,2022-11-07,Nigeria,iOS,Ads
+1278,2022-01-07,Nigeria,Web,Referral
+1279,2022-11-26,South Africa,Android,Ads
+1280,2022-09-20,Ghana,Web,Organic
+1281,2022-06-10,Kenya,iOS,Referral
+1282,2022-05-31,Ghana,iOS,Referral
+1283,2022-03-26,Nigeria,iOS,Organic
+1284,2022-05-27,Ghana,Android,Referral
+1285,2022-04-22,Ghana,Web,Organic
+1286,2022-02-05,Nigeria,Web,Referral
+1287,2022-10-12,Ghana,Web,Ads
+1288,2022-07-07,Kenya,Web,Organic
+1289,2022-03-23,Kenya,Web,Ads
+1290,2022-01-02,South Africa,Web,Referral
+1291,2022-10-30,Ghana,Android,Referral
+1292,2022-07-16,Kenya,iOS,Organic
+1293,2022-01-11,Kenya,iOS,Organic
+1294,2022-08-22,South Africa,Android,Ads
+1295,2022-07-14,Ghana,iOS,Organic
+1296,2022-04-29,Nigeria,Android,Referral
+1297,2022-01-20,Ghana,Android,Referral
+1298,2022-09-18,Ghana,Android,Ads
+1299,2022-10-20,Ghana,iOS,Organic
+1300,2022-09-13,Ghana,Web,Ads
+1301,2022-08-10,Kenya,Web,Ads
+1302,2022-08-14,Kenya,Android,Referral
+1303,2022-02-22,South Africa,Android,Organic
+1304,2022-12-21,Kenya,Android,Organic
+1305,2022-12-08,Kenya,iOS,Ads
+1306,2022-12-30,South Africa,iOS,Referral
+1307,2022-10-07,Kenya,Web,Referral
+1308,2022-03-22,South Africa,Android,Referral
+1309,2022-07-21,South Africa,iOS,Ads
+1310,2022-06-07,South Africa,Android,Referral
+1311,2022-04-30,Kenya,Web,Ads
+1312,2022-02-28,Kenya,Web,Organic
+1313,2022-08-03,Kenya,Web,Referral
+1314,2022-05-08,Ghana,Android,Referral
+1315,2022-08-12,South Africa,iOS,Referral
+1316,2022-07-28,Ghana,Web,Referral
+1317,2022-04-25,Kenya,Android,Referral
+1318,2022-07-28,Nigeria,iOS,Ads
+1319,2022-01-14,South Africa,Android,Referral
+1320,2022-01-09,Kenya,Web,Ads
+1321,2022-02-09,Kenya,Android,Organic
+1322,2022-08-25,Ghana,Web,Ads
+1323,2022-10-08,Kenya,Web,Organic
+1324,2022-12-25,South Africa,Web,Ads
+1325,2022-07-20,Nigeria,Web,Referral
+1326,2022-09-03,Kenya,Android,Organic
+1327,2022-10-05,Ghana,Web,Organic
+1328,2022-08-23,Ghana,iOS,Organic
+1329,2022-01-04,Kenya,iOS,Referral
+1330,2022-06-03,Nigeria,Web,Organic
+1331,2022-01-29,Kenya,Web,Organic
+1332,2022-04-19,Kenya,Android,Referral
+1333,2022-04-08,Ghana,Web,Referral
+1334,2022-08-03,South Africa,iOS,Organic
+1335,2022-10-20,Ghana,iOS,Organic
+1336,2022-03-16,South Africa,iOS,Ads
+1337,2022-11-22,Kenya,Android,Ads
+1338,2022-05-26,South Africa,Android,Organic
+1339,2022-05-08,Kenya,Web,Referral
+1340,2022-12-07,South Africa,Android,Organic
+1341,2022-02-11,Nigeria,Android,Referral
+1342,2022-12-22,South Africa,Android,Organic
+1343,2022-02-10,Kenya,iOS,Ads
+1344,2022-02-03,Ghana,Android,Organic
+1345,2022-01-17,Kenya,Web,Referral
+1346,2022-06-14,Nigeria,Android,Organic
+1347,2022-06-02,Ghana,Android,Organic
+1348,2022-03-17,Ghana,Android,Referral
+1349,2022-03-28,Nigeria,Android,Referral
+1350,2022-04-27,Kenya,Web,Ads
+1351,2022-12-28,Ghana,iOS,Organic
+1352,2022-12-08,Nigeria,iOS,Ads
+1353,2022-01-27,Nigeria,iOS,Ads
+1354,2022-11-09,Ghana,Web,Ads
+1355,2022-10-14,Nigeria,Web,Organic
+1356,2022-05-14,South Africa,Web,Organic
+1357,2022-08-07,Ghana,Android,Organic
+1358,2022-06-17,Nigeria,Web,Organic
+1359,2022-04-08,Kenya,Web,Referral
+1360,2022-09-25,Ghana,Web,Ads
+1361,2022-08-25,Nigeria,Web,Ads
+1362,2022-11-05,Kenya,Web,Ads
+1363,2022-06-22,Nigeria,Android,Organic
+1364,2022-07-09,Ghana,iOS,Organic
+1365,2022-05-02,Kenya,Web,Organic
+1366,2022-02-15,Kenya,Android,Referral
+1367,2022-03-05,Nigeria,Web,Referral
+1368,2022-05-10,Ghana,Web,Referral
+1369,2022-11-06,Ghana,Web,Organic
+1370,2022-12-29,Kenya,iOS,Ads
+1371,2022-07-12,Nigeria,Android,Organic
+1372,2022-11-03,South Africa,Android,Referral
+1373,2022-06-30,South Africa,iOS,Organic
+1374,2022-10-19,Kenya,Web,Ads
+1375,2022-10-09,South Africa,iOS,Organic
+1376,2022-01-29,Ghana,Web,Organic
+1377,2022-05-29,Kenya,iOS,Organic
+1378,2022-09-24,Ghana,Android,Ads
+1379,2022-10-23,Nigeria,Web,Organic
+1380,2022-01-11,Nigeria,iOS,Organic
+1381,2022-06-13,South Africa,iOS,Referral
+1382,2022-04-23,Kenya,iOS,Referral
+1383,2022-07-06,South Africa,Web,Referral
+1384,2022-10-22,Ghana,Android,Referral
+1385,2022-08-20,Kenya,Web,Ads
+1386,2022-08-15,Kenya,iOS,Ads
+1387,2022-11-06,Kenya,Android,Referral
+1388,2022-04-08,Ghana,Web,Ads
+1389,2022-02-24,Kenya,Web,Referral
+1390,2022-04-21,Nigeria,iOS,Referral
+1391,2022-06-01,Kenya,Android,Ads
+1392,2022-09-03,South Africa,Android,Referral
+1393,2022-03-10,Kenya,Web,Organic
+1394,2022-11-08,Ghana,Android,Referral
+1395,2022-10-16,Kenya,iOS,Organic
+1396,2022-09-07,South Africa,Android,Organic
+1397,2022-02-05,Ghana,Web,Referral
+1398,2022-08-27,Ghana,iOS,Referral
+1399,2022-05-28,South Africa,Web,Organic
+1400,2022-08-15,Kenya,Android,Organic
+1401,2022-09-01,Ghana,Web,Organic
+1402,2022-12-03,Kenya,iOS,Organic
+1403,2022-12-31,Kenya,iOS,Organic
+1404,2022-07-20,Kenya,Web,Organic
+1405,2022-06-03,Nigeria,iOS,Ads
+1406,2022-03-14,Nigeria,Web,Organic
+1407,2022-07-20,Nigeria,iOS,Organic
+1408,2022-10-23,South Africa,iOS,Ads
+1409,2022-01-17,Nigeria,Android,Organic
+1410,2022-05-09,Nigeria,Android,Referral
+1411,2022-08-05,Nigeria,Android,Organic
+1412,2022-03-02,Kenya,iOS,Ads
+1413,2022-04-14,Kenya,Android,Organic
+1414,2022-02-11,Ghana,Android,Organic
+1415,2022-01-25,Kenya,iOS,Organic
+1416,2022-02-08,Nigeria,iOS,Ads
+1417,2022-10-18,Kenya,Android,Referral
+1418,2022-05-11,Kenya,Android,Organic
+1419,2022-08-17,Kenya,Android,Organic
+1420,2022-04-18,Kenya,iOS,Ads
+1421,2022-06-21,Ghana,Web,Ads
+1422,2022-04-12,Kenya,Android,Referral
+1423,2022-12-20,Nigeria,iOS,Ads
+1424,2022-01-12,Ghana,Web,Referral
+1425,2022-10-02,South Africa,Android,Organic
+1426,2022-04-11,Nigeria,iOS,Referral
+1427,2022-02-13,South Africa,Web,Ads
+1428,2022-11-01,Nigeria,Android,Organic
+1429,2022-01-17,Nigeria,Web,Ads
+1430,2022-11-26,South Africa,Web,Referral
+1431,2022-02-26,South Africa,Android,Organic
+1432,2022-11-07,Nigeria,Web,Ads
+1433,2022-10-30,Kenya,iOS,Referral
+1434,2022-01-12,South Africa,Web,Referral
+1435,2022-11-14,Kenya,Web,Organic
+1436,2022-03-21,Kenya,Android,Referral
+1437,2022-08-04,Ghana,Web,Referral
+1438,2022-12-05,Ghana,Android,Organic
+1439,2022-09-21,Kenya,iOS,Organic
+1440,2022-05-29,Kenya,Web,Organic
+1441,2022-03-22,Kenya,Android,Referral
+1442,2022-08-03,Nigeria,iOS,Organic
+1443,2022-07-17,South Africa,Web,Ads
+1444,2022-07-19,South Africa,Android,Organic
+1445,2022-01-25,Kenya,Web,Organic
+1446,2022-03-30,South Africa,Android,Organic
+1447,2022-09-25,Ghana,Web,Organic
+1448,2022-05-23,Kenya,iOS,Ads
+1449,2022-02-28,Ghana,iOS,Ads
+1450,2022-12-31,Kenya,iOS,Organic
+1451,2022-01-26,South Africa,Android,Ads
+1452,2022-02-16,Kenya,Web,Ads
+1453,2022-10-15,Nigeria,Web,Ads
+1454,2022-09-23,South Africa,iOS,Ads
+1455,2022-01-16,South Africa,Web,Organic
+1456,2022-07-18,Ghana,Web,Referral
+1457,2022-10-09,South Africa,Web,Ads
+1458,2022-03-27,Ghana,iOS,Ads
+1459,2022-09-07,Ghana,Web,Ads
+1460,2022-09-27,Ghana,Web,Referral
+1461,2022-12-01,Nigeria,iOS,Organic
+1462,2022-04-27,Kenya,Web,Organic
+1463,2022-01-07,South Africa,Web,Ads
+1464,2022-05-17,Kenya,iOS,Organic
+1465,2022-06-25,Ghana,Web,Referral
+1466,2022-11-24,South Africa,Web,Organic
+1467,2022-11-11,Kenya,iOS,Ads
+1468,2022-08-03,South Africa,Android,Organic
+1469,2022-03-23,Nigeria,iOS,Organic
+1470,2022-08-11,Nigeria,Web,Referral
+1471,2022-04-13,Kenya,iOS,Ads
+1472,2022-09-30,Kenya,iOS,Organic
+1473,2022-01-14,Ghana,iOS,Organic
+1474,2022-06-08,Ghana,Android,Organic
+1475,2022-06-01,Nigeria,Web,Organic
+1476,2022-04-18,Nigeria,Web,Referral
+1477,2022-07-07,Ghana,iOS,Referral
+1478,2022-10-28,Nigeria,iOS,Ads
+1479,2022-04-08,South Africa,Web,Ads
+1480,2022-05-11,Nigeria,Android,Referral
+1481,2022-10-20,Nigeria,Android,Referral
+1482,2022-06-20,Ghana,Web,Referral
+1483,2022-07-02,Ghana,iOS,Organic
+1484,2022-12-30,Kenya,Web,Ads
+1485,2022-02-08,Ghana,iOS,Ads
+1486,2022-01-15,Nigeria,iOS,Referral
+1487,2022-01-04,South Africa,iOS,Organic
+1488,2022-12-15,Ghana,iOS,Ads
+1489,2022-07-29,Ghana,Web,Ads
+1490,2022-06-10,Kenya,Web,Referral
+1491,2022-01-16,Ghana,Android,Referral
+1492,2022-04-18,Nigeria,iOS,Referral
+1493,2022-11-07,South Africa,iOS,Referral
+1494,2022-08-15,Nigeria,Web,Organic
+1495,2022-06-19,Nigeria,Web,Ads
+1496,2022-02-03,South Africa,Android,Organic
+1497,2022-09-08,Ghana,Web,Organic
+1498,2022-09-04,Ghana,iOS,Ads
+1499,2022-09-26,South Africa,Android,Referral
+1500,2022-05-21,Kenya,Android,Ads
+1501,2022-10-01,Nigeria,Android,Ads
+1502,2022-04-06,Ghana,Web,Ads
+1503,2022-08-15,South Africa,Web,Ads
+1504,2022-02-08,Ghana,Android,Ads
+1505,2022-10-29,South Africa,iOS,Organic
+1506,2022-01-29,Kenya,Android,Ads
+1507,2022-11-14,Ghana,iOS,Ads
+1508,2022-09-02,Nigeria,iOS,Organic
+1509,2022-08-24,Nigeria,Web,Organic
+1510,2022-07-04,Kenya,Android,Organic
+1511,2022-09-29,Ghana,Android,Referral
+1512,2022-08-24,Ghana,iOS,Organic
+1513,2022-08-27,Kenya,Android,Referral
+1514,2022-09-23,South Africa,Web,Referral
+1515,2022-12-25,Kenya,iOS,Organic
+1516,2022-12-06,Nigeria,Android,Referral
+1517,2022-03-06,Nigeria,Android,Organic
+1518,2022-06-26,Kenya,Web,Ads
+1519,2022-01-03,Kenya,Web,Referral
+1520,2022-05-22,South Africa,iOS,Ads
+1521,2022-06-07,Kenya,iOS,Organic
+1522,2022-11-20,Nigeria,Android,Referral
+1523,2022-05-26,Nigeria,iOS,Referral
+1524,2022-10-20,Nigeria,iOS,Ads
+1525,2022-06-02,Kenya,iOS,Referral
+1526,2022-07-12,Nigeria,Web,Referral
+1527,2022-03-14,South Africa,Android,Organic
+1528,2022-11-01,Ghana,Android,Ads
+1529,2022-12-10,South Africa,Web,Ads
+1530,2022-05-20,South Africa,Android,Referral
+1531,2022-07-06,South Africa,Web,Ads
+1532,2022-10-20,Nigeria,Android,Organic
+1533,2022-03-02,Ghana,Android,Organic
+1534,2022-07-17,Ghana,Android,Organic
+1535,2022-10-22,Kenya,Android,Ads
+1536,2022-11-15,South Africa,Web,Organic
+1537,2022-10-29,Ghana,Web,Organic
+1538,2022-12-10,South Africa,Android,Referral
+1539,2022-01-11,South Africa,Web,Ads
+1540,2022-03-03,Ghana,Android,Ads
+1541,2022-11-29,Ghana,Web,Ads
+1542,2022-08-14,Kenya,Web,Organic
+1543,2022-06-02,Nigeria,Web,Referral
+1544,2022-07-18,Kenya,Android,Referral
+1545,2022-02-21,Nigeria,Android,Referral
+1546,2022-09-17,South Africa,Android,Ads
+1547,2022-02-28,Kenya,iOS,Organic
+1548,2022-03-13,Ghana,Web,Organic
+1549,2022-05-28,Nigeria,Android,Ads
+1550,2022-12-15,Kenya,Android,Organic
+1551,2022-03-04,Nigeria,Web,Ads
+1552,2022-11-06,Nigeria,Android,Ads
+1553,2022-08-31,Kenya,iOS,Organic
+1554,2022-11-26,Nigeria,Android,Organic
+1555,2022-04-17,Ghana,Web,Ads
+1556,2022-08-14,Ghana,Android,Ads
+1557,2022-11-09,Nigeria,Web,Ads
+1558,2022-08-06,South Africa,Web,Referral
+1559,2022-08-29,Ghana,Android,Organic
+1560,2022-09-16,Kenya,Android,Organic
+1561,2022-09-19,Nigeria,iOS,Referral
+1562,2022-01-05,Nigeria,Android,Ads
+1563,2022-09-18,South Africa,Web,Organic
+1564,2022-02-23,South Africa,iOS,Referral
+1565,2022-02-16,Kenya,Android,Ads
+1566,2022-08-03,Kenya,Android,Organic
+1567,2022-06-26,Kenya,Android,Organic
+1568,2022-01-09,Nigeria,Android,Referral
+1569,2022-04-09,Kenya,iOS,Referral
+1570,2022-01-20,South Africa,Android,Ads
+1571,2022-08-29,Ghana,Android,Organic
+1572,2022-03-02,Nigeria,iOS,Referral
+1573,2022-06-27,South Africa,iOS,Ads
+1574,2022-12-04,Kenya,Web,Referral
+1575,2022-03-03,Ghana,Android,Ads
+1576,2022-05-25,Ghana,Android,Ads
+1577,2022-08-04,Kenya,Web,Referral
+1578,2022-01-03,South Africa,Web,Organic
+1579,2022-06-09,Nigeria,iOS,Ads
+1580,2022-08-15,Kenya,Web,Ads
+1581,2022-09-26,Nigeria,Android,Organic
+1582,2022-04-30,South Africa,Web,Referral
+1583,2022-03-30,Nigeria,iOS,Organic
+1584,2022-11-25,Ghana,Android,Organic
+1585,2022-03-09,Kenya,Android,Referral
+1586,2022-12-23,Ghana,Android,Ads
+1587,2022-04-08,Kenya,Web,Ads
+1588,2022-09-24,Kenya,iOS,Ads
+1589,2022-04-15,Ghana,iOS,Ads
+1590,2022-11-19,Kenya,Web,Referral
+1591,2022-05-03,Nigeria,iOS,Ads
+1592,2022-01-29,Ghana,Android,Ads
+1593,2022-05-17,Kenya,iOS,Organic
+1594,2022-07-14,Ghana,iOS,Referral
+1595,2022-08-14,Nigeria,Android,Organic
+1596,2022-11-28,Kenya,Web,Referral
+1597,2022-06-19,Nigeria,Web,Organic
+1598,2022-01-09,Kenya,iOS,Referral
+1599,2022-02-09,Kenya,Web,Organic
+1600,2022-01-25,Ghana,Web,Organic
+1601,2022-09-18,South Africa,Web,Referral
+1602,2022-08-14,Ghana,Android,Organic
+1603,2022-05-04,Nigeria,Web,Ads
+1604,2022-02-07,Ghana,iOS,Ads
+1605,2022-11-24,Nigeria,Web,Referral
+1606,2022-09-08,Ghana,iOS,Referral
+1607,2022-06-25,South Africa,Android,Organic
+1608,2022-03-31,Ghana,Web,Organic
+1609,2022-02-06,Ghana,iOS,Referral
+1610,2022-11-12,Kenya,iOS,Referral
+1611,2022-06-25,Kenya,Android,Organic
+1612,2022-10-11,Nigeria,Android,Ads
+1613,2022-03-22,South Africa,iOS,Ads
+1614,2022-04-24,Kenya,Android,Ads
+1615,2022-02-09,South Africa,iOS,Organic
+1616,2022-10-28,Ghana,Web,Referral
+1617,2022-08-12,Nigeria,iOS,Referral
+1618,2022-11-14,Nigeria,Android,Organic
+1619,2022-12-15,Kenya,Android,Referral
+1620,2022-04-25,Ghana,Web,Ads
+1621,2022-07-05,Ghana,Web,Organic
+1622,2022-11-19,Nigeria,Web,Ads
+1623,2022-02-25,South Africa,iOS,Referral
+1624,2022-02-09,South Africa,Web,Referral
+1625,2022-12-20,South Africa,Android,Ads
+1626,2022-02-09,South Africa,Web,Ads
+1627,2022-12-13,Kenya,Android,Ads
+1628,2022-08-25,Nigeria,Web,Ads
+1629,2022-10-16,Nigeria,iOS,Ads
+1630,2022-09-19,South Africa,Web,Referral
+1631,2022-08-04,South Africa,Web,Organic
+1632,2022-05-27,Kenya,iOS,Referral
+1633,2022-12-02,Nigeria,Web,Ads
+1634,2022-06-17,Kenya,Android,Ads
+1635,2022-04-02,Kenya,Web,Referral
+1636,2022-12-19,South Africa,iOS,Referral
+1637,2022-02-28,Kenya,Web,Ads
+1638,2022-02-28,South Africa,Web,Ads
+1639,2022-10-31,Ghana,iOS,Referral
+1640,2022-06-18,South Africa,iOS,Ads
+1641,2022-09-26,Nigeria,iOS,Referral
+1642,2022-12-29,Ghana,Android,Referral
+1643,2022-02-14,South Africa,Android,Referral
+1644,2022-12-11,Nigeria,Web,Organic
+1645,2022-06-30,South Africa,iOS,Organic
+1646,2022-06-19,Kenya,iOS,Ads
+1647,2022-12-22,Kenya,Web,Ads
+1648,2022-07-10,South Africa,iOS,Ads
+1649,2022-06-04,Nigeria,Android,Organic
+1650,2022-07-07,Kenya,Android,Ads
+1651,2022-01-07,Nigeria,Web,Referral
+1652,2022-05-13,South Africa,Android,Referral
+1653,2022-08-23,Kenya,Android,Organic
+1654,2022-02-14,Kenya,Web,Organic
+1655,2022-11-10,Nigeria,Web,Referral
+1656,2022-09-06,Kenya,Android,Organic
+1657,2022-01-31,Ghana,iOS,Organic
+1658,2022-01-23,Nigeria,Android,Ads
+1659,2022-06-09,Kenya,Android,Ads
+1660,2022-12-29,Kenya,iOS,Referral
+1661,2022-06-07,South Africa,iOS,Organic
+1662,2022-02-08,South Africa,Web,Organic
+1663,2022-03-23,South Africa,Android,Ads
+1664,2022-12-22,Ghana,Android,Organic
+1665,2022-09-15,Kenya,iOS,Referral
+1666,2022-07-25,South Africa,Android,Ads
+1667,2022-03-18,Kenya,Android,Ads
+1668,2022-01-12,Kenya,Android,Referral
+1669,2022-10-22,South Africa,iOS,Ads
+1670,2022-08-12,Nigeria,Web,Organic
+1671,2022-01-13,Nigeria,iOS,Ads
+1672,2022-02-15,South Africa,Web,Organic
+1673,2022-06-04,Ghana,Android,Organic
+1674,2022-04-23,South Africa,Web,Referral
+1675,2022-08-21,Kenya,iOS,Ads
+1676,2022-01-17,South Africa,Web,Ads
+1677,2022-12-26,Ghana,iOS,Organic
+1678,2022-08-11,Ghana,Android,Organic
+1679,2022-12-20,Nigeria,iOS,Organic
+1680,2022-07-07,Nigeria,Android,Organic
+1681,2022-12-10,Ghana,iOS,Organic
+1682,2022-12-31,South Africa,Web,Ads
+1683,2022-06-12,Kenya,iOS,Referral
+1684,2022-11-22,Ghana,iOS,Organic
+1685,2022-03-15,Ghana,Web,Ads
+1686,2022-08-21,Kenya,Web,Organic
+1687,2022-08-12,South Africa,iOS,Referral
+1688,2022-11-15,South Africa,Android,Ads
+1689,2022-03-01,Ghana,Android,Organic
+1690,2022-12-01,Nigeria,iOS,Referral
+1691,2022-08-10,Nigeria,iOS,Organic
+1692,2022-02-06,South Africa,iOS,Organic
+1693,2022-10-05,Nigeria,iOS,Referral
+1694,2022-07-15,Ghana,Android,Ads
+1695,2022-12-18,Nigeria,Android,Organic
+1696,2022-08-30,Nigeria,Android,Referral
+1697,2022-11-20,Kenya,Web,Referral
+1698,2022-08-07,South Africa,Web,Organic
+1699,2022-07-11,South Africa,Web,Organic
+1700,2022-01-17,Kenya,Web,Organic
+1701,2022-01-12,South Africa,iOS,Referral
+1702,2022-07-12,Ghana,Web,Organic
+1703,2022-01-22,Kenya,iOS,Organic
+1704,2022-04-30,Ghana,Android,Referral
+1705,2022-07-29,Nigeria,Android,Ads
+1706,2022-11-02,Kenya,iOS,Organic
+1707,2022-09-27,Nigeria,Android,Organic
+1708,2022-07-11,Nigeria,iOS,Ads
+1709,2022-06-24,Kenya,iOS,Ads
+1710,2022-10-12,South Africa,Android,Referral
+1711,2022-07-23,Ghana,Web,Referral
+1712,2022-06-13,Kenya,Web,Ads
+1713,2022-09-08,Ghana,iOS,Ads
+1714,2022-08-15,Kenya,iOS,Referral
+1715,2022-01-07,South Africa,Web,Organic
+1716,2022-01-29,Kenya,Android,Organic
+1717,2022-02-02,Kenya,Android,Ads
+1718,2022-05-14,South Africa,iOS,Referral
+1719,2022-03-20,South Africa,Web,Referral
+1720,2022-02-27,Nigeria,Android,Ads
+1721,2022-01-26,Nigeria,Android,Organic
+1722,2022-08-14,Nigeria,iOS,Ads
+1723,2022-10-12,South Africa,Android,Organic
+1724,2022-01-04,South Africa,iOS,Organic
+1725,2022-04-09,Nigeria,iOS,Organic
+1726,2022-02-08,Ghana,Android,Organic
+1727,2022-09-28,South Africa,Android,Organic
+1728,2022-10-12,Kenya,iOS,Organic
+1729,2022-06-06,South Africa,Android,Organic
+1730,2022-03-16,Ghana,Android,Organic
+1731,2022-10-15,South Africa,Android,Organic
+1732,2022-05-10,Ghana,Web,Organic
+1733,2022-06-24,Ghana,iOS,Organic
+1734,2022-03-25,South Africa,Android,Referral
+1735,2022-01-22,South Africa,Web,Ads
+1736,2022-01-27,Ghana,Web,Ads
+1737,2022-07-14,Kenya,Android,Organic
+1738,2022-12-03,Nigeria,Android,Ads
+1739,2022-08-24,Nigeria,Web,Ads
+1740,2022-04-02,Nigeria,iOS,Organic
+1741,2022-01-21,South Africa,Android,Organic
+1742,2022-10-30,Kenya,iOS,Referral
+1743,2022-12-23,Ghana,iOS,Referral
+1744,2022-03-25,South Africa,Android,Referral
+1745,2022-09-19,South Africa,Web,Referral
+1746,2022-05-27,Kenya,Android,Ads
+1747,2022-09-14,Kenya,Web,Ads
+1748,2022-02-27,South Africa,iOS,Ads
+1749,2022-01-15,Ghana,Android,Referral
+1750,2022-06-11,Nigeria,Web,Organic
+1751,2022-06-12,Ghana,Android,Ads
+1752,2022-11-16,Nigeria,iOS,Ads
+1753,2022-10-08,Kenya,iOS,Ads
+1754,2022-10-07,Nigeria,Android,Ads
+1755,2022-01-12,Kenya,iOS,Referral
+1756,2022-10-01,Kenya,iOS,Organic
+1757,2022-09-28,Ghana,Android,Organic
+1758,2022-07-27,Kenya,Web,Ads
+1759,2022-01-27,South Africa,iOS,Ads
+1760,2022-03-13,Kenya,Android,Organic
+1761,2022-03-01,Kenya,Web,Ads
+1762,2022-05-25,South Africa,Web,Referral
+1763,2022-04-03,Kenya,Web,Referral
+1764,2022-11-05,Ghana,iOS,Organic
+1765,2022-01-08,Nigeria,iOS,Referral
+1766,2022-03-20,Ghana,Android,Organic
+1767,2022-01-27,Kenya,Web,Referral
+1768,2022-06-23,Nigeria,Web,Ads
+1769,2022-02-19,South Africa,Android,Ads
+1770,2022-07-18,Ghana,Web,Organic
+1771,2022-12-15,Ghana,Android,Referral
+1772,2022-06-30,South Africa,Android,Referral
+1773,2022-01-24,Kenya,iOS,Referral
+1774,2022-11-12,Ghana,Web,Organic
+1775,2022-02-15,Ghana,Web,Ads
+1776,2022-01-15,Nigeria,iOS,Referral
+1777,2022-06-02,Kenya,Android,Referral
+1778,2022-08-10,Ghana,Web,Referral
+1779,2022-07-25,South Africa,iOS,Organic
+1780,2022-09-30,South Africa,Android,Referral
+1781,2022-08-24,Kenya,Web,Organic
+1782,2022-12-06,South Africa,Web,Ads
+1783,2022-08-16,South Africa,Android,Ads
+1784,2022-01-09,Ghana,Web,Ads
+1785,2022-06-15,Ghana,iOS,Referral
+1786,2022-11-15,South Africa,Android,Organic
+1787,2022-08-02,Nigeria,Android,Organic
+1788,2022-04-27,Kenya,iOS,Organic
+1789,2022-12-10,Nigeria,Android,Referral
+1790,2022-03-13,Ghana,iOS,Ads
+1791,2022-03-05,Ghana,iOS,Referral
+1792,2022-07-24,Nigeria,Web,Organic
+1793,2022-07-28,Ghana,Web,Ads
+1794,2022-03-13,Nigeria,iOS,Organic
+1795,2022-10-04,Ghana,iOS,Ads
+1796,2022-10-01,South Africa,Web,Organic
+1797,2022-11-16,South Africa,Web,Organic
+1798,2022-12-04,South Africa,Web,Organic
+1799,2022-04-05,South Africa,Android,Organic
+1800,2022-06-15,Nigeria,iOS,Referral
+1801,2022-02-01,Ghana,iOS,Organic
+1802,2022-01-11,Nigeria,Web,Ads
+1803,2022-10-28,Kenya,Android,Organic
+1804,2022-08-05,Nigeria,Web,Referral
+1805,2022-10-16,Nigeria,iOS,Ads
+1806,2022-04-12,Nigeria,Android,Ads
+1807,2022-09-24,Nigeria,iOS,Ads
+1808,2022-08-02,Kenya,Android,Referral
+1809,2022-06-28,Ghana,iOS,Organic
+1810,2022-03-29,South Africa,Web,Organic
+1811,2022-02-10,South Africa,Web,Ads
+1812,2022-03-17,Nigeria,Android,Organic
+1813,2022-02-15,Ghana,iOS,Referral
+1814,2022-06-09,Ghana,Web,Referral
+1815,2022-03-21,Nigeria,Android,Organic
+1816,2022-11-06,Nigeria,iOS,Organic
+1817,2022-03-27,Ghana,Android,Ads
+1818,2022-04-02,South Africa,Web,Organic
+1819,2022-05-28,South Africa,iOS,Referral
+1820,2022-06-10,Kenya,Android,Referral
+1821,2022-07-21,Nigeria,Web,Organic
+1822,2022-08-30,Nigeria,iOS,Ads
+1823,2022-12-19,Kenya,Android,Ads
+1824,2022-01-02,Nigeria,Web,Referral
+1825,2022-08-13,Nigeria,iOS,Organic
+1826,2022-10-16,Nigeria,Web,Ads
+1827,2022-08-21,South Africa,iOS,Referral
+1828,2022-03-18,Nigeria,Android,Referral
+1829,2022-04-26,Kenya,Android,Referral
+1830,2022-06-03,Kenya,iOS,Ads
+1831,2022-04-13,Ghana,Web,Referral
+1832,2022-07-13,Nigeria,Web,Organic
+1833,2022-06-15,Kenya,iOS,Ads
+1834,2022-12-25,Kenya,Android,Organic
+1835,2022-03-31,Nigeria,Web,Referral
+1836,2022-06-23,Nigeria,iOS,Ads
+1837,2022-05-02,Ghana,iOS,Ads
+1838,2022-05-23,Ghana,Web,Referral
+1839,2022-04-16,South Africa,Web,Ads
+1840,2022-11-01,Nigeria,iOS,Ads
+1841,2022-12-26,Ghana,Android,Ads
+1842,2022-11-13,Nigeria,Web,Referral
+1843,2022-05-03,South Africa,Android,Referral
+1844,2022-01-09,Ghana,Android,Organic
+1845,2022-09-19,South Africa,Android,Referral
+1846,2022-03-14,South Africa,Android,Organic
+1847,2022-12-25,Kenya,Web,Organic
+1848,2022-08-11,Ghana,Android,Referral
+1849,2022-02-10,Ghana,Android,Ads
+1850,2022-07-23,South Africa,Android,Organic
+1851,2022-09-21,Kenya,Web,Organic
+1852,2022-11-24,Kenya,Android,Referral
+1853,2022-06-27,South Africa,Web,Organic
+1854,2022-12-14,Kenya,Web,Organic
+1855,2022-11-14,South Africa,Android,Ads
+1856,2022-03-25,Ghana,iOS,Referral
+1857,2022-11-14,Ghana,Android,Organic
+1858,2022-04-21,Ghana,Web,Ads
+1859,2022-09-08,Ghana,Web,Ads
+1860,2022-01-07,Ghana,Android,Organic
+1861,2022-03-25,South Africa,iOS,Ads
+1862,2022-07-27,Nigeria,Web,Ads
+1863,2022-11-10,Ghana,Android,Organic
+1864,2022-01-22,Nigeria,iOS,Referral
+1865,2022-01-03,Nigeria,Android,Ads
+1866,2022-05-07,Kenya,Android,Organic
+1867,2022-10-24,Kenya,iOS,Organic
+1868,2022-07-07,Kenya,Android,Referral
+1869,2022-12-28,Kenya,iOS,Referral
+1870,2022-01-14,Nigeria,Web,Ads
+1871,2022-01-12,South Africa,Web,Referral
+1872,2022-03-28,South Africa,Web,Referral
+1873,2022-01-12,South Africa,Web,Referral
+1874,2022-01-25,Kenya,iOS,Ads
+1875,2022-10-28,Ghana,iOS,Organic
+1876,2022-08-31,South Africa,iOS,Referral
+1877,2022-05-02,Ghana,Web,Organic
+1878,2022-05-27,Ghana,Android,Referral
+1879,2022-02-24,Ghana,Android,Organic
+1880,2022-08-26,Nigeria,Android,Ads
+1881,2022-12-22,Ghana,Web,Organic
+1882,2022-06-22,South Africa,Android,Ads
+1883,2022-08-09,Kenya,iOS,Referral
+1884,2022-04-29,Nigeria,iOS,Referral
+1885,2022-11-05,Nigeria,Android,Referral
+1886,2022-07-02,South Africa,Android,Organic
+1887,2022-10-15,Kenya,Android,Referral
+1888,2022-11-03,Ghana,Web,Organic
+1889,2022-10-27,Nigeria,Web,Ads
+1890,2022-03-23,Nigeria,Android,Organic
+1891,2022-07-30,Ghana,iOS,Referral
+1892,2022-05-30,Ghana,Android,Ads
+1893,2022-02-06,Nigeria,Android,Organic
+1894,2022-12-18,Kenya,Android,Ads
+1895,2022-11-08,South Africa,iOS,Organic
+1896,2022-12-27,South Africa,iOS,Referral
+1897,2022-02-28,Nigeria,Web,Referral
+1898,2022-05-11,South Africa,iOS,Referral
+1899,2022-07-21,Ghana,Android,Ads
+1900,2022-08-31,Nigeria,iOS,Ads
+1901,2022-02-04,Ghana,Android,Organic
+1902,2022-04-03,Nigeria,Web,Ads
+1903,2022-07-26,South Africa,iOS,Referral
+1904,2022-12-19,South Africa,Android,Ads
+1905,2022-11-28,Kenya,Web,Referral
+1906,2022-11-01,Kenya,Web,Referral
+1907,2022-12-16,Nigeria,Web,Referral
+1908,2022-08-01,Ghana,iOS,Referral
+1909,2022-06-08,South Africa,Web,Referral
+1910,2022-01-24,Nigeria,Web,Referral
+1911,2022-10-20,South Africa,Web,Ads
+1912,2022-01-04,South Africa,Web,Organic
+1913,2022-08-08,South Africa,Web,Ads
+1914,2022-12-30,South Africa,Android,Ads
+1915,2022-01-20,Nigeria,Android,Referral
+1916,2022-06-01,South Africa,Web,Referral
+1917,2022-02-19,Kenya,Web,Organic
+1918,2022-06-26,South Africa,iOS,Ads
+1919,2022-04-06,South Africa,iOS,Referral
+1920,2022-04-15,Nigeria,Web,Organic
+1921,2022-09-07,Kenya,Web,Referral
+1922,2022-04-27,Kenya,Web,Referral
+1923,2022-12-20,Nigeria,Web,Ads
+1924,2022-08-16,South Africa,Android,Ads
+1925,2022-03-07,Kenya,Web,Organic
+1926,2022-12-01,Nigeria,Android,Organic
+1927,2022-09-19,Ghana,Web,Ads
+1928,2022-10-22,Ghana,Web,Ads
+1929,2022-08-31,Ghana,Android,Referral
+1930,2022-07-05,Nigeria,Web,Ads
+1931,2022-09-03,South Africa,Web,Referral
+1932,2022-05-05,Ghana,Web,Ads
+1933,2022-09-25,Nigeria,Web,Referral
+1934,2022-05-11,Ghana,iOS,Ads
+1935,2022-08-25,Nigeria,Android,Referral
+1936,2022-01-18,Nigeria,Android,Referral
+1937,2022-02-09,Ghana,iOS,Ads
+1938,2022-01-21,South Africa,Android,Referral
+1939,2022-08-13,Ghana,iOS,Ads
+1940,2022-12-21,Kenya,iOS,Referral
+1941,2022-10-09,South Africa,Web,Ads
+1942,2022-01-08,Ghana,Android,Ads
+1943,2022-04-10,Kenya,iOS,Ads
+1944,2022-08-28,Nigeria,Web,Ads
+1945,2022-03-28,Nigeria,Android,Organic
+1946,2022-10-25,Ghana,iOS,Ads
+1947,2022-01-14,Ghana,Web,Ads
+1948,2022-11-30,Ghana,Android,Ads
+1949,2022-01-02,Ghana,iOS,Ads
+1950,2022-10-20,Ghana,iOS,Referral
+1951,2022-11-21,Kenya,Android,Ads
+1952,2022-02-10,Ghana,iOS,Referral
+1953,2022-11-14,Kenya,Android,Organic
+1954,2022-11-12,Kenya,Web,Referral
+1955,2022-04-21,Ghana,Web,Ads
+1956,2022-01-14,Kenya,Android,Ads
+1957,2022-08-19,South Africa,Web,Referral
+1958,2022-03-25,South Africa,iOS,Ads
+1959,2022-05-10,Nigeria,iOS,Ads
+1960,2022-08-19,Ghana,iOS,Organic
+1961,2022-11-22,Kenya,Android,Organic
+1962,2022-05-25,Ghana,iOS,Organic
+1963,2022-12-11,South Africa,Android,Referral
+1964,2022-01-28,South Africa,iOS,Organic
+1965,2022-03-07,Kenya,Web,Ads
+1966,2022-06-12,South Africa,Web,Referral
+1967,2022-08-17,South Africa,Web,Referral
+1968,2022-09-18,South Africa,Android,Organic
+1969,2022-06-13,Kenya,Android,Ads
+1970,2022-10-28,South Africa,iOS,Ads
+1971,2022-10-30,Ghana,Android,Referral
+1972,2022-10-14,Nigeria,Android,Organic
+1973,2022-01-10,South Africa,Android,Referral
+1974,2022-07-14,Nigeria,Web,Ads
+1975,2022-04-28,Nigeria,Android,Organic
+1976,2022-09-27,Nigeria,iOS,Referral
+1977,2022-03-21,Kenya,Web,Referral
+1978,2022-04-03,Ghana,Web,Organic
+1979,2022-09-23,Ghana,Android,Referral
+1980,2022-11-28,Ghana,Android,Organic
+1981,2022-12-16,Ghana,Web,Organic
+1982,2022-12-27,South Africa,Android,Ads
+1983,2022-09-14,South Africa,Android,Referral
+1984,2022-05-13,South Africa,Web,Ads
+1985,2022-10-03,Ghana,iOS,Ads
+1986,2022-09-21,South Africa,Android,Ads
+1987,2022-06-20,Nigeria,iOS,Organic
+1988,2022-01-01,Kenya,Android,Organic
+1989,2022-11-09,Ghana,Android,Referral
+1990,2022-03-05,South Africa,Android,Referral
+1991,2022-10-11,Kenya,Android,Referral
+1992,2022-05-01,Ghana,iOS,Ads
+1993,2022-04-17,Ghana,iOS,Ads
+1994,2022-06-24,Ghana,Web,Ads
+1995,2022-07-23,Ghana,iOS,Referral
+1996,2022-06-14,South Africa,Web,Referral
+1997,2022-11-01,Kenya,Web,Ads
+1998,2022-04-30,Kenya,iOS,Ads
+1999,2022-02-13,Ghana,Android,Referral
+2000,2022-11-08,South Africa,Web,Organic
+2001,2022-06-05,Ghana,iOS,Referral
+2002,2022-07-26,Kenya,iOS,Referral
+2003,2022-04-18,South Africa,Web,Organic
+2004,2022-09-08,Nigeria,Web,Organic
+2005,2022-11-30,Nigeria,Android,Referral
+2006,2022-05-10,South Africa,Web,Organic
+2007,2022-10-20,South Africa,Android,Referral
+2008,2022-01-20,Nigeria,Web,Referral
+2009,2022-10-09,Nigeria,iOS,Ads
+2010,2022-10-12,Kenya,Web,Ads
+2011,2022-01-01,Nigeria,Android,Ads
+2012,2022-04-29,Nigeria,Android,Ads
+2013,2022-02-04,Nigeria,Android,Referral
+2014,2022-07-17,Kenya,iOS,Organic
+2015,2022-09-02,Ghana,iOS,Referral
+2016,2022-02-28,Ghana,iOS,Ads
+2017,2022-11-21,Nigeria,Android,Referral
+2018,2022-06-10,Ghana,Web,Ads
+2019,2022-06-28,South Africa,Web,Organic
+2020,2022-07-25,Nigeria,iOS,Organic
+2021,2022-01-12,Kenya,Web,Ads
+2022,2022-10-03,Nigeria,iOS,Referral
+2023,2022-06-30,Kenya,Web,Ads
+2024,2022-08-30,Ghana,Android,Ads
+2025,2022-08-04,Nigeria,Web,Referral
+2026,2022-09-08,Kenya,iOS,Organic
+2027,2022-10-26,Nigeria,Web,Ads
+2028,2022-05-06,Kenya,Web,Ads
+2029,2022-08-05,Ghana,iOS,Referral
+2030,2022-11-02,Nigeria,Android,Organic
+2031,2022-10-12,Kenya,iOS,Ads
+2032,2022-07-04,Kenya,iOS,Referral
+2033,2022-02-08,South Africa,Android,Organic
+2034,2022-08-11,South Africa,iOS,Referral
+2035,2022-07-03,Kenya,Web,Referral
+2036,2022-06-27,Kenya,Web,Organic
+2037,2022-10-21,Kenya,iOS,Ads
+2038,2022-12-06,South Africa,Android,Ads
+2039,2022-05-31,Ghana,Web,Referral
+2040,2022-05-06,Nigeria,Web,Organic
+2041,2022-10-28,Ghana,Android,Organic
+2042,2022-11-04,Ghana,Android,Ads
+2043,2022-12-02,South Africa,Web,Referral
+2044,2022-08-22,Nigeria,Android,Referral
+2045,2022-01-08,Nigeria,Android,Organic
+2046,2022-12-07,South Africa,iOS,Ads
+2047,2022-05-09,Kenya,Web,Ads
+2048,2022-09-21,Nigeria,Android,Ads
+2049,2022-06-06,Nigeria,Web,Ads
+2050,2022-12-18,Kenya,Android,Organic
+2051,2022-12-24,Nigeria,iOS,Organic
+2052,2022-01-05,South Africa,Web,Ads
+2053,2022-03-27,Ghana,Android,Ads
+2054,2022-06-24,Kenya,Web,Referral
+2055,2022-10-17,Ghana,iOS,Referral
+2056,2022-07-12,Kenya,Web,Organic
+2057,2022-11-07,Kenya,Web,Referral
+2058,2022-04-29,South Africa,Android,Ads
+2059,2022-08-06,South Africa,Web,Ads
+2060,2022-04-24,Ghana,Android,Referral
+2061,2022-05-25,Kenya,Android,Ads
+2062,2022-01-26,South Africa,Web,Organic
+2063,2022-05-16,South Africa,Web,Organic
+2064,2022-10-30,Kenya,iOS,Referral
+2065,2022-08-20,Kenya,iOS,Referral
+2066,2022-03-17,Kenya,iOS,Ads
+2067,2022-11-24,Nigeria,iOS,Organic
+2068,2022-12-11,Ghana,Android,Organic
+2069,2022-10-29,Nigeria,Android,Organic
+2070,2022-10-16,Kenya,iOS,Referral
+2071,2022-01-01,Ghana,iOS,Referral
+2072,2022-05-27,Nigeria,iOS,Organic
+2073,2022-10-14,South Africa,Android,Ads
+2074,2022-05-22,Ghana,Android,Referral
+2075,2022-02-22,Nigeria,iOS,Referral
+2076,2022-10-31,Kenya,iOS,Organic
+2077,2022-03-10,Kenya,iOS,Organic
+2078,2022-12-27,South Africa,Web,Referral
+2079,2022-03-31,Nigeria,iOS,Organic
+2080,2022-08-08,South Africa,iOS,Referral
+2081,2022-07-11,South Africa,Web,Referral
+2082,2022-03-04,Ghana,Android,Referral
+2083,2022-03-14,South Africa,Web,Organic
+2084,2022-06-10,Nigeria,Android,Ads
+2085,2022-06-18,Ghana,iOS,Referral
+2086,2022-03-30,Nigeria,iOS,Ads
+2087,2022-06-25,Kenya,Android,Ads
+2088,2022-09-26,South Africa,Android,Organic
+2089,2022-03-14,Nigeria,Android,Ads
+2090,2022-09-02,Ghana,iOS,Ads
+2091,2022-03-18,Kenya,Android,Ads
+2092,2022-06-08,Nigeria,Web,Referral
+2093,2022-11-20,Kenya,iOS,Organic
+2094,2022-04-08,Kenya,Web,Organic
+2095,2022-04-12,Kenya,Web,Ads
+2096,2022-05-12,Kenya,Android,Referral
+2097,2022-04-12,Ghana,Android,Ads
+2098,2022-01-19,Nigeria,Web,Ads
+2099,2022-03-23,Nigeria,Web,Ads
+2100,2022-10-06,Nigeria,Android,Ads
+2101,2022-12-05,Ghana,Web,Organic
+2102,2022-12-31,Ghana,Android,Ads
+2103,2022-11-27,Kenya,Web,Referral
+2104,2022-05-09,Ghana,Web,Organic
+2105,2022-12-10,Kenya,Web,Referral
+2106,2022-11-06,South Africa,iOS,Referral
+2107,2022-03-30,South Africa,Android,Referral
+2108,2022-08-01,Kenya,Web,Organic
+2109,2022-05-23,South Africa,Android,Referral
+2110,2022-03-06,Kenya,Android,Organic
+2111,2022-03-17,South Africa,iOS,Ads
+2112,2022-07-18,Ghana,iOS,Organic
+2113,2022-05-23,Ghana,Web,Ads
+2114,2022-11-12,South Africa,iOS,Ads
+2115,2022-04-03,Ghana,Web,Referral
+2116,2022-11-01,Nigeria,Android,Organic
+2117,2022-08-12,Ghana,iOS,Organic
+2118,2022-10-18,Ghana,iOS,Organic
+2119,2022-04-12,Kenya,Web,Ads
+2120,2022-09-24,Kenya,Web,Ads
+2121,2022-12-21,Nigeria,Android,Referral
+2122,2022-04-20,South Africa,iOS,Organic
+2123,2022-11-26,South Africa,Web,Referral
+2124,2022-09-22,Nigeria,Android,Organic
+2125,2022-01-03,Ghana,Android,Referral
+2126,2022-03-26,Nigeria,iOS,Ads
+2127,2022-10-09,Ghana,iOS,Organic
+2128,2022-11-24,Kenya,Web,Organic
+2129,2022-10-31,Nigeria,iOS,Referral
+2130,2022-04-27,Nigeria,Android,Referral
+2131,2022-08-09,Kenya,Web,Organic
+2132,2022-06-03,Ghana,Android,Organic
+2133,2022-06-02,Ghana,iOS,Referral
+2134,2022-01-12,Ghana,Android,Referral
+2135,2022-05-13,Kenya,Android,Ads
+2136,2022-10-31,Kenya,Web,Ads
+2137,2022-10-20,South Africa,iOS,Organic
+2138,2022-10-27,South Africa,Android,Organic
+2139,2022-08-16,Ghana,Web,Organic
+2140,2022-09-28,Kenya,Android,Referral
+2141,2022-02-12,Nigeria,Web,Referral
+2142,2022-12-09,Ghana,iOS,Organic
+2143,2022-11-22,Nigeria,Web,Ads
+2144,2022-10-29,Nigeria,Android,Ads
+2145,2022-12-30,South Africa,Web,Ads
+2146,2022-01-21,South Africa,iOS,Organic
+2147,2022-04-17,Ghana,Android,Ads
+2148,2022-12-02,Nigeria,iOS,Ads
+2149,2022-10-30,Nigeria,Android,Ads
+2150,2022-04-27,Ghana,iOS,Organic
+2151,2022-05-04,Nigeria,Android,Referral
+2152,2022-10-08,Nigeria,Web,Ads
+2153,2022-10-19,South Africa,Android,Organic
+2154,2022-07-22,South Africa,Web,Ads
+2155,2022-02-20,Ghana,Android,Referral
+2156,2022-09-28,Ghana,Web,Referral
+2157,2022-11-20,Nigeria,Android,Organic
+2158,2022-10-04,Nigeria,iOS,Organic
+2159,2022-05-21,Ghana,iOS,Ads
+2160,2022-10-02,South Africa,iOS,Organic
+2161,2022-10-17,South Africa,Web,Ads
+2162,2022-11-30,Kenya,iOS,Referral
+2163,2022-02-21,South Africa,Android,Referral
+2164,2022-01-27,South Africa,Android,Referral
+2165,2022-06-06,South Africa,iOS,Ads
+2166,2022-08-27,Kenya,Web,Ads
+2167,2022-06-05,Kenya,iOS,Referral
+2168,2022-10-18,Nigeria,Android,Referral
+2169,2022-05-16,Nigeria,Web,Organic
+2170,2022-05-24,Kenya,iOS,Ads
+2171,2022-04-16,Ghana,Web,Organic
+2172,2022-06-07,Ghana,Web,Referral
+2173,2022-05-26,Ghana,iOS,Ads
+2174,2022-01-02,Kenya,Android,Organic
+2175,2022-03-18,Nigeria,iOS,Ads
+2176,2022-05-12,Kenya,Web,Referral
+2177,2022-03-31,Nigeria,Android,Referral
+2178,2022-12-11,Kenya,Android,Organic
+2179,2022-12-16,Nigeria,iOS,Organic
+2180,2022-09-20,Ghana,Web,Organic
+2181,2022-12-17,Kenya,Web,Ads
+2182,2022-04-18,Nigeria,Web,Organic
+2183,2022-03-15,South Africa,Web,Organic
+2184,2022-02-08,Kenya,Android,Ads
+2185,2022-06-08,Kenya,Android,Ads
+2186,2022-03-12,South Africa,Web,Ads
+2187,2022-11-08,Ghana,Web,Organic
+2188,2022-08-29,Ghana,Web,Ads
+2189,2022-10-25,Nigeria,Android,Referral
+2190,2022-02-05,Nigeria,Android,Ads
+2191,2022-03-25,South Africa,Android,Ads
+2192,2022-09-20,Kenya,Web,Referral
+2193,2022-11-06,Nigeria,Android,Organic
+2194,2022-06-21,Nigeria,Android,Ads
+2195,2022-06-22,South Africa,Web,Referral
+2196,2022-12-28,Kenya,iOS,Referral
+2197,2022-02-16,Nigeria,iOS,Organic
+2198,2022-05-21,Nigeria,Android,Organic
+2199,2022-04-28,Ghana,Web,Organic
+2200,2022-10-04,Nigeria,Web,Referral
+2201,2022-08-02,South Africa,Web,Ads
+2202,2022-08-08,Ghana,Web,Organic
+2203,2022-01-26,South Africa,Web,Ads
+2204,2022-01-09,Kenya,iOS,Organic
+2205,2022-09-28,South Africa,Web,Organic
+2206,2022-01-10,South Africa,iOS,Organic
+2207,2022-05-01,Nigeria,Web,Referral
+2208,2022-05-05,Kenya,iOS,Organic
+2209,2022-06-19,Nigeria,Android,Referral
+2210,2022-03-13,Nigeria,iOS,Referral
+2211,2022-06-01,Nigeria,iOS,Ads
+2212,2022-07-27,Nigeria,iOS,Organic
+2213,2022-02-18,Ghana,iOS,Ads
+2214,2022-06-03,Ghana,iOS,Organic
+2215,2022-12-13,Kenya,Android,Referral
+2216,2022-10-20,South Africa,Android,Organic
+2217,2022-03-09,South Africa,iOS,Ads
+2218,2022-02-19,South Africa,Web,Ads
+2219,2022-06-01,Kenya,Web,Ads
+2220,2022-01-19,South Africa,iOS,Ads
+2221,2022-04-10,Ghana,Web,Ads
+2222,2022-03-01,Ghana,Web,Ads
+2223,2022-06-16,Ghana,Web,Referral
+2224,2022-07-21,South Africa,iOS,Referral
+2225,2022-12-11,Nigeria,iOS,Organic
+2226,2022-05-26,South Africa,Web,Referral
+2227,2022-06-13,Nigeria,Android,Organic
+2228,2022-08-30,Nigeria,Web,Organic
+2229,2022-03-10,Kenya,Android,Organic
+2230,2022-06-24,Nigeria,Android,Organic
+2231,2022-02-18,Kenya,Web,Ads
+2232,2022-04-18,Kenya,iOS,Organic
+2233,2022-08-14,Ghana,Web,Ads
+2234,2022-06-10,Nigeria,Android,Ads
+2235,2022-04-29,Ghana,iOS,Ads
+2236,2022-05-29,Ghana,iOS,Referral
+2237,2022-05-30,Ghana,Android,Organic
+2238,2022-10-20,South Africa,Web,Ads
+2239,2022-05-23,South Africa,Web,Ads
+2240,2022-06-09,South Africa,Android,Ads
+2241,2022-01-11,Nigeria,Web,Ads
+2242,2022-05-18,Ghana,iOS,Organic
+2243,2022-03-19,South Africa,Android,Referral
+2244,2022-03-18,Nigeria,Android,Organic
+2245,2022-09-11,Nigeria,Android,Referral
+2246,2022-09-15,South Africa,iOS,Referral
+2247,2022-11-16,Nigeria,Web,Ads
+2248,2022-10-18,Nigeria,Web,Organic
+2249,2022-09-20,South Africa,Web,Ads
+2250,2022-03-26,Kenya,Web,Ads
+2251,2022-05-26,Ghana,iOS,Ads
+2252,2022-11-19,South Africa,iOS,Organic
+2253,2022-02-11,Kenya,Web,Referral
+2254,2022-05-05,Kenya,Web,Organic
+2255,2022-06-16,Nigeria,iOS,Organic
+2256,2022-08-29,Nigeria,iOS,Organic
+2257,2022-10-07,South Africa,iOS,Referral
+2258,2022-07-07,Kenya,iOS,Organic
+2259,2022-10-29,Kenya,Web,Ads
+2260,2022-01-19,Kenya,Web,Ads
+2261,2022-03-09,Kenya,Web,Organic
+2262,2022-08-06,South Africa,Web,Ads
+2263,2022-04-12,South Africa,iOS,Organic
+2264,2022-02-11,South Africa,Web,Referral
+2265,2022-10-15,Nigeria,iOS,Organic
+2266,2022-06-16,Kenya,Web,Ads
+2267,2022-04-19,South Africa,iOS,Ads
+2268,2022-02-05,Kenya,Android,Ads
+2269,2022-08-20,Ghana,Android,Organic
+2270,2022-08-17,Ghana,Web,Organic
+2271,2022-12-19,Ghana,Web,Referral
+2272,2022-06-13,Nigeria,iOS,Organic
+2273,2022-03-14,Ghana,Web,Referral
+2274,2022-05-16,Kenya,iOS,Ads
+2275,2022-12-19,Nigeria,iOS,Ads
+2276,2022-03-11,Ghana,Web,Referral
+2277,2022-07-15,Kenya,Android,Organic
+2278,2022-09-26,Kenya,Android,Organic
+2279,2022-02-18,South Africa,iOS,Ads
+2280,2022-11-12,Kenya,iOS,Referral
+2281,2022-05-10,Kenya,iOS,Organic
+2282,2022-01-05,South Africa,Web,Organic
+2283,2022-01-27,Ghana,Web,Referral
+2284,2022-06-09,Kenya,iOS,Referral
+2285,2022-05-29,South Africa,Android,Ads
+2286,2022-09-21,Ghana,iOS,Organic
+2287,2022-08-18,South Africa,Android,Ads
+2288,2022-07-19,Nigeria,iOS,Organic
+2289,2022-02-19,South Africa,Android,Ads
+2290,2022-03-08,South Africa,Web,Organic
+2291,2022-10-27,Kenya,iOS,Ads
+2292,2022-02-27,South Africa,Web,Ads
+2293,2022-09-16,Nigeria,Web,Ads
+2294,2022-12-08,South Africa,Web,Ads
+2295,2022-11-22,South Africa,Web,Organic
+2296,2022-05-10,Ghana,Android,Organic
+2297,2022-08-03,Kenya,iOS,Organic
+2298,2022-06-21,Kenya,iOS,Ads
+2299,2022-09-15,Ghana,Android,Organic
+2300,2022-04-12,Kenya,Web,Organic
+2301,2022-07-28,Ghana,iOS,Referral
+2302,2022-10-18,South Africa,Web,Referral
+2303,2022-12-20,Ghana,iOS,Ads
+2304,2022-10-13,Kenya,Web,Referral
+2305,2022-04-26,Nigeria,iOS,Ads
+2306,2022-09-21,Ghana,Android,Ads
+2307,2022-05-30,Kenya,iOS,Referral
+2308,2022-10-27,Ghana,Android,Referral
+2309,2022-02-05,Nigeria,Android,Organic
+2310,2022-11-29,Ghana,iOS,Organic
+2311,2022-10-14,Nigeria,Android,Referral
+2312,2022-10-30,South Africa,iOS,Organic
+2313,2022-11-07,South Africa,Web,Referral
+2314,2022-07-27,Nigeria,iOS,Organic
+2315,2022-04-16,Ghana,Android,Ads
+2316,2022-06-07,South Africa,Android,Ads
+2317,2022-05-01,South Africa,Android,Referral
+2318,2022-02-24,Ghana,Android,Referral
+2319,2022-01-12,Ghana,Android,Referral
+2320,2022-05-25,Ghana,iOS,Organic
+2321,2022-05-16,South Africa,Web,Organic
+2322,2022-01-03,Nigeria,Web,Organic
+2323,2022-05-24,Kenya,Web,Referral
+2324,2022-01-30,Nigeria,Web,Referral
+2325,2022-08-25,Kenya,Web,Referral
+2326,2022-10-06,Kenya,iOS,Referral
+2327,2022-12-14,Kenya,Web,Referral
+2328,2022-04-25,Kenya,Android,Referral
+2329,2022-04-14,Nigeria,Web,Organic
+2330,2022-04-28,South Africa,Web,Organic
+2331,2022-01-05,South Africa,iOS,Ads
+2332,2022-12-26,South Africa,Web,Organic
+2333,2022-09-05,South Africa,Android,Ads
+2334,2022-12-30,South Africa,iOS,Referral
+2335,2022-11-17,Kenya,iOS,Organic
+2336,2022-05-01,Nigeria,Web,Organic
+2337,2022-10-13,Kenya,Android,Referral
+2338,2022-05-29,Kenya,iOS,Organic
+2339,2022-03-25,South Africa,iOS,Organic
+2340,2022-08-19,Kenya,Web,Referral
+2341,2022-10-15,Kenya,iOS,Referral
+2342,2022-06-10,Ghana,Android,Referral
+2343,2022-09-29,South Africa,Web,Organic
+2344,2022-02-07,South Africa,iOS,Ads
+2345,2022-08-14,Nigeria,Web,Referral
+2346,2022-05-22,South Africa,Android,Organic
+2347,2022-10-19,Nigeria,Android,Organic
+2348,2022-05-31,South Africa,Android,Organic
+2349,2022-04-24,Kenya,Android,Referral
+2350,2022-08-25,Kenya,Android,Ads
+2351,2022-03-07,Ghana,Android,Ads
+2352,2022-12-27,South Africa,iOS,Ads
+2353,2022-12-07,Ghana,Web,Referral
+2354,2022-09-15,Ghana,Android,Organic
+2355,2022-09-06,Kenya,Android,Organic
+2356,2022-11-27,Ghana,Web,Organic
+2357,2022-11-19,Nigeria,Android,Organic
+2358,2022-06-29,South Africa,Web,Ads
+2359,2022-07-09,Ghana,iOS,Referral
+2360,2022-06-03,Ghana,Android,Referral
+2361,2022-07-15,Ghana,iOS,Ads
+2362,2022-11-07,South Africa,Android,Organic
+2363,2022-09-19,South Africa,iOS,Referral
+2364,2022-05-23,Kenya,Web,Organic
+2365,2022-12-08,Kenya,Android,Organic
+2366,2022-11-12,Ghana,Android,Organic
+2367,2022-04-11,Kenya,Web,Referral
+2368,2022-09-01,Ghana,iOS,Ads
+2369,2022-01-12,Kenya,Web,Ads
+2370,2022-08-27,Ghana,Web,Organic
+2371,2022-02-18,Kenya,iOS,Organic
+2372,2022-02-11,Nigeria,iOS,Referral
+2373,2022-06-15,South Africa,iOS,Organic
+2374,2022-03-23,Nigeria,Web,Ads
+2375,2022-10-18,Nigeria,Android,Organic
+2376,2022-06-07,Kenya,Web,Referral
+2377,2022-08-04,South Africa,Web,Referral
+2378,2022-06-07,South Africa,iOS,Ads
+2379,2022-05-14,Kenya,iOS,Ads
+2380,2022-03-08,Ghana,Web,Ads
+2381,2022-12-02,Kenya,Web,Referral
+2382,2022-01-07,Nigeria,Android,Referral
+2383,2022-01-14,Ghana,Android,Ads
+2384,2022-03-14,South Africa,iOS,Referral
+2385,2022-06-12,Ghana,Web,Organic
+2386,2022-03-07,Ghana,Android,Organic
+2387,2022-12-13,South Africa,Web,Referral
+2388,2022-05-10,South Africa,Web,Organic
+2389,2022-07-25,Kenya,Web,Referral
+2390,2022-10-03,South Africa,Android,Ads
+2391,2022-09-13,Kenya,iOS,Ads
+2392,2022-09-23,Ghana,iOS,Ads
+2393,2022-01-25,Kenya,Android,Referral
+2394,2022-10-08,South Africa,iOS,Organic
+2395,2022-09-10,Kenya,iOS,Referral
+2396,2022-11-06,Ghana,iOS,Referral
+2397,2022-10-16,South Africa,Web,Referral
+2398,2022-06-13,Kenya,iOS,Referral
+2399,2022-04-05,Ghana,Android,Ads
+2400,2022-09-27,Kenya,Web,Referral
+2401,2022-11-17,Kenya,Web,Organic
+2402,2022-04-20,Nigeria,Web,Referral
+2403,2022-12-02,Ghana,Web,Referral
+2404,2022-11-06,Nigeria,iOS,Organic
+2405,2022-08-26,Kenya,Android,Organic
+2406,2022-01-25,Nigeria,iOS,Organic
+2407,2022-05-21,Nigeria,iOS,Referral
+2408,2022-04-27,Kenya,Web,Organic
+2409,2022-01-25,Kenya,iOS,Organic
+2410,2022-03-20,Kenya,iOS,Organic
+2411,2022-03-09,Nigeria,iOS,Referral
+2412,2022-06-22,Ghana,Web,Organic
+2413,2022-01-12,Ghana,iOS,Ads
+2414,2022-10-15,Nigeria,Android,Organic
+2415,2022-05-08,Ghana,Android,Organic
+2416,2022-04-06,South Africa,iOS,Referral
+2417,2022-04-02,Nigeria,Web,Referral
+2418,2022-05-21,Kenya,Android,Ads
+2419,2022-01-31,Ghana,iOS,Ads
+2420,2022-11-30,Kenya,Web,Referral
+2421,2022-01-20,South Africa,Android,Ads
+2422,2022-05-26,South Africa,Web,Ads
+2423,2022-11-12,South Africa,Web,Referral
+2424,2022-06-09,Nigeria,iOS,Referral
+2425,2022-12-15,Kenya,iOS,Organic
+2426,2022-02-12,South Africa,Android,Referral
+2427,2022-09-11,Kenya,Web,Referral
+2428,2022-05-10,Nigeria,Web,Ads
+2429,2022-03-01,Ghana,iOS,Referral
+2430,2022-05-31,Kenya,Web,Ads
+2431,2022-10-14,South Africa,iOS,Ads
+2432,2022-01-05,Kenya,Android,Ads
+2433,2022-09-23,South Africa,iOS,Ads
+2434,2022-12-11,Ghana,iOS,Organic
+2435,2022-05-10,Ghana,Web,Organic
+2436,2022-09-24,Ghana,iOS,Referral
+2437,2022-06-27,Nigeria,Android,Referral
+2438,2022-09-10,Kenya,iOS,Ads
+2439,2022-02-25,Ghana,iOS,Organic
+2440,2022-03-24,South Africa,Web,Organic
+2441,2022-04-09,Nigeria,Android,Referral
+2442,2022-05-29,Nigeria,iOS,Organic
+2443,2022-11-25,Kenya,Web,Ads
+2444,2022-06-05,Kenya,Android,Referral
+2445,2022-07-09,Nigeria,Web,Organic
+2446,2022-09-20,Ghana,iOS,Referral
+2447,2022-03-21,South Africa,Web,Ads
+2448,2022-09-09,South Africa,Android,Referral
+2449,2022-04-07,Nigeria,Android,Ads
+2450,2022-09-17,South Africa,Web,Organic
+2451,2022-09-17,Nigeria,Web,Referral
+2452,2022-04-13,Ghana,iOS,Referral
+2453,2022-02-09,South Africa,iOS,Organic
+2454,2022-09-30,South Africa,iOS,Organic
+2455,2022-04-11,Ghana,Web,Organic
+2456,2022-12-25,South Africa,Web,Ads
+2457,2022-11-04,Kenya,Android,Ads
+2458,2022-08-09,South Africa,Android,Ads
+2459,2022-11-04,Nigeria,Android,Referral
+2460,2022-05-04,Nigeria,iOS,Referral
+2461,2022-08-19,South Africa,Android,Referral
+2462,2022-06-27,Kenya,iOS,Referral
+2463,2022-03-04,Kenya,iOS,Organic
+2464,2022-04-26,Nigeria,Web,Referral
+2465,2022-07-10,Nigeria,iOS,Ads
+2466,2022-03-03,Kenya,iOS,Ads
+2467,2022-09-13,Nigeria,iOS,Ads
+2468,2022-01-07,Ghana,Android,Ads
+2469,2022-06-04,Ghana,Android,Referral
+2470,2022-04-02,Kenya,Web,Ads
+2471,2022-01-14,Kenya,iOS,Organic
+2472,2022-08-17,South Africa,iOS,Organic
+2473,2022-03-27,South Africa,iOS,Ads
+2474,2022-05-13,Kenya,iOS,Organic
+2475,2022-07-02,Nigeria,Android,Organic
+2476,2022-03-03,South Africa,iOS,Ads
+2477,2022-08-07,Kenya,Web,Referral
+2478,2022-09-03,Kenya,Android,Ads
+2479,2022-08-18,South Africa,iOS,Ads
+2480,2022-03-20,South Africa,iOS,Referral
+2481,2022-05-29,Nigeria,iOS,Ads
+2482,2022-05-18,Nigeria,Web,Referral
+2483,2022-11-10,Kenya,Web,Organic
+2484,2022-03-06,Nigeria,Web,Ads
+2485,2022-01-13,South Africa,iOS,Ads
+2486,2022-08-01,Kenya,Android,Referral
+2487,2022-08-30,Nigeria,Android,Referral
+2488,2022-08-01,Ghana,Android,Ads
+2489,2022-06-30,Ghana,iOS,Organic
+2490,2022-12-04,Nigeria,iOS,Ads
+2491,2022-06-22,Kenya,iOS,Ads
+2492,2022-06-09,Ghana,Android,Referral
+2493,2022-06-13,South Africa,Android,Organic
+2494,2022-07-07,Ghana,Web,Referral
+2495,2022-07-10,South Africa,iOS,Referral
+2496,2022-11-04,South Africa,Android,Organic
+2497,2022-09-13,Kenya,iOS,Organic
+2498,2022-07-02,Ghana,iOS,Ads
+2499,2022-04-27,Nigeria,Web,Referral
+2500,2022-10-09,Nigeria,Web,Ads
+2501,2022-07-15,South Africa,iOS,Organic
+2502,2022-02-03,Ghana,Android,Organic
+2503,2022-02-21,Kenya,iOS,Organic
+2504,2022-04-22,South Africa,Android,Ads
+2505,2022-09-09,Nigeria,Web,Referral
+2506,2022-03-23,South Africa,Android,Referral
+2507,2022-08-20,Nigeria,Web,Organic
+2508,2022-08-15,South Africa,Web,Referral
+2509,2022-08-21,Kenya,Android,Referral
+2510,2022-08-09,South Africa,Android,Organic
+2511,2022-02-11,Nigeria,Android,Ads
+2512,2022-01-21,Ghana,Android,Organic
+2513,2022-02-11,South Africa,iOS,Referral
+2514,2022-04-23,Ghana,iOS,Ads
+2515,2022-04-15,South Africa,Web,Organic
+2516,2022-07-11,Nigeria,Android,Ads
+2517,2022-01-17,Kenya,Web,Referral
+2518,2022-04-30,Nigeria,Android,Ads
+2519,2022-05-09,Nigeria,Android,Referral
+2520,2022-05-10,Nigeria,Android,Referral
+2521,2022-03-01,South Africa,Web,Organic
+2522,2022-02-17,Nigeria,Android,Organic
+2523,2022-01-29,South Africa,Web,Ads
+2524,2022-04-07,Ghana,Android,Referral
+2525,2022-01-10,South Africa,Android,Organic
+2526,2022-08-30,South Africa,Web,Ads
+2527,2022-11-10,Ghana,Web,Ads
+2528,2022-08-20,Kenya,Android,Organic
+2529,2022-10-04,South Africa,Android,Ads
+2530,2022-10-11,Ghana,Android,Referral
+2531,2022-07-22,Kenya,Web,Referral
+2532,2022-09-04,Kenya,Android,Organic
+2533,2022-10-17,South Africa,iOS,Organic
+2534,2022-09-21,South Africa,iOS,Referral
+2535,2022-08-02,Nigeria,iOS,Referral
+2536,2022-07-19,South Africa,iOS,Ads
+2537,2022-03-20,Ghana,Web,Referral
+2538,2022-12-09,Kenya,Android,Ads
+2539,2022-12-10,Nigeria,Android,Ads
+2540,2022-06-22,Ghana,iOS,Organic
+2541,2022-03-10,Nigeria,iOS,Organic
+2542,2022-03-28,Nigeria,Android,Ads
+2543,2022-04-11,Ghana,Android,Referral
+2544,2022-01-08,Nigeria,Android,Organic
+2545,2022-11-29,Kenya,Android,Organic
+2546,2022-07-19,Kenya,Web,Referral
+2547,2022-03-28,South Africa,iOS,Ads
+2548,2022-02-12,Nigeria,Android,Ads
+2549,2022-04-19,Nigeria,Android,Organic
+2550,2022-06-01,Ghana,Android,Referral
+2551,2022-01-17,Ghana,Web,Organic
+2552,2022-05-13,South Africa,Android,Referral
+2553,2022-05-28,Ghana,iOS,Ads
+2554,2022-10-04,Nigeria,Web,Organic
+2555,2022-08-20,Nigeria,Web,Organic
+2556,2022-11-10,Nigeria,Web,Referral
+2557,2022-08-16,Nigeria,Web,Ads
+2558,2022-05-19,Ghana,Android,Ads
+2559,2022-07-30,South Africa,Android,Organic
+2560,2022-01-28,Nigeria,Web,Organic
+2561,2022-02-20,Ghana,Web,Organic
+2562,2022-09-18,Ghana,Web,Referral
+2563,2022-09-18,Ghana,Android,Organic
+2564,2022-12-16,Nigeria,Android,Referral
+2565,2022-12-18,Ghana,Web,Ads
+2566,2022-01-08,South Africa,Android,Ads
+2567,2022-11-16,South Africa,Web,Referral
+2568,2022-05-18,Kenya,Web,Referral
+2569,2022-02-07,Ghana,Web,Referral
+2570,2022-04-21,Kenya,iOS,Organic
+2571,2022-08-08,Nigeria,Web,Referral
+2572,2022-12-03,Kenya,iOS,Referral
+2573,2022-08-11,Nigeria,iOS,Ads
+2574,2022-05-16,Kenya,Android,Referral
+2575,2022-09-13,South Africa,Web,Organic
+2576,2022-12-26,Nigeria,Web,Ads
+2577,2022-11-25,Nigeria,iOS,Ads
+2578,2022-02-18,Nigeria,Android,Referral
+2579,2022-10-19,South Africa,Web,Ads
+2580,2022-11-20,South Africa,iOS,Organic
+2581,2022-03-19,Nigeria,Android,Organic
+2582,2022-04-15,Nigeria,Web,Ads
+2583,2022-06-18,Nigeria,Web,Referral
+2584,2022-08-05,South Africa,Android,Ads
+2585,2022-04-29,South Africa,iOS,Organic
+2586,2022-07-09,Nigeria,Android,Referral
+2587,2022-09-12,Nigeria,Web,Organic
+2588,2022-09-23,Kenya,Web,Referral
+2589,2022-05-29,South Africa,Android,Organic
+2590,2022-06-13,Ghana,iOS,Organic
+2591,2022-05-20,South Africa,Web,Organic
+2592,2022-12-13,South Africa,Web,Organic
+2593,2022-09-15,South Africa,Web,Organic
+2594,2022-09-26,South Africa,iOS,Organic
+2595,2022-06-30,Kenya,Android,Ads
+2596,2022-06-09,Nigeria,iOS,Ads
+2597,2022-12-17,South Africa,Android,Organic
+2598,2022-10-15,Kenya,Android,Organic
+2599,2022-10-15,South Africa,iOS,Organic
+2600,2022-08-14,Kenya,Android,Ads
+2601,2022-01-11,Ghana,iOS,Ads
+2602,2022-01-10,Nigeria,iOS,Ads
+2603,2022-09-28,Ghana,Web,Referral
+2604,2022-09-30,South Africa,iOS,Ads
+2605,2022-07-02,South Africa,iOS,Ads
+2606,2022-06-02,South Africa,Web,Referral
+2607,2022-11-11,South Africa,Android,Organic
+2608,2022-11-30,Nigeria,Android,Organic
+2609,2022-05-04,Kenya,iOS,Organic
+2610,2022-04-24,Nigeria,Android,Organic
+2611,2022-10-05,Ghana,iOS,Ads
+2612,2022-08-01,Ghana,Web,Ads
+2613,2022-06-21,Nigeria,Android,Ads
+2614,2022-10-15,Ghana,Android,Organic
+2615,2022-06-23,South Africa,Web,Organic
+2616,2022-04-23,Ghana,iOS,Ads
+2617,2022-05-02,Ghana,iOS,Organic
+2618,2022-02-01,Ghana,iOS,Organic
+2619,2022-08-10,Ghana,Android,Ads
+2620,2022-04-29,Kenya,iOS,Referral
+2621,2022-02-08,South Africa,iOS,Referral
+2622,2022-09-25,Nigeria,iOS,Referral
+2623,2022-08-21,South Africa,iOS,Organic
+2624,2022-01-18,Ghana,Android,Referral
+2625,2022-05-29,Ghana,Web,Referral
+2626,2022-05-29,South Africa,iOS,Ads
+2627,2022-05-06,Ghana,iOS,Referral
+2628,2022-10-29,Ghana,Web,Referral
+2629,2022-12-26,Kenya,iOS,Ads
+2630,2022-08-26,Kenya,Android,Organic
+2631,2022-05-15,Nigeria,Android,Organic
+2632,2022-05-31,Nigeria,iOS,Organic
+2633,2022-08-24,South Africa,Web,Referral
+2634,2022-08-12,Ghana,Android,Organic
+2635,2022-07-22,Kenya,Android,Referral
+2636,2022-09-13,Kenya,iOS,Ads
+2637,2022-03-27,Nigeria,iOS,Ads
+2638,2022-05-30,Nigeria,Android,Organic
+2639,2022-08-23,Nigeria,iOS,Referral
+2640,2022-12-11,Kenya,iOS,Organic
+2641,2022-01-22,Nigeria,iOS,Ads
+2642,2022-12-14,South Africa,Android,Ads
+2643,2022-10-12,Ghana,Web,Referral
+2644,2022-09-26,Nigeria,Android,Organic
+2645,2022-09-15,Ghana,iOS,Organic
+2646,2022-01-29,South Africa,Web,Ads
+2647,2022-08-01,South Africa,Web,Organic
+2648,2022-10-10,Ghana,Web,Organic
+2649,2022-02-19,Ghana,Web,Ads
+2650,2022-04-05,Kenya,iOS,Organic
+2651,2022-03-29,Nigeria,Android,Referral
+2652,2022-02-13,South Africa,Web,Organic
+2653,2022-10-05,Kenya,Web,Organic
+2654,2022-06-20,Kenya,iOS,Referral
+2655,2022-07-08,Kenya,Android,Referral
+2656,2022-12-19,Ghana,Android,Ads
+2657,2022-07-03,Nigeria,Android,Ads
+2658,2022-01-03,Nigeria,Web,Ads
+2659,2022-07-10,Nigeria,Web,Ads
+2660,2022-04-28,South Africa,Web,Organic
+2661,2022-01-19,South Africa,Android,Ads
+2662,2022-01-23,Nigeria,Android,Ads
+2663,2022-01-30,Ghana,Android,Organic
+2664,2022-10-22,Kenya,Web,Ads
+2665,2022-04-18,Nigeria,iOS,Referral
+2666,2022-10-08,Nigeria,iOS,Organic
+2667,2022-05-08,South Africa,iOS,Organic
+2668,2022-08-17,Nigeria,Android,Organic
+2669,2022-04-21,Kenya,iOS,Referral
+2670,2022-05-16,Kenya,Web,Ads
+2671,2022-12-28,Kenya,iOS,Organic
+2672,2022-07-05,Kenya,iOS,Organic
+2673,2022-05-24,South Africa,iOS,Ads
+2674,2022-03-13,South Africa,Web,Referral
+2675,2022-05-09,Nigeria,Android,Referral
+2676,2022-12-30,South Africa,Web,Ads
+2677,2022-09-18,Nigeria,iOS,Ads
+2678,2022-01-03,Kenya,Android,Referral
+2679,2022-04-14,South Africa,Web,Organic
+2680,2022-08-12,South Africa,Android,Ads
+2681,2022-11-16,South Africa,Android,Referral
+2682,2022-12-28,Kenya,Android,Ads
+2683,2022-12-20,Nigeria,Web,Organic
+2684,2022-01-10,South Africa,Android,Ads
+2685,2022-10-29,Ghana,iOS,Ads
+2686,2022-08-19,Nigeria,Web,Referral
+2687,2022-08-07,Ghana,Android,Organic
+2688,2022-03-07,Kenya,iOS,Ads
+2689,2022-04-22,Nigeria,Web,Ads
+2690,2022-01-13,Ghana,iOS,Referral
+2691,2022-03-27,South Africa,Android,Referral
+2692,2022-08-22,Nigeria,iOS,Referral
+2693,2022-03-31,Kenya,Android,Organic
+2694,2022-11-10,Ghana,iOS,Organic
+2695,2022-02-23,Kenya,iOS,Referral
+2696,2022-01-12,Ghana,Android,Referral
+2697,2022-07-28,Nigeria,iOS,Ads
+2698,2022-01-14,Kenya,iOS,Organic
+2699,2022-05-01,Nigeria,Web,Ads
+2700,2022-01-20,South Africa,Android,Organic
+2701,2022-03-16,Kenya,Android,Organic
+2702,2022-08-31,South Africa,iOS,Referral
+2703,2022-08-11,South Africa,Web,Ads
+2704,2022-03-11,Ghana,Android,Referral
+2705,2022-11-08,Nigeria,Web,Referral
+2706,2022-07-30,Ghana,Web,Ads
+2707,2022-04-11,South Africa,Web,Ads
+2708,2022-07-05,South Africa,Web,Ads
+2709,2022-05-12,Nigeria,iOS,Ads
+2710,2022-04-21,Ghana,Web,Referral
+2711,2022-05-12,Ghana,Android,Referral
+2712,2022-01-20,Kenya,iOS,Referral
+2713,2022-01-24,South Africa,iOS,Ads
+2714,2022-08-15,Nigeria,iOS,Ads
+2715,2022-06-03,Nigeria,Web,Referral
+2716,2022-10-20,Ghana,iOS,Ads
+2717,2022-08-18,Ghana,iOS,Organic
+2718,2022-11-06,South Africa,iOS,Organic
+2719,2022-12-25,South Africa,iOS,Ads
+2720,2022-07-21,Kenya,Web,Organic
+2721,2022-02-07,Kenya,iOS,Referral
+2722,2022-09-17,Ghana,Web,Referral
+2723,2022-07-07,Nigeria,Android,Ads
+2724,2022-02-26,Kenya,iOS,Organic
+2725,2022-01-20,Ghana,Web,Referral
+2726,2022-09-30,Kenya,Web,Referral
+2727,2022-04-29,Ghana,Android,Referral
+2728,2022-03-12,South Africa,iOS,Referral
+2729,2022-01-04,Kenya,Web,Organic
+2730,2022-08-09,Ghana,iOS,Ads
+2731,2022-01-14,Ghana,Android,Organic
+2732,2022-01-03,Nigeria,Web,Referral
+2733,2022-08-04,Ghana,Android,Organic
+2734,2022-08-17,Nigeria,Web,Organic
+2735,2022-12-02,South Africa,Android,Organic
+2736,2022-07-05,Kenya,Web,Organic
+2737,2022-02-24,South Africa,Android,Ads
+2738,2022-09-11,South Africa,Android,Referral
+2739,2022-01-24,Kenya,iOS,Organic
+2740,2022-06-11,Ghana,Android,Organic
+2741,2022-06-07,South Africa,Android,Referral
+2742,2022-03-23,South Africa,Android,Ads
+2743,2022-06-08,Ghana,iOS,Referral
+2744,2022-07-07,Ghana,iOS,Organic
+2745,2022-03-01,Ghana,iOS,Ads
+2746,2022-11-01,Ghana,iOS,Organic
+2747,2022-11-15,Nigeria,Android,Organic
+2748,2022-07-30,Kenya,Android,Organic
+2749,2022-06-01,Kenya,Web,Ads
+2750,2022-04-19,Ghana,Android,Referral
+2751,2022-03-17,Kenya,Web,Ads
+2752,2022-01-30,South Africa,Android,Ads
+2753,2022-11-10,South Africa,Web,Organic
+2754,2022-04-27,Ghana,Android,Referral
+2755,2022-12-22,Kenya,Android,Organic
+2756,2022-07-11,Nigeria,Android,Referral
+2757,2022-01-19,Ghana,Web,Referral
+2758,2022-06-22,Ghana,Android,Ads
+2759,2022-08-16,Ghana,Web,Referral
+2760,2022-12-16,Ghana,Android,Organic
+2761,2022-07-02,Nigeria,iOS,Organic
+2762,2022-04-23,South Africa,Android,Organic
+2763,2022-07-02,South Africa,iOS,Organic
+2764,2022-05-26,Nigeria,Android,Organic
+2765,2022-11-15,Nigeria,Web,Ads
+2766,2022-04-26,Nigeria,Android,Ads
+2767,2022-04-23,Kenya,iOS,Ads
+2768,2022-09-08,Kenya,Web,Ads
+2769,2022-09-08,Ghana,iOS,Referral
+2770,2022-10-30,South Africa,iOS,Organic
+2771,2022-11-09,South Africa,iOS,Referral
+2772,2022-04-28,South Africa,Web,Ads
+2773,2022-10-28,Nigeria,iOS,Ads
+2774,2022-06-10,Ghana,iOS,Referral
+2775,2022-07-17,Ghana,Android,Referral
+2776,2022-09-17,Ghana,iOS,Ads
+2777,2022-05-28,Nigeria,Web,Organic
+2778,2022-08-28,Nigeria,Web,Ads
+2779,2022-02-16,Nigeria,Web,Referral
+2780,2022-07-17,Nigeria,Web,Ads
+2781,2022-02-16,Kenya,Android,Referral
+2782,2022-03-19,Nigeria,iOS,Organic
+2783,2022-05-04,Nigeria,iOS,Organic
+2784,2022-03-16,Ghana,Web,Organic
+2785,2022-12-25,Ghana,iOS,Referral
+2786,2022-05-17,Nigeria,Web,Referral
+2787,2022-03-31,Kenya,iOS,Organic
+2788,2022-11-21,Nigeria,iOS,Referral
+2789,2022-03-02,Ghana,iOS,Ads
+2790,2022-05-18,Nigeria,Android,Referral
+2791,2022-02-19,Ghana,Android,Referral
+2792,2022-09-16,Nigeria,Web,Referral
+2793,2022-04-17,South Africa,Web,Ads
+2794,2022-04-23,South Africa,Web,Referral
+2795,2022-12-16,Kenya,Web,Referral
+2796,2022-09-11,South Africa,iOS,Ads
+2797,2022-04-28,Kenya,Android,Ads
+2798,2022-07-17,Kenya,iOS,Organic
+2799,2022-12-03,South Africa,Android,Ads
+2800,2022-12-31,South Africa,iOS,Organic
+2801,2022-02-20,Kenya,Android,Organic
+2802,2022-09-02,South Africa,iOS,Ads
+2803,2022-02-04,Ghana,Android,Ads
+2804,2022-10-29,South Africa,Android,Ads
+2805,2022-03-10,Nigeria,iOS,Ads
+2806,2022-12-15,Kenya,Web,Ads
+2807,2022-11-16,South Africa,Android,Ads
+2808,2022-02-18,Kenya,Web,Referral
+2809,2022-03-15,Kenya,iOS,Ads
+2810,2022-07-11,South Africa,iOS,Organic
+2811,2022-09-18,Nigeria,Android,Referral
+2812,2022-12-22,Ghana,Android,Referral
+2813,2022-03-11,Kenya,iOS,Organic
+2814,2022-03-31,Ghana,Android,Organic
+2815,2022-09-17,Ghana,Android,Organic
+2816,2022-05-06,South Africa,Web,Organic
+2817,2022-08-19,Ghana,Web,Referral
+2818,2022-10-22,Nigeria,Android,Ads
+2819,2022-05-09,South Africa,Web,Referral
+2820,2022-10-07,Ghana,iOS,Ads
+2821,2022-11-09,Kenya,Android,Ads
+2822,2022-04-10,South Africa,Web,Ads
+2823,2022-11-22,Kenya,Web,Referral
+2824,2022-10-24,Kenya,Android,Organic
+2825,2022-07-01,Kenya,Web,Referral
+2826,2022-06-23,Nigeria,Android,Ads
+2827,2022-11-12,Nigeria,Android,Ads
+2828,2022-12-30,Kenya,iOS,Ads
+2829,2022-07-07,South Africa,Android,Organic
+2830,2022-02-26,Nigeria,Android,Organic
+2831,2022-01-31,Ghana,iOS,Referral
+2832,2022-03-25,Ghana,Web,Referral
+2833,2022-06-01,Ghana,Web,Ads
+2834,2022-02-05,Ghana,Android,Referral
+2835,2022-08-01,Kenya,iOS,Ads
+2836,2022-12-30,South Africa,iOS,Organic
+2837,2022-04-16,South Africa,iOS,Organic
+2838,2022-12-08,Ghana,Web,Ads
+2839,2022-08-08,Kenya,Android,Ads
+2840,2022-06-12,Ghana,iOS,Ads
+2841,2022-08-08,South Africa,iOS,Ads
+2842,2022-09-27,Nigeria,Web,Organic
+2843,2022-04-30,Ghana,Web,Referral
+2844,2022-12-02,Kenya,Web,Referral
+2845,2022-07-01,Ghana,Android,Organic
+2846,2022-04-16,Nigeria,Android,Referral
+2847,2022-08-05,Kenya,Android,Ads
+2848,2022-07-24,Kenya,Web,Referral
+2849,2022-03-11,Ghana,iOS,Referral
+2850,2022-02-13,Kenya,Web,Organic
+2851,2022-11-25,Kenya,Android,Organic
+2852,2022-10-28,Ghana,Android,Ads
+2853,2022-08-16,South Africa,Android,Ads
+2854,2022-07-03,Ghana,iOS,Ads
+2855,2022-04-17,Kenya,iOS,Ads
+2856,2022-03-25,Ghana,Android,Organic
+2857,2022-12-04,Kenya,iOS,Ads
+2858,2022-09-07,Nigeria,iOS,Organic
+2859,2022-12-29,Ghana,iOS,Ads
+2860,2022-01-21,South Africa,Web,Ads
+2861,2022-07-15,South Africa,Android,Ads
+2862,2022-06-27,Kenya,Web,Ads
+2863,2022-01-07,Ghana,Web,Organic
+2864,2022-03-11,Ghana,Android,Ads
+2865,2022-05-07,Nigeria,Web,Organic
+2866,2022-06-09,Ghana,Android,Ads
+2867,2022-09-05,Kenya,Android,Organic
+2868,2022-07-22,Ghana,iOS,Ads
+2869,2022-05-28,South Africa,Web,Referral
+2870,2022-05-23,Nigeria,iOS,Ads
+2871,2022-07-18,South Africa,Android,Organic
+2872,2022-06-03,Nigeria,iOS,Ads
+2873,2022-05-22,Ghana,Android,Organic
+2874,2022-11-09,Nigeria,iOS,Referral
+2875,2022-06-14,Kenya,Web,Referral
+2876,2022-11-10,Nigeria,Android,Ads
+2877,2022-01-21,Ghana,Web,Organic
+2878,2022-03-23,Ghana,Web,Ads
+2879,2022-03-10,Nigeria,iOS,Organic
+2880,2022-05-11,Ghana,Web,Referral
+2881,2022-03-28,Kenya,iOS,Ads
+2882,2022-08-06,Kenya,iOS,Ads
+2883,2022-11-01,South Africa,iOS,Referral
+2884,2022-12-11,Nigeria,Android,Organic
+2885,2022-12-07,Kenya,Web,Organic
+2886,2022-06-10,Ghana,iOS,Referral
+2887,2022-06-27,South Africa,Android,Referral
+2888,2022-04-27,Kenya,Web,Referral
+2889,2022-07-15,Nigeria,Android,Organic
+2890,2022-11-23,Nigeria,Web,Referral
+2891,2022-03-27,Nigeria,iOS,Referral
+2892,2022-10-16,Ghana,iOS,Ads
+2893,2022-03-22,Nigeria,iOS,Organic
+2894,2022-06-01,Ghana,iOS,Referral
+2895,2022-03-02,Nigeria,iOS,Ads
+2896,2022-03-02,South Africa,iOS,Organic
+2897,2022-12-20,Kenya,iOS,Referral
+2898,2022-01-28,Ghana,Android,Organic
+2899,2022-02-12,South Africa,Android,Ads
+2900,2022-06-18,Nigeria,iOS,Organic
+2901,2022-03-27,Nigeria,Android,Organic
+2902,2022-06-26,Ghana,iOS,Referral
+2903,2022-01-17,Nigeria,Web,Referral
+2904,2022-04-08,Nigeria,Android,Referral
+2905,2022-07-17,Nigeria,Web,Organic
+2906,2022-04-08,Ghana,Web,Referral
+2907,2022-03-06,Kenya,iOS,Referral
+2908,2022-11-26,Nigeria,Web,Referral
+2909,2022-12-07,South Africa,Android,Ads
+2910,2022-01-05,Kenya,Android,Referral
+2911,2022-01-02,Ghana,Web,Organic
+2912,2022-01-22,Ghana,Android,Organic
+2913,2022-04-22,South Africa,Android,Ads
+2914,2022-02-26,Kenya,iOS,Ads
+2915,2022-03-07,Kenya,Web,Ads
+2916,2022-11-26,Kenya,iOS,Organic
+2917,2022-04-08,South Africa,Web,Referral
+2918,2022-05-24,South Africa,Web,Ads
+2919,2022-05-05,Kenya,Web,Ads
+2920,2022-06-16,Kenya,Android,Referral
+2921,2022-03-27,Kenya,iOS,Organic
+2922,2022-03-17,Kenya,iOS,Ads
+2923,2022-12-10,Ghana,Android,Organic
+2924,2022-10-21,Ghana,Android,Organic
+2925,2022-02-28,South Africa,iOS,Organic
+2926,2022-05-18,Nigeria,Android,Referral
+2927,2022-04-09,South Africa,Web,Referral
+2928,2022-07-11,Ghana,Web,Referral
+2929,2022-08-31,Ghana,Web,Ads
+2930,2022-11-15,Kenya,Web,Referral
+2931,2022-02-18,Nigeria,iOS,Referral
+2932,2022-02-01,Kenya,iOS,Organic
+2933,2022-10-04,Kenya,iOS,Ads
+2934,2022-01-20,Nigeria,iOS,Organic
+2935,2022-06-03,Kenya,Web,Referral
+2936,2022-03-09,Nigeria,iOS,Organic
+2937,2022-08-02,Ghana,Android,Organic
+2938,2022-05-23,South Africa,Android,Referral
+2939,2022-08-20,South Africa,Web,Referral
+2940,2022-08-01,South Africa,Android,Organic
+2941,2022-03-20,South Africa,Android,Ads
+2942,2022-08-02,Ghana,Android,Ads
+2943,2022-04-26,Ghana,iOS,Referral
+2944,2022-04-02,South Africa,iOS,Referral
+2945,2022-09-27,Nigeria,Android,Referral
+2946,2022-06-17,Kenya,Web,Organic
+2947,2022-02-27,Kenya,Android,Organic
+2948,2022-10-11,Ghana,Android,Ads
+2949,2022-01-26,Nigeria,Web,Ads
+2950,2022-03-07,South Africa,Web,Ads
+2951,2022-09-05,Ghana,Web,Referral
+2952,2022-09-11,Kenya,iOS,Referral
+2953,2022-02-13,South Africa,Web,Organic
+2954,2022-04-07,South Africa,Android,Organic
+2955,2022-02-11,South Africa,iOS,Referral
+2956,2022-08-15,Ghana,Android,Ads
+2957,2022-09-19,Ghana,Android,Ads
+2958,2022-06-16,Nigeria,Android,Referral
+2959,2022-10-06,Nigeria,iOS,Organic
+2960,2022-03-30,Nigeria,iOS,Referral
+2961,2022-06-27,Nigeria,iOS,Ads
+2962,2022-07-16,Nigeria,iOS,Organic
+2963,2022-11-03,Kenya,iOS,Referral
+2964,2022-09-24,Ghana,iOS,Organic
+2965,2022-09-25,Nigeria,Android,Ads
+2966,2022-03-15,South Africa,iOS,Ads
+2967,2022-01-08,Ghana,iOS,Ads
+2968,2022-10-24,Nigeria,Web,Referral
+2969,2022-06-13,Nigeria,Web,Referral
+2970,2022-03-26,Ghana,iOS,Ads
+2971,2022-03-13,Kenya,iOS,Referral
+2972,2022-02-24,Ghana,Android,Ads
+2973,2022-02-16,Kenya,iOS,Organic
+2974,2022-08-26,Kenya,iOS,Referral
+2975,2022-04-14,Nigeria,iOS,Organic
+2976,2022-07-29,Kenya,Android,Referral
+2977,2022-02-11,Ghana,Android,Ads
+2978,2022-11-12,Kenya,Android,Ads
+2979,2022-09-25,Ghana,Android,Organic
+2980,2022-09-20,Ghana,iOS,Referral
+2981,2022-12-02,Ghana,Web,Referral
+2982,2022-12-31,Nigeria,Android,Organic
+2983,2022-09-16,Ghana,Web,Referral
+2984,2022-10-10,Kenya,Android,Referral
+2985,2022-04-24,Kenya,iOS,Referral
+2986,2022-12-29,Kenya,iOS,Referral
+2987,2022-02-09,Kenya,iOS,Referral
+2988,2022-08-08,Nigeria,iOS,Referral
+2989,2022-05-09,Nigeria,Android,Referral
+2990,2022-01-08,Kenya,Web,Referral
+2991,2022-04-11,Nigeria,iOS,Ads
+2992,2022-06-25,Ghana,iOS,Organic
+2993,2022-04-17,Ghana,Android,Referral
+2994,2022-04-11,Nigeria,iOS,Referral
+2995,2022-09-17,Ghana,Web,Ads
+2996,2022-09-03,Kenya,Web,Ads
+2997,2022-10-02,Ghana,iOS,Organic
+2998,2022-02-01,South Africa,iOS,Referral
+2999,2022-05-17,Ghana,Android,Ads
+3000,2022-01-12,Kenya,Web,Referral
+3001,2022-10-29,Nigeria,iOS,Ads
+3002,2022-01-16,South Africa,iOS,Referral
+3003,2022-05-09,South Africa,iOS,Referral
+3004,2022-03-04,Ghana,Web,Referral
+3005,2022-04-19,Kenya,iOS,Ads
+3006,2022-01-21,Kenya,Android,Referral
+3007,2022-06-07,Nigeria,iOS,Organic
+3008,2022-09-26,South Africa,Web,Ads
+3009,2022-06-11,Kenya,iOS,Referral
+3010,2022-09-17,Nigeria,Web,Organic
+3011,2022-04-12,South Africa,Web,Organic
+3012,2022-08-11,South Africa,Web,Ads
+3013,2022-02-28,Kenya,iOS,Organic
+3014,2022-09-04,South Africa,Android,Referral
+3015,2022-05-08,Nigeria,Android,Organic
+3016,2022-10-10,Kenya,iOS,Referral
+3017,2022-11-21,Nigeria,iOS,Organic
+3018,2022-01-25,Ghana,Android,Referral
+3019,2022-05-11,Ghana,iOS,Ads
+3020,2022-12-19,Nigeria,iOS,Referral
+3021,2022-07-15,Ghana,Web,Organic
+3022,2022-10-08,South Africa,Web,Organic
+3023,2022-06-03,Nigeria,Android,Ads
+3024,2022-05-13,South Africa,Android,Referral
+3025,2022-08-15,Nigeria,Android,Referral
+3026,2022-07-08,Kenya,Web,Organic
+3027,2022-09-22,Ghana,iOS,Organic
+3028,2022-05-14,South Africa,Android,Ads
+3029,2022-07-30,Ghana,Web,Ads
+3030,2022-03-01,Nigeria,iOS,Referral
+3031,2022-12-30,Nigeria,Web,Ads
+3032,2022-12-30,Kenya,iOS,Organic
+3033,2022-08-01,South Africa,iOS,Organic
+3034,2022-08-04,Nigeria,Web,Referral
+3035,2022-08-14,Ghana,iOS,Referral
+3036,2022-05-11,Ghana,Android,Ads
+3037,2022-03-17,Kenya,iOS,Ads
+3038,2022-10-13,Ghana,iOS,Ads
+3039,2022-10-04,Nigeria,Web,Ads
+3040,2022-06-05,Nigeria,Android,Referral
+3041,2022-09-05,Kenya,Web,Organic
+3042,2022-08-06,Nigeria,Android,Organic
+3043,2022-07-09,South Africa,Android,Referral
+3044,2022-06-12,Ghana,Web,Referral
+3045,2022-06-29,South Africa,Android,Ads
+3046,2022-02-03,South Africa,Android,Referral
+3047,2022-02-10,South Africa,iOS,Referral
+3048,2022-11-03,Ghana,Android,Ads
+3049,2022-12-04,South Africa,iOS,Ads
+3050,2022-11-10,Kenya,iOS,Referral
+3051,2022-03-16,Nigeria,iOS,Referral
+3052,2022-10-06,Ghana,iOS,Organic
+3053,2022-06-25,Ghana,Android,Referral
+3054,2022-05-30,Kenya,Android,Ads
+3055,2022-09-30,South Africa,Web,Ads
+3056,2022-11-21,Kenya,Android,Organic
+3057,2022-04-18,Kenya,iOS,Organic
+3058,2022-05-19,Ghana,Web,Organic
+3059,2022-12-16,South Africa,iOS,Ads
+3060,2022-09-28,Kenya,Web,Organic
+3061,2022-12-13,South Africa,Web,Ads
+3062,2022-10-16,Nigeria,iOS,Referral
+3063,2022-07-31,Kenya,Android,Organic
+3064,2022-09-29,Nigeria,Web,Referral
+3065,2022-03-07,Kenya,iOS,Referral
+3066,2022-09-05,South Africa,Android,Referral
+3067,2022-06-05,Kenya,iOS,Organic
+3068,2022-02-16,South Africa,Android,Referral
+3069,2022-07-20,Ghana,Android,Ads
+3070,2022-05-28,South Africa,iOS,Ads
+3071,2022-05-04,Ghana,Web,Ads
+3072,2022-01-01,Nigeria,Android,Ads
+3073,2022-09-04,South Africa,Android,Referral
+3074,2022-12-09,Ghana,Android,Referral
+3075,2022-05-08,Ghana,Web,Referral
+3076,2022-07-10,Kenya,iOS,Ads
+3077,2022-03-08,Ghana,Web,Ads
+3078,2022-01-04,South Africa,iOS,Organic
+3079,2022-10-30,Kenya,Web,Ads
+3080,2022-10-21,South Africa,Android,Referral
+3081,2022-05-23,Kenya,iOS,Referral
+3082,2022-07-10,Kenya,iOS,Referral
+3083,2022-01-21,Nigeria,Web,Ads
+3084,2022-08-15,Nigeria,Android,Referral
+3085,2022-11-09,Kenya,Web,Referral
+3086,2022-04-27,South Africa,Web,Ads
+3087,2022-10-29,Ghana,Android,Ads
+3088,2022-05-22,Nigeria,Web,Organic
+3089,2022-02-08,Kenya,Web,Ads
+3090,2022-12-21,Kenya,Web,Referral
+3091,2022-09-09,Ghana,Web,Organic
+3092,2022-11-29,Nigeria,iOS,Ads
+3093,2022-07-26,Kenya,Web,Ads
+3094,2022-07-29,Kenya,iOS,Referral
+3095,2022-04-25,Ghana,Web,Organic
+3096,2022-08-13,South Africa,Android,Referral
+3097,2022-05-14,South Africa,Web,Ads
+3098,2022-09-08,Ghana,iOS,Ads
+3099,2022-08-07,South Africa,iOS,Referral
+3100,2022-04-01,Ghana,Android,Ads
+3101,2022-12-20,Kenya,Web,Ads
+3102,2022-02-15,Nigeria,Web,Referral
+3103,2022-02-07,Kenya,Android,Referral
+3104,2022-05-22,South Africa,iOS,Organic
+3105,2022-04-10,Ghana,iOS,Ads
+3106,2022-11-24,Nigeria,iOS,Ads
+3107,2022-07-09,South Africa,iOS,Referral
+3108,2022-02-04,South Africa,Web,Ads
+3109,2022-05-27,South Africa,Web,Ads
+3110,2022-01-30,Ghana,iOS,Organic
+3111,2022-11-30,Ghana,Android,Referral
+3112,2022-03-25,Kenya,Android,Referral
+3113,2022-10-08,South Africa,iOS,Organic
+3114,2022-12-10,South Africa,Android,Ads
+3115,2022-09-27,Nigeria,Web,Ads
+3116,2022-06-03,South Africa,Android,Referral
+3117,2022-04-12,Ghana,Web,Organic
+3118,2022-08-03,Ghana,Android,Ads
+3119,2022-05-30,Nigeria,iOS,Ads
+3120,2022-03-24,Kenya,Android,Ads
+3121,2022-04-20,Ghana,Web,Ads
+3122,2022-10-02,Ghana,Web,Referral
+3123,2022-07-20,Nigeria,iOS,Ads
+3124,2022-10-11,Nigeria,Web,Ads
+3125,2022-06-22,Ghana,Web,Organic
+3126,2022-11-23,Ghana,Android,Organic
+3127,2022-07-25,South Africa,Web,Ads
+3128,2022-03-04,Kenya,Android,Referral
+3129,2022-03-14,South Africa,Android,Organic
+3130,2022-09-08,South Africa,Android,Ads
+3131,2022-05-04,Ghana,Android,Organic
+3132,2022-05-01,Nigeria,iOS,Referral
+3133,2022-10-02,Nigeria,Web,Organic
+3134,2022-04-30,Ghana,iOS,Ads
+3135,2022-11-13,Ghana,Android,Referral
+3136,2022-06-13,Nigeria,Web,Ads
+3137,2022-10-13,South Africa,iOS,Organic
+3138,2022-09-22,South Africa,Web,Referral
+3139,2022-11-16,Nigeria,iOS,Referral
+3140,2022-06-10,South Africa,Web,Ads
+3141,2022-11-04,Kenya,Web,Ads
+3142,2022-03-30,Ghana,iOS,Ads
+3143,2022-05-22,Ghana,Android,Referral
+3144,2022-07-22,Kenya,iOS,Organic
+3145,2022-11-05,South Africa,Web,Organic
+3146,2022-08-15,Kenya,Web,Referral
+3147,2022-11-30,Nigeria,Web,Organic
+3148,2022-08-10,Nigeria,Android,Ads
+3149,2022-02-10,South Africa,Web,Referral
+3150,2022-07-15,Ghana,iOS,Ads
+3151,2022-03-09,Ghana,Android,Organic
+3152,2022-09-21,Nigeria,Android,Organic
+3153,2022-01-02,Nigeria,Android,Referral
+3154,2022-12-27,Kenya,Web,Ads
+3155,2022-05-05,Nigeria,Android,Organic
+3156,2022-04-20,South Africa,Web,Organic
+3157,2022-03-27,Kenya,iOS,Referral
+3158,2022-04-30,Ghana,Android,Referral
+3159,2022-05-07,Ghana,Android,Ads
+3160,2022-09-12,Kenya,iOS,Organic
+3161,2022-07-02,South Africa,Web,Ads
+3162,2022-01-16,Nigeria,Web,Ads
+3163,2022-03-03,Kenya,Web,Referral
+3164,2022-06-07,Kenya,iOS,Organic
+3165,2022-09-25,South Africa,Android,Referral
+3166,2022-02-04,Nigeria,Web,Ads
+3167,2022-09-24,Kenya,Android,Ads
+3168,2022-03-05,Nigeria,iOS,Organic
+3169,2022-02-19,Ghana,iOS,Organic
+3170,2022-09-12,Kenya,Android,Ads
+3171,2022-05-29,Nigeria,Web,Ads
+3172,2022-11-21,Ghana,Android,Organic
+3173,2022-10-31,Ghana,Android,Ads
+3174,2022-10-03,Kenya,iOS,Ads
+3175,2022-12-23,Kenya,Android,Referral
+3176,2022-06-21,Ghana,Android,Referral
+3177,2022-07-20,South Africa,iOS,Ads
+3178,2022-11-20,Nigeria,iOS,Organic
+3179,2022-02-04,Ghana,Web,Organic
+3180,2022-08-04,Nigeria,iOS,Organic
+3181,2022-03-06,Ghana,iOS,Ads
+3182,2022-01-08,Nigeria,Android,Ads
+3183,2022-10-28,Nigeria,Web,Referral
+3184,2022-12-09,South Africa,Web,Referral
+3185,2022-11-28,Ghana,Android,Ads
+3186,2022-03-17,South Africa,Android,Organic
+3187,2022-06-23,Ghana,iOS,Organic
+3188,2022-02-16,Kenya,Android,Ads
+3189,2022-01-15,Kenya,iOS,Organic
+3190,2022-12-27,South Africa,iOS,Referral
+3191,2022-05-27,South Africa,iOS,Organic
+3192,2022-01-26,Kenya,Web,Ads
+3193,2022-11-04,Kenya,Web,Ads
+3194,2022-04-03,Kenya,Android,Organic
+3195,2022-08-20,Ghana,Android,Organic
+3196,2022-01-21,Nigeria,Web,Ads
+3197,2022-11-03,Nigeria,iOS,Organic
+3198,2022-02-07,Kenya,Android,Ads
+3199,2022-10-03,Kenya,Web,Organic
+3200,2022-06-06,Ghana,Web,Referral
+3201,2022-06-28,South Africa,Android,Ads
+3202,2022-05-12,Kenya,Web,Referral
+3203,2022-11-07,Kenya,Android,Ads
+3204,2022-12-14,Ghana,iOS,Referral
+3205,2022-01-28,Ghana,Web,Ads
+3206,2022-09-17,Ghana,Web,Ads
+3207,2022-03-17,Ghana,iOS,Ads
+3208,2022-03-08,Nigeria,iOS,Ads
+3209,2022-12-08,Kenya,iOS,Organic
+3210,2022-07-13,South Africa,Android,Referral
+3211,2022-06-11,Nigeria,Android,Referral
+3212,2022-12-13,Kenya,Android,Ads
+3213,2022-12-27,Ghana,Android,Ads
+3214,2022-09-14,Ghana,Web,Organic
+3215,2022-03-13,Kenya,Android,Referral
+3216,2022-03-28,Kenya,iOS,Organic
+3217,2022-09-19,Nigeria,iOS,Ads
+3218,2022-08-02,Kenya,Web,Ads
+3219,2022-06-02,Ghana,Web,Organic
+3220,2022-07-29,South Africa,Android,Organic
+3221,2022-03-02,South Africa,Android,Referral
+3222,2022-09-25,Nigeria,Web,Organic
+3223,2022-09-19,South Africa,Web,Referral
+3224,2022-08-06,Ghana,Android,Organic
+3225,2022-10-10,Ghana,Web,Ads
+3226,2022-05-16,South Africa,Android,Ads
+3227,2022-12-28,Kenya,iOS,Referral
+3228,2022-04-03,Ghana,Android,Referral
+3229,2022-04-19,South Africa,Android,Ads
+3230,2022-08-29,Nigeria,iOS,Referral
+3231,2022-12-21,Kenya,Android,Referral
+3232,2022-05-22,Ghana,Web,Ads
+3233,2022-10-18,South Africa,Android,Organic
+3234,2022-08-25,Nigeria,Android,Ads
+3235,2022-12-06,South Africa,iOS,Ads
+3236,2022-11-08,Ghana,iOS,Ads
+3237,2022-06-26,Ghana,iOS,Organic
+3238,2022-05-21,Ghana,Web,Referral
+3239,2022-07-08,Kenya,Android,Referral
+3240,2022-02-18,Kenya,iOS,Referral
+3241,2022-10-29,Kenya,iOS,Referral
+3242,2022-07-09,Kenya,iOS,Referral
+3243,2022-05-16,Nigeria,Android,Referral
+3244,2022-02-12,Ghana,iOS,Ads
+3245,2022-12-19,South Africa,Android,Referral
+3246,2022-03-31,Ghana,iOS,Referral
+3247,2022-10-22,South Africa,Web,Referral
+3248,2022-12-07,Nigeria,Web,Organic
+3249,2022-09-02,South Africa,Android,Referral
+3250,2022-07-11,Ghana,Android,Organic
+3251,2022-11-14,Kenya,Android,Ads
+3252,2022-04-16,Ghana,Android,Referral
+3253,2022-12-29,South Africa,Web,Ads
+3254,2022-11-06,Kenya,iOS,Referral
+3255,2022-08-21,Ghana,iOS,Ads
+3256,2022-09-22,South Africa,Android,Organic
+3257,2022-12-10,Kenya,Web,Organic
+3258,2022-02-06,South Africa,Web,Ads
+3259,2022-11-01,South Africa,iOS,Ads
+3260,2022-02-10,Nigeria,Android,Referral
+3261,2022-01-17,Ghana,iOS,Ads
+3262,2022-12-10,Kenya,iOS,Referral
+3263,2022-10-04,Nigeria,iOS,Ads
+3264,2022-11-03,Nigeria,Web,Ads
+3265,2022-02-28,Ghana,iOS,Organic
+3266,2022-07-02,Ghana,iOS,Referral
+3267,2022-02-10,Kenya,iOS,Referral
+3268,2022-02-08,Nigeria,Android,Ads
+3269,2022-07-11,Nigeria,Web,Ads
+3270,2022-09-24,South Africa,iOS,Ads
+3271,2022-05-27,Kenya,iOS,Referral
+3272,2022-11-29,Nigeria,iOS,Organic
+3273,2022-05-07,South Africa,iOS,Organic
+3274,2022-02-15,South Africa,Web,Organic
+3275,2022-02-14,South Africa,Android,Ads
+3276,2022-01-01,Nigeria,iOS,Referral
+3277,2022-06-17,Nigeria,iOS,Organic
+3278,2022-04-18,South Africa,iOS,Ads
+3279,2022-01-19,South Africa,Web,Organic
+3280,2022-11-28,Nigeria,iOS,Ads
+3281,2022-03-13,Nigeria,Web,Referral
+3282,2022-04-19,South Africa,Web,Organic
+3283,2022-09-25,Ghana,iOS,Organic
+3284,2022-08-28,Nigeria,Web,Referral
+3285,2022-10-28,South Africa,Web,Ads
+3286,2022-03-31,South Africa,iOS,Ads
+3287,2022-04-13,Nigeria,iOS,Organic
+3288,2022-09-07,South Africa,Web,Ads
+3289,2022-01-08,South Africa,Web,Referral
+3290,2022-06-02,Ghana,Web,Ads
+3291,2022-12-13,Nigeria,Android,Organic
+3292,2022-06-23,Nigeria,Android,Referral
+3293,2022-12-09,Ghana,Web,Organic
+3294,2022-06-07,Ghana,Android,Organic
+3295,2022-08-03,South Africa,Web,Referral
+3296,2022-06-26,Ghana,iOS,Organic
+3297,2022-06-24,Kenya,Web,Ads
+3298,2022-12-06,Ghana,Android,Organic
+3299,2022-12-04,Kenya,Android,Ads
+3300,2022-05-26,Kenya,iOS,Ads
+3301,2022-11-20,Kenya,iOS,Ads
+3302,2022-06-10,South Africa,Web,Organic
+3303,2022-05-07,South Africa,iOS,Ads
+3304,2022-03-23,Nigeria,iOS,Referral
+3305,2022-05-27,Nigeria,Web,Referral
+3306,2022-08-27,Nigeria,Android,Referral
+3307,2022-03-25,Kenya,Web,Organic
+3308,2022-04-23,South Africa,Android,Ads
+3309,2022-08-13,Ghana,Web,Organic
+3310,2022-11-28,Nigeria,Web,Ads
+3311,2022-08-31,Ghana,Web,Referral
+3312,2022-05-23,Ghana,Android,Referral
+3313,2022-02-10,Nigeria,Web,Ads
+3314,2022-09-15,South Africa,Android,Ads
+3315,2022-10-12,Ghana,Web,Referral
+3316,2022-04-15,Nigeria,Web,Referral
+3317,2022-07-21,Kenya,iOS,Referral
+3318,2022-11-03,Ghana,Web,Organic
+3319,2022-11-27,South Africa,Android,Ads
+3320,2022-09-23,Ghana,iOS,Organic
+3321,2022-07-29,South Africa,Android,Organic
+3322,2022-02-20,Nigeria,Android,Referral
+3323,2022-04-28,Kenya,Android,Referral
+3324,2022-07-20,South Africa,iOS,Referral
+3325,2022-02-08,South Africa,Android,Ads
+3326,2022-01-28,Kenya,Android,Referral
+3327,2022-09-16,Nigeria,Android,Referral
+3328,2022-03-25,Kenya,Web,Ads
+3329,2022-06-04,South Africa,Android,Organic
+3330,2022-04-27,Kenya,Android,Ads
+3331,2022-01-02,Ghana,iOS,Organic
+3332,2022-04-03,South Africa,Android,Referral
+3333,2022-06-15,Nigeria,Web,Ads
+3334,2022-12-16,Nigeria,iOS,Organic
+3335,2022-10-23,Nigeria,Web,Organic
+3336,2022-09-15,Ghana,iOS,Organic
+3337,2022-03-22,Nigeria,Web,Organic
+3338,2022-09-25,Nigeria,Web,Organic
+3339,2022-08-23,Nigeria,iOS,Ads
+3340,2022-11-17,Kenya,iOS,Referral
+3341,2022-11-07,Ghana,iOS,Organic
+3342,2022-10-28,Kenya,Web,Referral
+3343,2022-12-23,Kenya,Web,Organic
+3344,2022-08-01,South Africa,iOS,Ads
+3345,2022-03-03,Nigeria,Web,Ads
+3346,2022-02-18,Ghana,Android,Organic
+3347,2022-05-07,South Africa,Android,Ads
+3348,2022-08-11,South Africa,iOS,Ads
+3349,2022-10-06,Ghana,Android,Ads
+3350,2022-10-21,Kenya,Android,Referral
+3351,2022-10-11,South Africa,Android,Referral
+3352,2022-10-04,Nigeria,Android,Organic
+3353,2022-04-17,Kenya,Web,Referral
+3354,2022-05-26,South Africa,Web,Referral
+3355,2022-04-09,South Africa,Web,Organic
+3356,2022-03-14,South Africa,Web,Referral
+3357,2022-05-02,Ghana,Web,Ads
+3358,2022-01-30,Ghana,Android,Ads
+3359,2022-07-07,Ghana,Web,Organic
+3360,2022-12-30,Kenya,iOS,Referral
+3361,2022-12-20,South Africa,Android,Organic
+3362,2022-10-15,Nigeria,Web,Ads
+3363,2022-07-14,South Africa,Web,Referral
+3364,2022-06-05,South Africa,iOS,Organic
+3365,2022-06-21,South Africa,Android,Organic
+3366,2022-12-01,Nigeria,iOS,Organic
+3367,2022-02-10,Kenya,Web,Referral
+3368,2022-03-04,Ghana,Web,Organic
+3369,2022-01-23,South Africa,iOS,Ads
+3370,2022-12-26,Ghana,iOS,Ads
+3371,2022-03-16,Ghana,Android,Organic
+3372,2022-02-17,Kenya,Android,Ads
+3373,2022-06-09,Ghana,Android,Organic
+3374,2022-11-09,South Africa,Web,Organic
+3375,2022-04-28,Nigeria,iOS,Organic
+3376,2022-04-10,Ghana,Web,Ads
+3377,2022-06-16,Kenya,iOS,Referral
+3378,2022-10-17,Nigeria,iOS,Organic
+3379,2022-06-05,Nigeria,Android,Referral
+3380,2022-01-07,Nigeria,Web,Ads
+3381,2022-07-15,Ghana,iOS,Organic
+3382,2022-02-25,Kenya,Web,Organic
+3383,2022-11-17,Ghana,Web,Referral
+3384,2022-07-12,Kenya,iOS,Organic
+3385,2022-02-16,South Africa,iOS,Ads
+3386,2022-05-28,Ghana,Android,Referral
+3387,2022-10-02,Kenya,iOS,Ads
+3388,2022-06-06,Kenya,Web,Referral
+3389,2022-07-21,Kenya,Android,Referral
+3390,2022-05-06,Nigeria,Web,Ads
+3391,2022-11-01,Ghana,Android,Ads
+3392,2022-10-21,Nigeria,iOS,Ads
+3393,2022-03-05,Ghana,Web,Organic
+3394,2022-11-21,Kenya,Web,Referral
+3395,2022-06-25,Kenya,iOS,Ads
+3396,2022-04-26,South Africa,Android,Referral
+3397,2022-07-23,Ghana,iOS,Organic
+3398,2022-11-17,Ghana,Web,Organic
+3399,2022-01-31,Ghana,Android,Ads
+3400,2022-04-23,Kenya,Android,Referral
+3401,2022-12-31,Kenya,iOS,Organic
+3402,2022-11-21,Ghana,iOS,Ads
+3403,2022-12-10,Nigeria,Android,Ads
+3404,2022-03-08,Nigeria,Web,Ads
+3405,2022-03-16,Kenya,Android,Referral
+3406,2022-02-14,South Africa,iOS,Organic
+3407,2022-09-17,Kenya,iOS,Referral
+3408,2022-06-03,South Africa,iOS,Referral
+3409,2022-06-04,South Africa,Web,Organic
+3410,2022-12-29,Ghana,iOS,Ads
+3411,2022-08-22,Kenya,Android,Ads
+3412,2022-02-20,Ghana,iOS,Referral
+3413,2022-11-02,South Africa,Android,Referral
+3414,2022-09-19,Ghana,iOS,Ads
+3415,2022-11-11,Nigeria,iOS,Referral
+3416,2022-05-05,Kenya,Web,Ads
+3417,2022-09-02,Ghana,Android,Referral
+3418,2022-01-30,Nigeria,Android,Organic
+3419,2022-05-02,Nigeria,iOS,Referral
+3420,2022-05-05,Ghana,Web,Referral
+3421,2022-02-06,Ghana,Android,Organic
+3422,2022-06-19,South Africa,Web,Organic
+3423,2022-05-04,Nigeria,Web,Ads
+3424,2022-12-23,South Africa,Web,Organic
+3425,2022-02-04,Kenya,Android,Ads
+3426,2022-03-28,Nigeria,Web,Referral
+3427,2022-05-14,Nigeria,Web,Organic
+3428,2022-07-15,South Africa,Web,Ads
+3429,2022-10-01,Ghana,Web,Referral
+3430,2022-07-20,Kenya,Web,Ads
+3431,2022-10-12,Ghana,iOS,Referral
+3432,2022-03-18,Kenya,iOS,Organic
+3433,2022-02-28,South Africa,Android,Ads
+3434,2022-05-06,Kenya,iOS,Ads
+3435,2022-04-19,Kenya,iOS,Ads
+3436,2022-08-12,South Africa,iOS,Ads
+3437,2022-10-05,Ghana,Web,Referral
+3438,2022-03-09,South Africa,Web,Organic
+3439,2022-03-10,South Africa,Android,Organic
+3440,2022-06-14,Nigeria,Android,Referral
+3441,2022-11-01,Nigeria,iOS,Ads
+3442,2022-06-11,Nigeria,Android,Ads
+3443,2022-12-31,Nigeria,Web,Referral
+3444,2022-12-08,Kenya,iOS,Organic
+3445,2022-11-05,Ghana,iOS,Referral
+3446,2022-12-09,Ghana,iOS,Ads
+3447,2022-02-11,South Africa,Android,Ads
+3448,2022-12-20,Kenya,Web,Ads
+3449,2022-04-19,South Africa,Android,Referral
+3450,2022-02-20,South Africa,Web,Ads
+3451,2022-09-07,Nigeria,Android,Referral
+3452,2022-12-07,Nigeria,iOS,Organic
+3453,2022-01-21,Ghana,Web,Ads
+3454,2022-10-27,Ghana,Android,Referral
+3455,2022-05-19,South Africa,Web,Organic
+3456,2022-12-25,Nigeria,iOS,Organic
+3457,2022-11-20,Kenya,Web,Organic
+3458,2022-04-02,Nigeria,iOS,Organic
+3459,2022-10-07,Ghana,Web,Referral
+3460,2022-05-05,Kenya,Web,Organic
+3461,2022-04-21,Ghana,Web,Organic
+3462,2022-12-20,South Africa,Android,Ads
+3463,2022-05-19,South Africa,Web,Ads
+3464,2022-09-30,Nigeria,Web,Referral
+3465,2022-04-09,South Africa,Android,Ads
+3466,2022-09-09,South Africa,iOS,Referral
+3467,2022-12-04,Nigeria,Android,Organic
+3468,2022-04-14,Ghana,Android,Ads
+3469,2022-08-02,Nigeria,Web,Referral
+3470,2022-09-06,Nigeria,Android,Referral
+3471,2022-06-01,South Africa,Android,Referral
+3472,2022-09-07,Nigeria,Web,Organic
+3473,2022-10-02,Nigeria,iOS,Ads
+3474,2022-06-14,South Africa,iOS,Organic
+3475,2022-12-07,Ghana,Web,Organic
+3476,2022-01-08,Kenya,Android,Referral
+3477,2022-10-11,Ghana,Web,Referral
+3478,2022-01-05,South Africa,iOS,Ads
+3479,2022-05-25,South Africa,iOS,Referral
+3480,2022-04-11,South Africa,Web,Ads
+3481,2022-06-13,Kenya,Web,Organic
+3482,2022-05-27,Ghana,iOS,Referral
+3483,2022-03-05,Nigeria,iOS,Ads
+3484,2022-04-01,South Africa,Web,Ads
+3485,2022-04-27,Nigeria,iOS,Ads
+3486,2022-12-20,Nigeria,iOS,Organic
+3487,2022-09-24,Kenya,Web,Referral
+3488,2022-11-06,South Africa,iOS,Ads
+3489,2022-06-22,Kenya,iOS,Ads
+3490,2022-02-16,Ghana,Android,Organic
+3491,2022-05-20,Nigeria,Web,Organic
+3492,2022-09-03,Nigeria,Android,Ads
+3493,2022-05-29,Ghana,Android,Referral
+3494,2022-09-03,Nigeria,iOS,Organic
+3495,2022-01-05,Ghana,Android,Organic
+3496,2022-07-03,Kenya,iOS,Referral
+3497,2022-01-20,Ghana,iOS,Ads
+3498,2022-02-15,Kenya,Android,Referral
+3499,2022-01-12,South Africa,Android,Ads
+3500,2022-03-11,Ghana,Android,Organic
+3501,2022-01-17,Kenya,Web,Referral
+3502,2022-05-27,Ghana,iOS,Organic
+3503,2022-06-03,South Africa,iOS,Referral
+3504,2022-10-31,Nigeria,Android,Organic
+3505,2022-04-18,South Africa,Android,Referral
+3506,2022-08-24,Ghana,iOS,Organic
+3507,2022-11-04,Nigeria,Android,Ads
+3508,2022-12-18,Ghana,iOS,Referral
+3509,2022-03-11,South Africa,iOS,Organic
+3510,2022-07-02,South Africa,Android,Organic
+3511,2022-09-07,Ghana,Web,Referral
+3512,2022-08-16,Ghana,iOS,Ads
+3513,2022-04-12,South Africa,Web,Organic
+3514,2022-03-16,Ghana,iOS,Referral
+3515,2022-08-04,South Africa,Android,Referral
+3516,2022-07-22,Nigeria,iOS,Organic
+3517,2022-07-11,Ghana,iOS,Referral
+3518,2022-09-06,South Africa,Android,Organic
+3519,2022-08-30,Nigeria,Web,Organic
+3520,2022-06-28,Nigeria,iOS,Organic
+3521,2022-08-07,Ghana,Android,Referral
+3522,2022-03-23,Ghana,iOS,Organic
+3523,2022-04-02,South Africa,iOS,Organic
+3524,2022-06-24,Ghana,iOS,Ads
+3525,2022-08-27,Kenya,Android,Organic
+3526,2022-09-17,South Africa,Android,Referral
+3527,2022-12-31,South Africa,iOS,Referral
+3528,2022-06-12,Nigeria,Web,Organic
+3529,2022-02-17,Ghana,Android,Organic
+3530,2022-11-25,South Africa,Web,Organic
+3531,2022-11-24,South Africa,iOS,Referral
+3532,2022-04-26,Nigeria,iOS,Ads
+3533,2022-12-03,Ghana,Web,Ads
+3534,2022-12-03,Kenya,iOS,Organic
+3535,2022-08-13,Kenya,Web,Organic
+3536,2022-12-18,South Africa,Web,Ads
+3537,2022-11-24,Kenya,Android,Ads
+3538,2022-05-27,Kenya,Web,Referral
+3539,2022-03-04,Kenya,Web,Ads
+3540,2022-10-21,Kenya,Web,Referral
+3541,2022-11-19,South Africa,Web,Organic
+3542,2022-11-21,Nigeria,Web,Referral
+3543,2022-01-13,Kenya,Web,Ads
+3544,2022-07-08,Kenya,Web,Ads
+3545,2022-10-14,Kenya,Web,Referral
+3546,2022-07-27,Kenya,Web,Ads
+3547,2022-04-24,South Africa,iOS,Referral
+3548,2022-01-22,Ghana,Web,Ads
+3549,2022-12-15,Kenya,Web,Ads
+3550,2022-08-02,Kenya,Android,Ads
+3551,2022-06-20,South Africa,iOS,Ads
+3552,2022-11-19,Kenya,Web,Referral
+3553,2022-02-23,Kenya,iOS,Organic
+3554,2022-10-25,Nigeria,iOS,Referral
+3555,2022-11-16,Nigeria,Web,Organic
+3556,2022-05-06,Ghana,Android,Organic
+3557,2022-10-04,Kenya,Android,Ads
+3558,2022-07-23,Nigeria,Web,Referral
+3559,2022-07-13,Nigeria,iOS,Referral
+3560,2022-06-18,Nigeria,iOS,Organic
+3561,2022-06-01,South Africa,Android,Referral
+3562,2022-02-04,Kenya,iOS,Referral
+3563,2022-07-03,Kenya,Web,Organic
+3564,2022-10-13,South Africa,Android,Organic
+3565,2022-02-26,Kenya,Android,Ads
+3566,2022-08-10,Kenya,iOS,Referral
+3567,2022-10-30,Nigeria,iOS,Organic
+3568,2022-06-12,South Africa,iOS,Referral
+3569,2022-01-19,Nigeria,Android,Organic
+3570,2022-09-21,Kenya,iOS,Ads
+3571,2022-10-09,Nigeria,iOS,Ads
+3572,2022-04-23,South Africa,Web,Referral
+3573,2022-11-23,Kenya,Android,Referral
+3574,2022-01-30,South Africa,Web,Ads
+3575,2022-05-15,South Africa,Android,Referral
+3576,2022-03-08,Nigeria,iOS,Organic
+3577,2022-03-06,Kenya,iOS,Ads
+3578,2022-10-19,South Africa,Android,Ads
+3579,2022-01-25,Kenya,iOS,Organic
+3580,2022-02-06,Nigeria,Android,Ads
+3581,2022-01-01,Nigeria,iOS,Ads
+3582,2022-02-06,Ghana,Android,Organic
+3583,2022-05-21,Kenya,Web,Ads
+3584,2022-08-20,Ghana,Android,Ads
+3585,2022-05-16,Ghana,Android,Ads
+3586,2022-07-07,Kenya,Web,Referral
+3587,2022-05-08,Kenya,Web,Referral
+3588,2022-07-20,Nigeria,Android,Ads
+3589,2022-05-07,South Africa,Web,Referral
+3590,2022-09-14,Ghana,iOS,Referral
+3591,2022-06-13,Nigeria,iOS,Organic
+3592,2022-02-04,Ghana,Android,Referral
+3593,2022-07-13,Ghana,Android,Referral
+3594,2022-07-10,Nigeria,Web,Referral
+3595,2022-04-14,Ghana,Android,Organic
+3596,2022-01-23,Kenya,Android,Referral
+3597,2022-09-22,Kenya,iOS,Organic
+3598,2022-10-17,Kenya,iOS,Referral
+3599,2022-09-17,South Africa,Android,Ads
+3600,2022-12-24,Ghana,iOS,Ads
+3601,2022-03-16,Ghana,iOS,Ads
+3602,2022-12-21,South Africa,Web,Referral
+3603,2022-03-13,South Africa,Web,Referral
+3604,2022-09-16,Nigeria,Web,Ads
+3605,2022-07-07,Kenya,Web,Ads
+3606,2022-06-22,Ghana,Web,Organic
+3607,2022-10-17,South Africa,iOS,Ads
+3608,2022-02-14,Kenya,Android,Ads
+3609,2022-03-02,Ghana,Android,Organic
+3610,2022-03-24,Kenya,Android,Organic
+3611,2022-05-03,Kenya,Android,Referral
+3612,2022-12-24,Kenya,Web,Referral
+3613,2022-01-16,Nigeria,Android,Ads
+3614,2022-03-07,Nigeria,Web,Ads
+3615,2022-05-25,Kenya,iOS,Organic
+3616,2022-06-11,South Africa,iOS,Ads
+3617,2022-08-22,Nigeria,Web,Ads
+3618,2022-05-24,Nigeria,iOS,Ads
+3619,2022-12-24,Ghana,iOS,Referral
+3620,2022-07-07,Ghana,Web,Referral
+3621,2022-11-18,Ghana,Android,Referral
+3622,2022-01-13,Kenya,Android,Referral
+3623,2022-07-03,Kenya,Android,Referral
+3624,2022-04-21,Ghana,iOS,Organic
+3625,2022-10-17,South Africa,iOS,Organic
+3626,2022-10-22,Ghana,Web,Ads
+3627,2022-08-03,Kenya,Web,Referral
+3628,2022-04-30,Kenya,Web,Referral
+3629,2022-02-24,South Africa,Web,Organic
+3630,2022-01-27,Kenya,iOS,Referral
+3631,2022-04-28,Ghana,iOS,Ads
+3632,2022-08-09,Kenya,Android,Referral
+3633,2022-08-19,South Africa,Android,Organic
+3634,2022-02-22,Kenya,Web,Organic
+3635,2022-10-22,Kenya,Android,Ads
+3636,2022-11-17,Kenya,Android,Referral
+3637,2022-08-21,Kenya,Web,Referral
+3638,2022-06-07,South Africa,iOS,Referral
+3639,2022-09-26,Kenya,Web,Ads
+3640,2022-01-21,South Africa,iOS,Ads
+3641,2022-02-22,Ghana,iOS,Ads
+3642,2022-10-02,Ghana,Android,Organic
+3643,2022-11-09,Kenya,Web,Organic
+3644,2022-10-08,Nigeria,Web,Ads
+3645,2022-08-02,Kenya,Android,Ads
+3646,2022-01-31,South Africa,Web,Organic
+3647,2022-12-03,Ghana,iOS,Referral
+3648,2022-07-02,Nigeria,Android,Ads
+3649,2022-01-23,Ghana,Web,Referral
+3650,2022-02-01,Ghana,Web,Ads
+3651,2022-03-15,Ghana,iOS,Organic
+3652,2022-01-10,South Africa,Android,Ads
+3653,2022-02-23,Kenya,iOS,Referral
+3654,2022-02-21,Kenya,Web,Ads
+3655,2022-05-28,South Africa,iOS,Ads
+3656,2022-06-09,Kenya,iOS,Organic
+3657,2022-01-14,South Africa,iOS,Referral
+3658,2022-06-27,Ghana,Android,Referral
+3659,2022-02-22,Kenya,Android,Organic
+3660,2022-12-01,Kenya,Web,Organic
+3661,2022-01-22,Ghana,Android,Organic
+3662,2022-01-30,Kenya,iOS,Organic
+3663,2022-07-10,South Africa,Web,Referral
+3664,2022-09-17,Kenya,Web,Organic
+3665,2022-07-24,South Africa,Web,Ads
+3666,2022-02-28,South Africa,iOS,Referral
+3667,2022-09-21,Kenya,Web,Ads
+3668,2022-01-12,South Africa,Web,Organic
+3669,2022-04-29,Nigeria,Web,Referral
+3670,2022-10-17,Nigeria,Android,Ads
+3671,2022-12-04,Nigeria,Android,Ads
+3672,2022-09-05,Nigeria,Web,Ads
+3673,2022-12-20,Kenya,Web,Ads
+3674,2022-05-07,Ghana,iOS,Referral
+3675,2022-03-16,Kenya,iOS,Organic
+3676,2022-12-27,South Africa,Web,Referral
+3677,2022-07-23,Kenya,Android,Organic
+3678,2022-02-18,South Africa,Web,Organic
+3679,2022-03-20,Kenya,Web,Referral
+3680,2022-08-29,Nigeria,iOS,Organic
+3681,2022-12-15,Kenya,iOS,Referral
+3682,2022-06-03,South Africa,Android,Referral
+3683,2022-10-01,Kenya,Web,Referral
+3684,2022-04-06,Kenya,iOS,Referral
+3685,2022-08-02,Kenya,Web,Referral
+3686,2022-10-21,Kenya,Android,Ads
+3687,2022-07-28,Ghana,iOS,Ads
+3688,2022-12-09,Kenya,Web,Ads
+3689,2022-03-29,South Africa,Android,Referral
+3690,2022-11-02,Kenya,Web,Referral
+3691,2022-09-21,South Africa,Web,Referral
+3692,2022-11-21,Kenya,Android,Referral
+3693,2022-11-16,Ghana,iOS,Organic
+3694,2022-06-06,Kenya,iOS,Referral
+3695,2022-06-05,Ghana,Web,Ads
+3696,2022-05-19,Nigeria,iOS,Ads
+3697,2022-05-01,Nigeria,Web,Organic
+3698,2022-03-06,Ghana,Web,Referral
+3699,2022-04-17,Nigeria,Android,Referral
+3700,2022-05-27,Ghana,iOS,Referral
+3701,2022-05-17,South Africa,iOS,Ads
+3702,2022-06-11,South Africa,iOS,Referral
+3703,2022-04-10,Kenya,iOS,Ads
+3704,2022-12-04,South Africa,Android,Organic
+3705,2022-11-03,Ghana,Web,Organic
+3706,2022-05-21,South Africa,Web,Organic
+3707,2022-03-24,Ghana,Android,Referral
+3708,2022-06-26,South Africa,Web,Referral
+3709,2022-07-17,Nigeria,iOS,Ads
+3710,2022-04-22,South Africa,Android,Referral
+3711,2022-02-25,Ghana,Web,Ads
+3712,2022-06-28,South Africa,iOS,Organic
+3713,2022-07-05,South Africa,iOS,Ads
+3714,2022-08-06,Nigeria,Android,Referral
+3715,2022-11-12,Kenya,iOS,Organic
+3716,2022-08-05,Nigeria,iOS,Ads
+3717,2022-04-30,South Africa,iOS,Ads
+3718,2022-06-24,South Africa,Android,Ads
+3719,2022-01-23,Nigeria,Android,Referral
+3720,2022-08-01,South Africa,iOS,Referral
+3721,2022-08-23,South Africa,Android,Referral
+3722,2022-01-13,South Africa,iOS,Ads
+3723,2022-04-11,Ghana,Web,Organic
+3724,2022-01-24,Kenya,Android,Organic
+3725,2022-12-30,South Africa,iOS,Ads
+3726,2022-01-11,Ghana,Web,Organic
+3727,2022-09-30,South Africa,iOS,Organic
+3728,2022-10-08,Nigeria,Web,Ads
+3729,2022-04-04,Nigeria,Android,Organic
+3730,2022-07-20,Ghana,iOS,Organic
+3731,2022-01-21,South Africa,iOS,Ads
+3732,2022-12-06,Nigeria,Android,Referral
+3733,2022-07-30,Nigeria,Android,Ads
+3734,2022-05-20,Nigeria,Web,Referral
+3735,2022-10-20,Kenya,iOS,Organic
+3736,2022-10-25,South Africa,Web,Organic
+3737,2022-04-11,Ghana,iOS,Organic
+3738,2022-10-31,Kenya,iOS,Ads
+3739,2022-12-25,Kenya,iOS,Organic
+3740,2022-01-28,South Africa,Android,Organic
+3741,2022-02-10,Nigeria,Web,Organic
+3742,2022-12-21,Ghana,Web,Referral
+3743,2022-10-30,Ghana,Web,Referral
+3744,2022-05-26,South Africa,iOS,Referral
+3745,2022-09-13,Nigeria,Android,Organic
+3746,2022-08-15,Kenya,Android,Ads
+3747,2022-08-24,South Africa,iOS,Ads
+3748,2022-12-27,South Africa,Web,Referral
+3749,2022-01-13,South Africa,Web,Organic
+3750,2022-07-29,Kenya,Web,Referral
+3751,2022-08-17,Kenya,Web,Organic
+3752,2022-04-10,Ghana,iOS,Referral
+3753,2022-01-31,Ghana,iOS,Ads
+3754,2022-01-16,Kenya,iOS,Organic
+3755,2022-05-17,Nigeria,Android,Referral
+3756,2022-11-25,Kenya,Web,Ads
+3757,2022-06-15,South Africa,iOS,Ads
+3758,2022-11-06,Ghana,Web,Ads
+3759,2022-04-10,Nigeria,Android,Referral
+3760,2022-04-19,Kenya,Android,Ads
+3761,2022-12-09,Nigeria,iOS,Ads
+3762,2022-06-22,South Africa,Web,Organic
+3763,2022-08-25,Ghana,Android,Ads
+3764,2022-06-11,Ghana,Web,Organic
+3765,2022-08-04,Nigeria,Web,Organic
+3766,2022-09-21,Ghana,Android,Organic
+3767,2022-09-20,South Africa,Web,Ads
+3768,2022-10-19,South Africa,Web,Organic
+3769,2022-10-01,Kenya,iOS,Ads
+3770,2022-01-03,Ghana,Android,Organic
+3771,2022-01-28,Kenya,iOS,Ads
+3772,2022-11-22,South Africa,Web,Referral
+3773,2022-05-29,Kenya,Android,Organic
+3774,2022-01-28,Ghana,Web,Organic
+3775,2022-11-06,Kenya,Web,Ads
+3776,2022-03-06,South Africa,iOS,Referral
+3777,2022-12-22,Ghana,Android,Organic
+3778,2022-01-21,South Africa,iOS,Organic
+3779,2022-09-09,Nigeria,iOS,Ads
+3780,2022-08-23,Ghana,Android,Referral
+3781,2022-08-15,Nigeria,Android,Ads
+3782,2022-01-13,South Africa,Web,Ads
+3783,2022-11-09,Ghana,iOS,Ads
+3784,2022-02-18,Ghana,Web,Ads
+3785,2022-04-28,Kenya,Android,Referral
+3786,2022-02-23,Ghana,iOS,Referral
+3787,2022-05-18,Nigeria,Android,Organic
+3788,2022-02-22,Nigeria,Android,Ads
+3789,2022-02-13,Kenya,Web,Ads
+3790,2022-10-30,Nigeria,Web,Ads
+3791,2022-02-22,South Africa,Android,Referral
+3792,2022-03-15,Kenya,Android,Organic
+3793,2022-02-15,Kenya,iOS,Ads
+3794,2022-01-13,Ghana,Web,Referral
+3795,2022-06-14,Nigeria,Android,Ads
+3796,2022-04-12,Kenya,iOS,Organic
+3797,2022-10-07,Kenya,iOS,Referral
+3798,2022-09-15,Nigeria,Android,Referral
+3799,2022-12-03,Kenya,iOS,Organic
+3800,2022-12-22,Nigeria,Web,Organic
+3801,2022-05-18,Ghana,iOS,Organic
+3802,2022-06-12,Kenya,Web,Ads
+3803,2022-04-21,South Africa,iOS,Ads
+3804,2022-04-12,Kenya,iOS,Ads
+3805,2022-01-17,South Africa,iOS,Ads
+3806,2022-09-25,Ghana,Android,Referral
+3807,2022-07-01,Nigeria,Web,Ads
+3808,2022-01-24,South Africa,Web,Ads
+3809,2022-01-29,South Africa,iOS,Ads
+3810,2022-06-20,Nigeria,Android,Referral
+3811,2022-08-16,Ghana,Web,Organic
+3812,2022-07-07,Nigeria,Web,Referral
+3813,2022-12-12,Ghana,Web,Referral
+3814,2022-08-18,South Africa,Web,Organic
+3815,2022-11-17,Ghana,iOS,Referral
+3816,2022-12-06,South Africa,Android,Referral
+3817,2022-04-29,Nigeria,Web,Organic
+3818,2022-06-05,Ghana,Android,Organic
+3819,2022-09-29,South Africa,Android,Ads
+3820,2022-06-24,Nigeria,iOS,Organic
+3821,2022-04-14,South Africa,Android,Referral
+3822,2022-04-02,South Africa,Web,Referral
+3823,2022-07-05,South Africa,Android,Organic
+3824,2022-10-10,Ghana,Web,Ads
+3825,2022-06-30,Nigeria,Android,Referral
+3826,2022-06-19,Ghana,Android,Ads
+3827,2022-07-06,Nigeria,iOS,Ads
+3828,2022-06-24,Nigeria,Web,Referral
+3829,2022-08-10,Kenya,iOS,Organic
+3830,2022-08-21,South Africa,Android,Referral
+3831,2022-06-11,Ghana,Android,Referral
+3832,2022-05-14,Kenya,Web,Referral
+3833,2022-08-12,Ghana,Web,Ads
+3834,2022-06-02,South Africa,Web,Ads
+3835,2022-02-02,Nigeria,Web,Ads
+3836,2022-02-24,Ghana,Web,Ads
+3837,2022-01-07,Nigeria,Web,Referral
+3838,2022-09-01,Nigeria,Web,Organic
+3839,2022-11-09,South Africa,Web,Ads
+3840,2022-05-06,Kenya,Web,Referral
+3841,2022-01-12,Ghana,iOS,Organic
+3842,2022-01-16,South Africa,Android,Referral
+3843,2022-07-27,South Africa,Web,Organic
+3844,2022-02-12,Ghana,Android,Organic
+3845,2022-05-15,Nigeria,Android,Referral
+3846,2022-08-16,Kenya,iOS,Referral
+3847,2022-04-21,Ghana,Web,Ads
+3848,2022-11-03,South Africa,Web,Referral
+3849,2022-06-09,Nigeria,iOS,Organic
+3850,2022-11-27,South Africa,Android,Ads
+3851,2022-09-21,Kenya,iOS,Referral
+3852,2022-08-13,Nigeria,Android,Ads
+3853,2022-08-05,Nigeria,Android,Ads
+3854,2022-02-14,Ghana,Android,Organic
+3855,2022-08-02,Nigeria,iOS,Organic
+3856,2022-02-28,Nigeria,Android,Referral
+3857,2022-05-12,South Africa,iOS,Ads
+3858,2022-04-14,Ghana,Web,Referral
+3859,2022-07-14,Ghana,Android,Referral
+3860,2022-06-06,Kenya,Android,Ads
+3861,2022-04-08,Ghana,Web,Ads
+3862,2022-08-14,Nigeria,Web,Referral
+3863,2022-07-24,Nigeria,iOS,Referral
+3864,2022-03-20,South Africa,Web,Referral
+3865,2022-05-04,Ghana,iOS,Referral
+3866,2022-08-06,Kenya,Web,Organic
+3867,2022-01-04,South Africa,Android,Ads
+3868,2022-03-31,Kenya,Web,Ads
+3869,2022-04-14,Ghana,Android,Ads
+3870,2022-04-29,Nigeria,Web,Referral
+3871,2022-05-13,Kenya,Web,Ads
+3872,2022-11-08,Kenya,iOS,Referral
+3873,2022-04-06,Kenya,iOS,Ads
+3874,2022-11-27,South Africa,iOS,Ads
+3875,2022-05-23,Ghana,Web,Organic
+3876,2022-10-15,Kenya,Android,Referral
+3877,2022-01-28,Ghana,Web,Organic
+3878,2022-10-05,South Africa,iOS,Ads
+3879,2022-08-21,South Africa,Web,Ads
+3880,2022-01-17,Ghana,iOS,Organic
+3881,2022-02-28,South Africa,Web,Organic
+3882,2022-03-31,South Africa,Android,Referral
+3883,2022-07-18,Nigeria,iOS,Organic
+3884,2022-12-28,Kenya,Android,Organic
+3885,2022-01-26,Nigeria,Android,Organic
+3886,2022-01-25,South Africa,iOS,Ads
+3887,2022-10-28,Nigeria,Android,Referral
+3888,2022-12-05,South Africa,iOS,Ads
+3889,2022-09-24,Nigeria,iOS,Organic
+3890,2022-06-30,South Africa,iOS,Ads
+3891,2022-12-26,Nigeria,iOS,Ads
+3892,2022-03-09,Kenya,Android,Ads
+3893,2022-12-17,Kenya,iOS,Ads
+3894,2022-11-17,Nigeria,Android,Organic
+3895,2022-02-18,Kenya,Android,Referral
+3896,2022-06-24,Nigeria,Web,Referral
+3897,2022-02-21,South Africa,Web,Referral
+3898,2022-04-12,Ghana,iOS,Referral
+3899,2022-08-04,Nigeria,iOS,Referral
+3900,2022-07-07,Ghana,Web,Referral
+3901,2022-02-26,Ghana,Web,Ads
+3902,2022-02-16,Kenya,iOS,Ads
+3903,2022-06-08,Ghana,Android,Ads
+3904,2022-06-23,Kenya,iOS,Organic
+3905,2022-08-30,Ghana,iOS,Organic
+3906,2022-10-09,Kenya,Web,Referral
+3907,2022-08-29,Ghana,Android,Referral
+3908,2022-01-05,Kenya,iOS,Referral
+3909,2022-03-25,Kenya,Android,Ads
+3910,2022-11-04,Ghana,Android,Referral
+3911,2022-12-27,South Africa,Web,Organic
+3912,2022-09-05,South Africa,Android,Ads
+3913,2022-02-23,Ghana,Android,Organic
+3914,2022-06-10,Kenya,iOS,Organic
+3915,2022-08-14,Ghana,iOS,Referral
+3916,2022-01-15,Kenya,iOS,Ads
+3917,2022-08-12,Kenya,Web,Referral
+3918,2022-03-02,Nigeria,Web,Referral
+3919,2022-05-02,Ghana,Android,Organic
+3920,2022-10-04,Kenya,iOS,Referral
+3921,2022-02-15,South Africa,iOS,Organic
+3922,2022-10-21,Ghana,Web,Referral
+3923,2022-03-03,Kenya,Android,Organic
+3924,2022-03-27,South Africa,Android,Referral
+3925,2022-07-29,Kenya,Web,Ads
+3926,2022-03-19,South Africa,iOS,Referral
+3927,2022-07-21,Kenya,Web,Referral
+3928,2022-10-29,Kenya,Android,Ads
+3929,2022-08-11,Kenya,iOS,Referral
+3930,2022-08-10,South Africa,iOS,Organic
+3931,2022-01-03,Nigeria,Web,Organic
+3932,2022-01-06,Kenya,iOS,Referral
+3933,2022-04-03,Kenya,iOS,Organic
+3934,2022-01-08,Kenya,iOS,Organic
+3935,2022-08-23,Nigeria,Web,Ads
+3936,2022-04-18,Kenya,Web,Organic
+3937,2022-06-10,Kenya,Web,Ads
+3938,2022-07-28,Nigeria,Android,Organic
+3939,2022-08-28,Kenya,Web,Ads
+3940,2022-11-27,South Africa,Android,Organic
+3941,2022-11-29,South Africa,Web,Ads
+3942,2022-02-19,Ghana,Web,Organic
+3943,2022-01-11,Kenya,Web,Ads
+3944,2022-12-17,South Africa,Web,Organic
+3945,2022-06-05,Ghana,iOS,Ads
+3946,2022-03-11,Kenya,Web,Referral
+3947,2022-06-18,Kenya,iOS,Organic
+3948,2022-09-29,Ghana,iOS,Organic
+3949,2022-03-09,Kenya,iOS,Ads
+3950,2022-12-21,Nigeria,Android,Ads
+3951,2022-09-09,Ghana,Web,Organic
+3952,2022-02-17,Ghana,iOS,Ads
+3953,2022-07-03,Ghana,iOS,Organic
+3954,2022-11-16,Kenya,Android,Ads
+3955,2022-07-06,South Africa,Android,Referral
+3956,2022-03-31,South Africa,iOS,Organic
+3957,2022-11-28,Ghana,Android,Organic
+3958,2022-05-19,Ghana,Web,Organic
+3959,2022-12-23,South Africa,Web,Referral
+3960,2022-03-30,South Africa,iOS,Ads
+3961,2022-10-01,Kenya,Android,Organic
+3962,2022-01-19,Kenya,iOS,Organic
+3963,2022-11-07,Ghana,Web,Referral
+3964,2022-12-24,South Africa,iOS,Referral
+3965,2022-06-03,Nigeria,Web,Ads
+3966,2022-09-17,Nigeria,iOS,Organic
+3967,2022-04-18,Kenya,Android,Organic
+3968,2022-10-12,Ghana,iOS,Ads
+3969,2022-02-28,South Africa,Android,Organic
+3970,2022-05-05,Kenya,Android,Organic
+3971,2022-12-20,Ghana,Web,Referral
+3972,2022-09-30,Ghana,iOS,Ads
+3973,2022-04-17,South Africa,iOS,Ads
+3974,2022-10-26,Kenya,Web,Referral
+3975,2022-09-02,Ghana,Web,Organic
+3976,2022-12-02,South Africa,iOS,Organic
+3977,2022-09-04,South Africa,Web,Referral
+3978,2022-01-08,South Africa,Web,Organic
+3979,2022-05-21,Ghana,Web,Organic
+3980,2022-12-28,Nigeria,Android,Organic
+3981,2022-01-08,Nigeria,iOS,Referral
+3982,2022-12-18,Kenya,iOS,Ads
+3983,2022-04-04,Nigeria,Android,Referral
+3984,2022-11-17,Kenya,iOS,Ads
+3985,2022-02-08,Nigeria,Web,Ads
+3986,2022-03-22,Ghana,iOS,Ads
+3987,2022-07-06,Nigeria,Android,Organic
+3988,2022-03-25,Ghana,Android,Organic
+3989,2022-03-29,Ghana,iOS,Organic
+3990,2022-08-30,Ghana,Web,Referral
+3991,2022-12-08,Nigeria,Android,Ads
+3992,2022-04-03,Kenya,Web,Ads
+3993,2022-03-27,Nigeria,Android,Ads
+3994,2022-02-13,Nigeria,Web,Referral
+3995,2022-05-17,Nigeria,Android,Ads
+3996,2022-03-15,Ghana,iOS,Referral
+3997,2022-02-05,Ghana,Android,Organic
+3998,2022-04-11,South Africa,Android,Ads
+3999,2022-06-05,South Africa,iOS,Organic
+4000,2022-09-12,South Africa,Web,Referral
+4001,2022-06-20,Ghana,Web,Organic
+4002,2022-08-04,Kenya,Web,Referral
+4003,2022-06-19,Nigeria,Android,Referral
+4004,2022-09-09,Ghana,Web,Organic
+4005,2022-12-26,South Africa,iOS,Organic
+4006,2022-11-18,Ghana,iOS,Ads
+4007,2022-02-24,Ghana,Web,Organic
+4008,2022-04-01,Nigeria,iOS,Ads
+4009,2022-10-05,Kenya,Web,Referral
+4010,2022-04-11,Ghana,iOS,Ads
+4011,2022-06-04,Ghana,Web,Ads
+4012,2022-12-15,Kenya,Web,Referral
+4013,2022-12-30,Kenya,Android,Referral
+4014,2022-05-21,Ghana,iOS,Ads
+4015,2022-06-22,Nigeria,Web,Ads
+4016,2022-01-10,Kenya,Web,Organic
+4017,2022-08-16,South Africa,iOS,Organic
+4018,2022-09-22,Ghana,iOS,Organic
+4019,2022-09-05,Kenya,Android,Ads
+4020,2022-09-04,South Africa,Android,Referral
+4021,2022-06-04,Kenya,Web,Organic
+4022,2022-02-03,Ghana,Web,Ads
+4023,2022-05-09,Ghana,Web,Referral
+4024,2022-06-09,Kenya,Android,Organic
+4025,2022-03-30,Ghana,Web,Referral
+4026,2022-04-03,Ghana,iOS,Organic
+4027,2022-11-23,South Africa,Android,Ads
+4028,2022-08-29,Nigeria,Android,Referral
+4029,2022-11-19,South Africa,iOS,Referral
+4030,2022-04-27,Nigeria,iOS,Organic
+4031,2022-04-04,Ghana,Web,Ads
+4032,2022-06-12,Nigeria,Web,Organic
+4033,2022-04-09,Nigeria,Web,Referral
+4034,2022-04-23,Nigeria,Android,Referral
+4035,2022-12-25,Nigeria,iOS,Ads
+4036,2022-04-01,Nigeria,Web,Referral
+4037,2022-12-12,Nigeria,Web,Referral
+4038,2022-07-25,Kenya,iOS,Organic
+4039,2022-01-17,Ghana,iOS,Organic
+4040,2022-10-01,Nigeria,Web,Ads
+4041,2022-06-22,Nigeria,Android,Referral
+4042,2022-04-26,Nigeria,Android,Organic
+4043,2022-12-15,Nigeria,iOS,Organic
+4044,2022-06-30,Ghana,Android,Organic
+4045,2022-04-01,Kenya,Android,Referral
+4046,2022-03-23,Kenya,iOS,Organic
+4047,2022-11-20,Ghana,Android,Organic
+4048,2022-04-24,Ghana,Web,Ads
+4049,2022-09-14,Ghana,Web,Ads
+4050,2022-02-27,South Africa,Web,Organic
+4051,2022-06-03,Nigeria,iOS,Referral
+4052,2022-12-31,Nigeria,Web,Ads
+4053,2022-04-26,Ghana,Android,Organic
+4054,2022-12-09,South Africa,Android,Referral
+4055,2022-09-23,South Africa,Web,Organic
+4056,2022-11-11,Nigeria,Android,Ads
+4057,2022-07-22,South Africa,iOS,Organic
+4058,2022-02-10,Kenya,Web,Referral
+4059,2022-04-15,Ghana,Web,Organic
+4060,2022-07-12,South Africa,iOS,Referral
+4061,2022-10-05,South Africa,Web,Ads
+4062,2022-12-20,South Africa,Web,Ads
+4063,2022-08-25,Ghana,Web,Ads
+4064,2022-08-09,Kenya,Android,Referral
+4065,2022-03-09,Kenya,Web,Organic
+4066,2022-07-16,South Africa,Android,Ads
+4067,2022-09-13,Kenya,Web,Organic
+4068,2022-05-19,South Africa,Android,Organic
+4069,2022-11-08,Nigeria,iOS,Referral
+4070,2022-05-29,South Africa,Web,Organic
+4071,2022-04-09,South Africa,Web,Organic
+4072,2022-03-17,Ghana,iOS,Organic
+4073,2022-10-09,Ghana,iOS,Organic
+4074,2022-04-19,South Africa,Web,Ads
+4075,2022-07-07,Nigeria,Android,Organic
+4076,2022-07-18,Nigeria,Android,Referral
+4077,2022-10-30,South Africa,Android,Organic
+4078,2022-11-23,South Africa,Android,Ads
+4079,2022-06-03,Kenya,Android,Referral
+4080,2022-02-09,Nigeria,Web,Referral
+4081,2022-05-13,Kenya,iOS,Ads
+4082,2022-05-12,Kenya,Web,Referral
+4083,2022-10-06,South Africa,Android,Organic
+4084,2022-12-28,South Africa,iOS,Referral
+4085,2022-03-25,South Africa,iOS,Referral
+4086,2022-08-30,Nigeria,iOS,Ads
+4087,2022-04-26,Nigeria,Android,Ads
+4088,2022-04-19,Kenya,iOS,Organic
+4089,2022-08-09,Nigeria,Android,Ads
+4090,2022-02-10,South Africa,iOS,Referral
+4091,2022-05-27,Nigeria,Web,Referral
+4092,2022-04-22,South Africa,Web,Organic
+4093,2022-04-13,Nigeria,Android,Organic
+4094,2022-02-15,Nigeria,Web,Referral
+4095,2022-11-20,South Africa,Web,Referral
+4096,2022-09-28,Nigeria,Web,Ads
+4097,2022-07-14,South Africa,Web,Ads
+4098,2022-10-07,Nigeria,Web,Organic
+4099,2022-10-10,South Africa,Android,Organic
+4100,2022-02-09,Ghana,Web,Organic
+4101,2022-07-08,Ghana,Web,Ads
+4102,2022-06-13,Kenya,iOS,Ads
+4103,2022-01-24,South Africa,Android,Organic
+4104,2022-01-24,South Africa,Android,Organic
+4105,2022-01-04,Kenya,Web,Organic
+4106,2022-11-19,Nigeria,Android,Referral
+4107,2022-10-17,Ghana,Web,Ads
+4108,2022-06-30,Kenya,Web,Referral
+4109,2022-09-05,Nigeria,iOS,Referral
+4110,2022-04-26,Kenya,Web,Organic
+4111,2022-10-06,Kenya,iOS,Ads
+4112,2022-12-31,Nigeria,Android,Referral
+4113,2022-03-10,South Africa,Web,Referral
+4114,2022-12-17,Nigeria,Web,Organic
+4115,2022-09-11,Nigeria,Android,Organic
+4116,2022-06-30,South Africa,Android,Organic
+4117,2022-11-14,Nigeria,Android,Organic
+4118,2022-06-18,Nigeria,Web,Ads
+4119,2022-11-09,South Africa,Web,Referral
+4120,2022-09-06,South Africa,Android,Organic
+4121,2022-07-07,Kenya,Android,Organic
+4122,2022-02-23,Nigeria,iOS,Organic
+4123,2022-11-22,Nigeria,Web,Ads
+4124,2022-12-23,South Africa,Android,Referral
+4125,2022-11-09,Ghana,iOS,Organic
+4126,2022-05-18,South Africa,Web,Referral
+4127,2022-06-17,Kenya,iOS,Referral
+4128,2022-04-13,Kenya,Web,Ads
+4129,2022-03-26,South Africa,Android,Referral
+4130,2022-11-13,South Africa,Android,Ads
+4131,2022-07-31,Kenya,Android,Referral
+4132,2022-01-03,Kenya,Android,Organic
+4133,2022-06-28,Nigeria,iOS,Referral
+4134,2022-12-08,South Africa,Android,Referral
+4135,2022-10-30,South Africa,Web,Referral
+4136,2022-11-28,Kenya,Android,Ads
+4137,2022-02-07,Nigeria,Web,Referral
+4138,2022-08-27,South Africa,Web,Organic
+4139,2022-06-18,Kenya,Android,Organic
+4140,2022-12-09,Kenya,Android,Ads
+4141,2022-11-10,Nigeria,iOS,Referral
+4142,2022-11-02,Kenya,iOS,Organic
+4143,2022-01-30,South Africa,Web,Organic
+4144,2022-07-09,Nigeria,Web,Referral
+4145,2022-12-23,South Africa,iOS,Organic
+4146,2022-01-25,Kenya,Android,Referral
+4147,2022-04-22,Ghana,Web,Organic
+4148,2022-07-25,Kenya,Android,Organic
+4149,2022-07-04,Nigeria,iOS,Referral
+4150,2022-02-16,Ghana,iOS,Ads
+4151,2022-08-16,Ghana,Android,Referral
+4152,2022-02-08,Ghana,iOS,Referral
+4153,2022-01-16,Kenya,Android,Ads
+4154,2022-01-22,Ghana,Android,Organic
+4155,2022-08-01,Nigeria,Android,Organic
+4156,2022-11-06,Nigeria,Android,Ads
+4157,2022-05-29,Ghana,iOS,Referral
+4158,2022-08-29,Kenya,Android,Organic
+4159,2022-09-29,Kenya,Android,Organic
+4160,2022-02-28,South Africa,iOS,Ads
+4161,2022-10-14,South Africa,iOS,Ads
+4162,2022-07-21,Ghana,Android,Organic
+4163,2022-02-01,Nigeria,Android,Organic
+4164,2022-06-11,Kenya,Web,Ads
+4165,2022-09-12,Kenya,iOS,Referral
+4166,2022-09-11,Kenya,Web,Referral
+4167,2022-01-09,Kenya,Web,Referral
+4168,2022-05-19,Nigeria,Android,Ads
+4169,2022-01-10,South Africa,Web,Organic
+4170,2022-08-02,Kenya,Web,Organic
+4171,2022-09-30,South Africa,Web,Referral
+4172,2022-11-20,Kenya,Android,Ads
+4173,2022-02-17,South Africa,Android,Organic
+4174,2022-04-21,South Africa,iOS,Organic
+4175,2022-06-02,Nigeria,Android,Ads
+4176,2022-05-03,Kenya,Web,Organic
+4177,2022-12-23,South Africa,iOS,Ads
+4178,2022-04-12,Nigeria,Android,Ads
+4179,2022-08-29,South Africa,iOS,Organic
+4180,2022-11-17,South Africa,iOS,Organic
+4181,2022-07-10,Nigeria,iOS,Ads
+4182,2022-08-05,Kenya,Android,Ads
+4183,2022-02-20,Kenya,Web,Ads
+4184,2022-10-19,Nigeria,iOS,Ads
+4185,2022-03-22,Ghana,iOS,Referral
+4186,2022-03-29,Nigeria,iOS,Referral
+4187,2022-07-13,South Africa,iOS,Referral
+4188,2022-04-14,Nigeria,Android,Organic
+4189,2022-09-28,Kenya,Android,Referral
+4190,2022-04-06,Ghana,Web,Ads
+4191,2022-07-17,South Africa,iOS,Referral
+4192,2022-01-01,Ghana,Web,Referral
+4193,2022-06-16,Nigeria,iOS,Ads
+4194,2022-05-06,Nigeria,iOS,Ads
+4195,2022-11-09,Ghana,Web,Organic
+4196,2022-03-22,Nigeria,Android,Referral
+4197,2022-09-08,Ghana,iOS,Ads
+4198,2022-06-18,Ghana,Android,Referral
+4199,2022-03-14,Kenya,iOS,Referral
+4200,2022-05-21,South Africa,Web,Organic
+4201,2022-03-11,Nigeria,Web,Organic
+4202,2022-09-19,Nigeria,Web,Organic
+4203,2022-12-06,Kenya,Web,Referral
+4204,2022-11-04,South Africa,Android,Ads
+4205,2022-09-02,Kenya,iOS,Organic
+4206,2022-01-03,Nigeria,iOS,Organic
+4207,2022-12-03,Ghana,Android,Organic
+4208,2022-03-04,South Africa,iOS,Ads
+4209,2022-02-18,South Africa,Web,Organic
+4210,2022-03-17,Kenya,Web,Ads
+4211,2022-06-24,South Africa,Web,Referral
+4212,2022-04-19,Ghana,Android,Referral
+4213,2022-07-02,South Africa,iOS,Ads
+4214,2022-07-11,Kenya,iOS,Organic
+4215,2022-03-06,South Africa,iOS,Ads
+4216,2022-12-03,South Africa,Android,Organic
+4217,2022-09-28,Kenya,Android,Referral
+4218,2022-04-10,Nigeria,iOS,Organic
+4219,2022-02-01,Nigeria,iOS,Referral
+4220,2022-12-18,Nigeria,iOS,Organic
+4221,2022-05-08,South Africa,iOS,Referral
+4222,2022-12-05,Ghana,Web,Referral
+4223,2022-02-12,South Africa,Web,Referral
+4224,2022-03-19,Ghana,Web,Ads
+4225,2022-11-10,Kenya,iOS,Ads
+4226,2022-10-16,Ghana,Android,Organic
+4227,2022-09-27,South Africa,Web,Organic
+4228,2022-06-11,Ghana,iOS,Referral
+4229,2022-07-08,Nigeria,Android,Referral
+4230,2022-09-04,Ghana,Android,Ads
+4231,2022-08-04,South Africa,Android,Referral
+4232,2022-11-11,Nigeria,iOS,Ads
+4233,2022-12-05,Ghana,Android,Referral
+4234,2022-06-17,Nigeria,iOS,Referral
+4235,2022-12-05,South Africa,Android,Organic
+4236,2022-07-12,Nigeria,Web,Referral
+4237,2022-10-10,Ghana,iOS,Ads
+4238,2022-12-02,Nigeria,Android,Referral
+4239,2022-01-13,Kenya,Web,Referral
+4240,2022-08-28,Ghana,Web,Organic
+4241,2022-11-16,Nigeria,iOS,Organic
+4242,2022-05-27,Nigeria,Android,Ads
+4243,2022-07-23,Ghana,iOS,Organic
+4244,2022-03-21,Nigeria,iOS,Organic
+4245,2022-02-12,Kenya,Web,Ads
+4246,2022-03-30,Nigeria,Web,Organic
+4247,2022-05-28,Nigeria,iOS,Referral
+4248,2022-04-05,Kenya,Android,Ads
+4249,2022-05-31,Ghana,Android,Referral
+4250,2022-01-02,Nigeria,Web,Organic
+4251,2022-01-22,Ghana,Android,Ads
+4252,2022-11-09,Ghana,Android,Referral
+4253,2022-11-24,Nigeria,Web,Referral
+4254,2022-01-07,Nigeria,iOS,Organic
+4255,2022-07-25,South Africa,iOS,Referral
+4256,2022-04-24,South Africa,Web,Organic
+4257,2022-09-29,Nigeria,Web,Referral
+4258,2022-03-24,Ghana,iOS,Ads
+4259,2022-06-28,Ghana,Web,Referral
+4260,2022-07-29,Kenya,Android,Organic
+4261,2022-11-24,South Africa,iOS,Referral
+4262,2022-05-04,South Africa,Android,Ads
+4263,2022-04-23,Nigeria,Android,Organic
+4264,2022-01-12,Ghana,iOS,Ads
+4265,2022-05-06,South Africa,iOS,Ads
+4266,2022-02-22,Ghana,iOS,Ads
+4267,2022-11-27,Ghana,iOS,Ads
+4268,2022-10-10,South Africa,Android,Ads
+4269,2022-05-20,Kenya,iOS,Referral
+4270,2022-04-07,Kenya,iOS,Organic
+4271,2022-01-05,Kenya,iOS,Organic
+4272,2022-02-26,Ghana,Web,Ads
+4273,2022-11-30,Ghana,iOS,Organic
+4274,2022-03-10,Kenya,Web,Organic
+4275,2022-04-28,Kenya,Web,Ads
+4276,2022-02-28,Nigeria,iOS,Organic
+4277,2022-02-02,South Africa,iOS,Organic
+4278,2022-11-14,Kenya,Web,Referral
+4279,2022-02-19,South Africa,Web,Organic
+4280,2022-01-19,Ghana,Android,Ads
+4281,2022-08-02,Ghana,iOS,Referral
+4282,2022-07-16,Nigeria,Web,Referral
+4283,2022-02-16,Ghana,Web,Ads
+4284,2022-06-16,Nigeria,iOS,Ads
+4285,2022-10-16,Kenya,iOS,Ads
+4286,2022-05-21,Kenya,iOS,Ads
+4287,2022-03-25,Ghana,Web,Referral
+4288,2022-07-01,Kenya,iOS,Referral
+4289,2022-03-20,South Africa,iOS,Referral
+4290,2022-08-03,Ghana,iOS,Referral
+4291,2022-01-14,Kenya,Android,Ads
+4292,2022-08-03,Nigeria,Web,Referral
+4293,2022-05-08,Kenya,Android,Organic
+4294,2022-11-06,Kenya,Android,Ads
+4295,2022-09-05,Kenya,Web,Organic
+4296,2022-01-29,Kenya,Android,Ads
+4297,2022-10-07,South Africa,iOS,Organic
+4298,2022-12-04,Nigeria,iOS,Ads
+4299,2022-11-15,South Africa,Android,Ads
+4300,2022-07-21,Nigeria,iOS,Ads
+4301,2022-12-27,Kenya,Web,Ads
+4302,2022-02-26,Ghana,Android,Organic
+4303,2022-08-06,Nigeria,Web,Organic
+4304,2022-03-03,Ghana,Web,Ads
+4305,2022-06-06,Kenya,Web,Referral
+4306,2022-07-21,Ghana,Android,Ads
+4307,2022-01-17,Ghana,Android,Ads
+4308,2022-11-18,South Africa,Android,Ads
+4309,2022-01-06,Nigeria,iOS,Referral
+4310,2022-02-27,South Africa,iOS,Referral
+4311,2022-11-21,Nigeria,Android,Ads
+4312,2022-11-14,Ghana,Android,Referral
+4313,2022-06-18,South Africa,iOS,Referral
+4314,2022-03-23,Nigeria,Web,Ads
+4315,2022-08-07,South Africa,Web,Organic
+4316,2022-06-26,Nigeria,Android,Ads
+4317,2022-07-23,South Africa,Web,Referral
+4318,2022-03-12,South Africa,iOS,Organic
+4319,2022-09-23,South Africa,Android,Organic
+4320,2022-04-08,Kenya,iOS,Referral
+4321,2022-12-11,South Africa,Android,Ads
+4322,2022-10-18,South Africa,Android,Ads
+4323,2022-07-27,Ghana,Web,Referral
+4324,2022-01-02,Ghana,Android,Organic
+4325,2022-05-04,South Africa,Android,Organic
+4326,2022-10-07,Ghana,Web,Organic
+4327,2022-03-15,Nigeria,Web,Organic
+4328,2022-06-15,Kenya,Android,Referral
+4329,2022-01-22,Nigeria,Android,Referral
+4330,2022-06-03,Ghana,Web,Organic
+4331,2022-10-22,Ghana,Web,Referral
+4332,2022-08-07,Nigeria,iOS,Organic
+4333,2022-06-06,Ghana,iOS,Referral
+4334,2022-08-18,Nigeria,Android,Organic
+4335,2022-01-20,Kenya,iOS,Organic
+4336,2022-02-10,South Africa,Android,Referral
+4337,2022-05-28,Ghana,iOS,Referral
+4338,2022-04-18,Ghana,Android,Referral
+4339,2022-03-25,Nigeria,Android,Organic
+4340,2022-11-18,South Africa,iOS,Organic
+4341,2022-11-05,Kenya,Android,Ads
+4342,2022-10-17,South Africa,Android,Organic
+4343,2022-11-19,Kenya,Web,Organic
+4344,2022-05-14,South Africa,iOS,Ads
+4345,2022-07-26,Kenya,iOS,Organic
+4346,2022-10-10,Nigeria,iOS,Referral
+4347,2022-09-23,South Africa,Android,Organic
+4348,2022-03-14,South Africa,iOS,Ads
+4349,2022-12-18,South Africa,Android,Referral
+4350,2022-02-17,Nigeria,Android,Ads
+4351,2022-11-22,Kenya,Web,Organic
+4352,2022-08-21,South Africa,iOS,Organic
+4353,2022-04-10,South Africa,Android,Ads
+4354,2022-02-28,South Africa,iOS,Organic
+4355,2022-09-15,South Africa,Android,Ads
+4356,2022-03-06,South Africa,Android,Ads
+4357,2022-03-24,Kenya,iOS,Ads
+4358,2022-06-03,Nigeria,Android,Referral
+4359,2022-09-23,Kenya,Android,Ads
+4360,2022-11-05,South Africa,iOS,Referral
+4361,2022-03-20,Kenya,Web,Referral
+4362,2022-11-11,South Africa,Android,Ads
+4363,2022-05-30,Nigeria,Android,Organic
+4364,2022-02-17,Ghana,Web,Referral
+4365,2022-09-05,South Africa,iOS,Referral
+4366,2022-10-05,Kenya,Android,Ads
+4367,2022-12-22,Nigeria,Android,Referral
+4368,2022-04-08,South Africa,iOS,Ads
+4369,2022-01-25,Nigeria,Web,Ads
+4370,2022-10-11,Nigeria,Android,Ads
+4371,2022-10-28,South Africa,iOS,Ads
+4372,2022-03-09,Nigeria,iOS,Organic
+4373,2022-01-07,Kenya,Android,Organic
+4374,2022-11-01,Kenya,Android,Organic
+4375,2022-05-17,Kenya,iOS,Ads
+4376,2022-06-13,Ghana,Android,Organic
+4377,2022-03-24,Kenya,Web,Referral
+4378,2022-05-18,Ghana,iOS,Ads
+4379,2022-03-14,Nigeria,iOS,Referral
+4380,2022-08-25,Nigeria,Web,Ads
+4381,2022-02-15,Ghana,iOS,Referral
+4382,2022-04-16,Nigeria,Web,Ads
+4383,2022-10-15,Kenya,Web,Organic
+4384,2022-09-19,Nigeria,iOS,Referral
+4385,2022-06-25,South Africa,Android,Organic
+4386,2022-06-15,Nigeria,Web,Organic
+4387,2022-05-25,South Africa,Android,Ads
+4388,2022-11-26,Nigeria,iOS,Ads
+4389,2022-10-10,South Africa,iOS,Ads
+4390,2022-02-23,Nigeria,Web,Organic
+4391,2022-06-27,Nigeria,Web,Ads
+4392,2022-09-01,Kenya,Web,Referral
+4393,2022-12-07,Kenya,Web,Organic
+4394,2022-05-07,Ghana,Web,Ads
+4395,2022-09-28,Nigeria,Web,Ads
+4396,2022-05-12,Kenya,iOS,Referral
+4397,2022-04-03,South Africa,iOS,Ads
+4398,2022-03-14,Ghana,Web,Organic
+4399,2022-09-05,Kenya,Android,Referral
+4400,2022-12-14,Nigeria,iOS,Organic
+4401,2022-09-30,South Africa,Android,Ads
+4402,2022-02-12,Nigeria,Web,Ads
+4403,2022-02-10,Kenya,iOS,Organic
+4404,2022-06-19,South Africa,Web,Referral
+4405,2022-07-31,Nigeria,Android,Referral
+4406,2022-06-17,Kenya,Web,Ads
+4407,2022-02-08,South Africa,Android,Referral
+4408,2022-09-02,South Africa,Web,Referral
+4409,2022-05-31,South Africa,iOS,Referral
+4410,2022-04-21,South Africa,Web,Ads
+4411,2022-02-16,Nigeria,iOS,Organic
+4412,2022-03-04,Ghana,iOS,Ads
+4413,2022-08-13,Nigeria,Web,Organic
+4414,2022-03-10,Kenya,iOS,Organic
+4415,2022-10-26,Kenya,Web,Organic
+4416,2022-10-17,Ghana,Android,Organic
+4417,2022-10-23,Nigeria,Android,Organic
+4418,2022-07-22,Kenya,Android,Ads
+4419,2022-03-02,Kenya,iOS,Ads
+4420,2022-11-14,Nigeria,Web,Ads
+4421,2022-11-10,Kenya,iOS,Ads
+4422,2022-06-10,Kenya,iOS,Organic
+4423,2022-11-27,Kenya,Web,Referral
+4424,2022-01-16,Ghana,iOS,Referral
+4425,2022-12-04,South Africa,Web,Organic
+4426,2022-04-04,Nigeria,Web,Organic
+4427,2022-10-31,Nigeria,Android,Organic
+4428,2022-05-18,Kenya,Web,Ads
+4429,2022-12-04,Nigeria,Web,Ads
+4430,2022-02-07,Ghana,iOS,Organic
+4431,2022-05-07,Ghana,iOS,Ads
+4432,2022-10-02,Kenya,Android,Ads
+4433,2022-06-13,Ghana,Android,Ads
+4434,2022-11-15,Nigeria,iOS,Ads
+4435,2022-03-18,South Africa,iOS,Referral
+4436,2022-06-23,South Africa,iOS,Organic
+4437,2022-12-24,Kenya,iOS,Organic
+4438,2022-11-17,Nigeria,Web,Organic
+4439,2022-04-01,Nigeria,Android,Referral
+4440,2022-08-26,South Africa,iOS,Referral
+4441,2022-09-21,Ghana,iOS,Referral
+4442,2022-06-28,South Africa,Web,Referral
+4443,2022-07-28,Kenya,Web,Organic
+4444,2022-03-14,Ghana,Android,Ads
+4445,2022-04-17,Ghana,Web,Organic
+4446,2022-12-11,Ghana,Web,Organic
+4447,2022-10-22,Nigeria,Web,Ads
+4448,2022-10-11,Ghana,Android,Organic
+4449,2022-12-19,South Africa,iOS,Referral
+4450,2022-07-01,Ghana,Android,Referral
+4451,2022-02-06,Nigeria,Android,Referral
+4452,2022-05-17,Nigeria,Web,Ads
+4453,2022-12-04,South Africa,iOS,Ads
+4454,2022-02-25,South Africa,Android,Ads
+4455,2022-07-06,Ghana,Android,Ads
+4456,2022-12-07,Nigeria,iOS,Ads
+4457,2022-09-15,South Africa,Web,Ads
+4458,2022-02-27,Nigeria,Web,Referral
+4459,2022-12-29,Ghana,iOS,Ads
+4460,2022-05-03,South Africa,Android,Organic
+4461,2022-07-07,Ghana,Android,Organic
+4462,2022-08-18,Nigeria,iOS,Organic
+4463,2022-06-17,South Africa,iOS,Ads
+4464,2022-04-24,Kenya,Web,Ads
+4465,2022-09-09,Nigeria,Android,Referral
+4466,2022-04-17,South Africa,Android,Referral
+4467,2022-02-06,Ghana,Android,Organic
+4468,2022-12-01,South Africa,Android,Referral
+4469,2022-04-02,Ghana,Android,Referral
+4470,2022-01-18,South Africa,Web,Ads
+4471,2022-12-20,South Africa,iOS,Referral
+4472,2022-03-04,Ghana,iOS,Ads
+4473,2022-05-30,Ghana,Web,Ads
+4474,2022-05-19,Nigeria,Android,Referral
+4475,2022-07-05,Kenya,Android,Ads
+4476,2022-07-04,Nigeria,Web,Ads
+4477,2022-07-24,South Africa,iOS,Referral
+4478,2022-09-17,Kenya,Android,Referral
+4479,2022-08-02,South Africa,Web,Referral
+4480,2022-09-13,South Africa,iOS,Referral
+4481,2022-05-15,Nigeria,iOS,Referral
+4482,2022-03-02,Nigeria,Android,Organic
+4483,2022-12-29,South Africa,Android,Organic
+4484,2022-11-06,Nigeria,Android,Referral
+4485,2022-03-29,South Africa,Android,Ads
+4486,2022-11-20,Kenya,Android,Organic
+4487,2022-07-26,South Africa,Android,Ads
+4488,2022-05-09,Nigeria,Android,Ads
+4489,2022-11-07,Kenya,iOS,Referral
+4490,2022-01-03,Nigeria,iOS,Organic
+4491,2022-08-30,Ghana,Android,Ads
+4492,2022-05-01,Nigeria,Android,Referral
+4493,2022-04-12,Kenya,Android,Ads
+4494,2022-02-07,Nigeria,iOS,Organic
+4495,2022-12-07,Ghana,iOS,Ads
+4496,2022-05-13,Kenya,iOS,Organic
+4497,2022-07-21,Kenya,Android,Organic
+4498,2022-12-14,Nigeria,Android,Referral
+4499,2022-01-21,Ghana,Web,Referral
+4500,2022-08-30,Nigeria,Android,Organic
+4501,2022-04-19,Kenya,Android,Ads
+4502,2022-10-30,Nigeria,Web,Ads
+4503,2022-03-25,Kenya,Android,Organic
+4504,2022-03-24,South Africa,iOS,Ads
+4505,2022-10-18,Nigeria,Android,Organic
+4506,2022-03-10,Ghana,Web,Referral
+4507,2022-05-09,Kenya,iOS,Organic
+4508,2022-07-15,Nigeria,iOS,Ads
+4509,2022-05-20,Nigeria,iOS,Ads
+4510,2022-10-10,Nigeria,Android,Organic
+4511,2022-11-08,Nigeria,Web,Ads
+4512,2022-08-22,Ghana,Android,Referral
+4513,2022-01-23,Nigeria,Web,Referral
+4514,2022-06-02,South Africa,Web,Referral
+4515,2022-10-04,Ghana,iOS,Referral
+4516,2022-03-02,Kenya,iOS,Organic
+4517,2022-11-15,Nigeria,Android,Referral
+4518,2022-02-21,Kenya,iOS,Ads
+4519,2022-12-10,South Africa,Android,Referral
+4520,2022-06-02,Ghana,Web,Organic
+4521,2022-08-25,Ghana,iOS,Referral
+4522,2022-11-07,Ghana,iOS,Referral
+4523,2022-10-29,Nigeria,iOS,Organic
+4524,2022-02-01,Kenya,Web,Organic
+4525,2022-02-24,Kenya,Android,Referral
+4526,2022-12-18,Kenya,Web,Organic
+4527,2022-02-05,South Africa,Android,Organic
+4528,2022-04-20,Kenya,iOS,Ads
+4529,2022-06-26,Kenya,iOS,Ads
+4530,2022-12-28,Kenya,iOS,Organic
+4531,2022-11-10,Kenya,Web,Organic
+4532,2022-10-22,Kenya,Android,Referral
+4533,2022-12-02,Ghana,iOS,Referral
+4534,2022-04-07,Kenya,Web,Referral
+4535,2022-08-01,South Africa,iOS,Referral
+4536,2022-11-13,Kenya,iOS,Ads
+4537,2022-05-17,Nigeria,iOS,Referral
+4538,2022-01-06,Kenya,iOS,Organic
+4539,2022-04-19,South Africa,Android,Organic
+4540,2022-02-04,Ghana,Android,Ads
+4541,2022-02-08,Kenya,Web,Organic
+4542,2022-05-30,Ghana,Web,Organic
+4543,2022-04-28,Ghana,Android,Organic
+4544,2022-09-18,Ghana,Web,Referral
+4545,2022-03-28,Nigeria,Android,Referral
+4546,2022-03-17,Kenya,iOS,Organic
+4547,2022-11-09,Kenya,Android,Ads
+4548,2022-08-02,Ghana,Android,Referral
+4549,2022-10-12,South Africa,Android,Ads
+4550,2022-08-27,Ghana,Android,Referral
+4551,2022-06-14,Ghana,Android,Referral
+4552,2022-03-28,South Africa,Web,Organic
+4553,2022-05-21,Ghana,iOS,Organic
+4554,2022-06-09,Nigeria,Android,Referral
+4555,2022-02-15,Kenya,Android,Organic
+4556,2022-04-22,Ghana,iOS,Ads
+4557,2022-02-14,Kenya,Web,Referral
+4558,2022-09-04,Ghana,iOS,Ads
+4559,2022-04-14,Nigeria,iOS,Organic
+4560,2022-03-26,South Africa,Web,Ads
+4561,2022-05-14,South Africa,Web,Referral
+4562,2022-04-18,Ghana,iOS,Ads
+4563,2022-01-18,Ghana,iOS,Ads
+4564,2022-04-04,South Africa,Android,Ads
+4565,2022-05-30,Nigeria,iOS,Ads
+4566,2022-09-03,Kenya,Web,Ads
+4567,2022-10-16,Nigeria,Android,Ads
+4568,2022-07-28,Kenya,Android,Organic
+4569,2022-05-06,Kenya,iOS,Referral
+4570,2022-08-23,Kenya,Web,Organic
+4571,2022-05-02,Ghana,Android,Referral
+4572,2022-05-18,Kenya,iOS,Ads
+4573,2022-04-25,Kenya,Web,Ads
+4574,2022-06-11,Nigeria,Web,Organic
+4575,2022-07-20,South Africa,iOS,Ads
+4576,2022-08-22,Kenya,Android,Organic
+4577,2022-01-28,Ghana,Web,Ads
+4578,2022-01-11,Kenya,Web,Ads
+4579,2022-07-25,Kenya,iOS,Ads
+4580,2022-06-16,Kenya,Android,Referral
+4581,2022-09-04,Ghana,iOS,Ads
+4582,2022-02-16,South Africa,Android,Referral
+4583,2022-09-03,Nigeria,Android,Referral
+4584,2022-05-07,South Africa,iOS,Organic
+4585,2022-05-27,Ghana,iOS,Ads
+4586,2022-04-28,Kenya,iOS,Referral
+4587,2022-06-01,Kenya,Web,Ads
+4588,2022-03-13,Nigeria,Android,Organic
+4589,2022-12-29,Nigeria,iOS,Organic
+4590,2022-05-17,Ghana,Web,Ads
+4591,2022-06-24,Ghana,Web,Ads
+4592,2022-10-16,Nigeria,Android,Organic
+4593,2022-01-19,Ghana,Web,Ads
+4594,2022-07-14,Nigeria,Android,Referral
+4595,2022-11-26,Kenya,iOS,Organic
+4596,2022-06-24,South Africa,Web,Ads
+4597,2022-12-20,Kenya,Web,Ads
+4598,2022-05-21,Nigeria,iOS,Ads
+4599,2022-09-03,Kenya,iOS,Referral
+4600,2022-04-03,Nigeria,Web,Organic
+4601,2022-08-27,Nigeria,Web,Referral
+4602,2022-07-24,Ghana,Web,Referral
+4603,2022-02-17,Kenya,iOS,Organic
+4604,2022-09-02,South Africa,Android,Organic
+4605,2022-11-16,South Africa,Web,Referral
+4606,2022-11-13,Kenya,Android,Organic
+4607,2022-10-22,Nigeria,iOS,Referral
+4608,2022-05-08,Kenya,Web,Ads
+4609,2022-12-10,South Africa,Android,Ads
+4610,2022-10-09,Kenya,Web,Referral
+4611,2022-01-17,South Africa,Web,Referral
+4612,2022-03-12,Ghana,Android,Ads
+4613,2022-09-26,Nigeria,iOS,Ads
+4614,2022-11-21,Ghana,Android,Referral
+4615,2022-10-09,South Africa,Web,Referral
+4616,2022-11-01,Ghana,Web,Organic
+4617,2022-01-07,Nigeria,Android,Referral
+4618,2022-11-10,Nigeria,Android,Referral
+4619,2022-11-01,Ghana,Web,Referral
+4620,2022-04-13,Ghana,Android,Ads
+4621,2022-11-05,Kenya,iOS,Organic
+4622,2022-07-12,South Africa,iOS,Organic
+4623,2022-08-29,Ghana,iOS,Organic
+4624,2022-03-03,Kenya,Web,Ads
+4625,2022-01-17,Nigeria,Web,Referral
+4626,2022-06-20,Nigeria,iOS,Referral
+4627,2022-01-25,Ghana,Web,Ads
+4628,2022-09-08,Ghana,iOS,Ads
+4629,2022-09-10,Kenya,Android,Referral
+4630,2022-07-26,Ghana,Android,Referral
+4631,2022-01-29,South Africa,Web,Organic
+4632,2022-04-27,Kenya,iOS,Ads
+4633,2022-10-09,Ghana,iOS,Organic
+4634,2022-05-24,South Africa,Web,Referral
+4635,2022-01-25,Kenya,iOS,Referral
+4636,2022-11-06,Ghana,iOS,Organic
+4637,2022-06-05,Kenya,Web,Ads
+4638,2022-03-14,Ghana,iOS,Referral
+4639,2022-04-30,South Africa,Android,Referral
+4640,2022-11-08,Ghana,iOS,Ads
+4641,2022-11-17,Ghana,Web,Referral
+4642,2022-04-03,Kenya,iOS,Referral
+4643,2022-03-27,Ghana,iOS,Ads
+4644,2022-12-02,Nigeria,Web,Organic
+4645,2022-12-30,Nigeria,Web,Referral
+4646,2022-04-28,South Africa,iOS,Organic
+4647,2022-08-21,Kenya,iOS,Referral
+4648,2022-07-18,Ghana,Web,Organic
+4649,2022-07-25,Nigeria,iOS,Ads
+4650,2022-12-05,Kenya,Web,Organic
+4651,2022-05-27,Ghana,Web,Referral
+4652,2022-09-28,Kenya,Web,Referral
+4653,2022-05-19,Kenya,iOS,Organic
+4654,2022-06-30,Nigeria,Web,Referral
+4655,2022-01-30,Ghana,Android,Ads
+4656,2022-02-26,Nigeria,iOS,Referral
+4657,2022-08-20,Ghana,iOS,Referral
+4658,2022-05-26,Ghana,Android,Ads
+4659,2022-02-17,Kenya,Web,Organic
+4660,2022-07-13,Kenya,Web,Ads
+4661,2022-08-12,South Africa,iOS,Ads
+4662,2022-05-16,South Africa,iOS,Organic
+4663,2022-01-22,Nigeria,iOS,Referral
+4664,2022-01-06,Kenya,iOS,Ads
+4665,2022-07-23,Nigeria,iOS,Organic
+4666,2022-08-27,Nigeria,Android,Ads
+4667,2022-07-04,Nigeria,Web,Organic
+4668,2022-12-26,Nigeria,Web,Organic
+4669,2022-10-19,Kenya,iOS,Ads
+4670,2022-12-01,South Africa,Web,Referral
+4671,2022-08-08,Ghana,iOS,Ads
+4672,2022-04-26,South Africa,iOS,Organic
+4673,2022-11-09,Nigeria,Web,Ads
+4674,2022-02-18,Ghana,iOS,Ads
+4675,2022-06-22,Nigeria,Web,Ads
+4676,2022-03-23,Nigeria,Android,Referral
+4677,2022-11-18,Ghana,Web,Ads
+4678,2022-11-29,Nigeria,iOS,Ads
+4679,2022-02-14,South Africa,Android,Organic
+4680,2022-12-01,Nigeria,Web,Organic
+4681,2022-01-20,South Africa,Android,Ads
+4682,2022-08-09,Nigeria,iOS,Organic
+4683,2022-05-03,Kenya,Web,Organic
+4684,2022-08-22,Kenya,Web,Organic
+4685,2022-08-09,Kenya,iOS,Ads
+4686,2022-11-19,Kenya,Android,Ads
+4687,2022-12-05,South Africa,iOS,Ads
+4688,2022-01-03,South Africa,iOS,Referral
+4689,2022-07-01,Kenya,Android,Ads
+4690,2022-07-25,South Africa,iOS,Organic
+4691,2022-11-16,Ghana,Android,Ads
+4692,2022-02-09,South Africa,iOS,Organic
+4693,2022-02-28,Ghana,iOS,Referral
+4694,2022-03-03,Nigeria,iOS,Organic
+4695,2022-05-12,Nigeria,iOS,Ads
+4696,2022-03-01,Nigeria,Web,Referral
+4697,2022-11-27,South Africa,Web,Organic
+4698,2022-05-02,Nigeria,Android,Organic
+4699,2022-04-17,Kenya,Web,Referral
+4700,2022-04-06,South Africa,Web,Referral
+4701,2022-12-13,Nigeria,Web,Referral
+4702,2022-08-23,Nigeria,iOS,Referral
+4703,2022-03-03,Kenya,Android,Referral
+4704,2022-09-13,Kenya,Android,Referral
+4705,2022-02-18,Ghana,iOS,Organic
+4706,2022-12-14,Ghana,Web,Ads
+4707,2022-06-08,Kenya,Web,Ads
+4708,2022-05-04,Kenya,iOS,Organic
+4709,2022-11-13,South Africa,Web,Referral
+4710,2022-07-26,Nigeria,Web,Organic
+4711,2022-02-17,Kenya,iOS,Organic
+4712,2022-05-16,Nigeria,Android,Referral
+4713,2022-07-20,Kenya,Web,Ads
+4714,2022-09-07,Ghana,Android,Referral
+4715,2022-11-10,South Africa,Android,Ads
+4716,2022-12-23,Nigeria,iOS,Organic
+4717,2022-11-14,Kenya,Android,Referral
+4718,2022-10-22,Nigeria,iOS,Referral
+4719,2022-11-10,Ghana,iOS,Organic
+4720,2022-07-28,Ghana,Web,Ads
+4721,2022-12-21,South Africa,Android,Ads
+4722,2022-07-30,Kenya,Android,Organic
+4723,2022-07-11,South Africa,iOS,Ads
+4724,2022-02-13,Kenya,iOS,Organic
+4725,2022-01-29,South Africa,Web,Ads
+4726,2022-02-28,Nigeria,Web,Ads
+4727,2022-03-12,Nigeria,iOS,Ads
+4728,2022-04-02,Ghana,Web,Referral
+4729,2022-09-22,Nigeria,Android,Ads
+4730,2022-08-08,Kenya,Android,Ads
+4731,2022-08-03,Nigeria,Android,Ads
+4732,2022-10-04,Nigeria,Android,Organic
+4733,2022-03-05,Kenya,Android,Referral
+4734,2022-12-12,Nigeria,iOS,Organic
+4735,2022-10-19,South Africa,iOS,Organic
+4736,2022-09-02,Ghana,iOS,Organic
+4737,2022-03-03,Nigeria,Android,Ads
+4738,2022-11-28,Kenya,Web,Referral
+4739,2022-06-19,Nigeria,Android,Referral
+4740,2022-09-26,Ghana,iOS,Organic
+4741,2022-09-24,Nigeria,Android,Referral
+4742,2022-02-23,Ghana,Web,Referral
+4743,2022-01-16,South Africa,Android,Organic
+4744,2022-01-08,Nigeria,iOS,Organic
+4745,2022-04-14,Kenya,Web,Referral
+4746,2022-02-28,South Africa,Web,Ads
+4747,2022-11-09,Kenya,Web,Referral
+4748,2022-02-09,South Africa,Android,Referral
+4749,2022-08-25,South Africa,iOS,Ads
+4750,2022-04-04,Nigeria,Web,Referral
+4751,2022-08-10,Nigeria,iOS,Referral
+4752,2022-07-23,Nigeria,iOS,Organic
+4753,2022-05-18,South Africa,iOS,Organic
+4754,2022-10-27,South Africa,Web,Ads
+4755,2022-07-26,Ghana,Web,Ads
+4756,2022-12-02,Kenya,Android,Ads
+4757,2022-03-22,South Africa,iOS,Referral
+4758,2022-08-06,Kenya,Android,Referral
+4759,2022-01-02,Nigeria,Android,Ads
+4760,2022-06-27,Ghana,Android,Organic
+4761,2022-12-12,South Africa,Android,Referral
+4762,2022-10-06,Ghana,Web,Ads
+4763,2022-05-26,South Africa,iOS,Ads
+4764,2022-11-14,Nigeria,iOS,Referral
+4765,2022-08-12,Ghana,iOS,Organic
+4766,2022-03-03,Kenya,Android,Organic
+4767,2022-10-21,Kenya,Android,Ads
+4768,2022-08-27,Ghana,iOS,Ads
+4769,2022-07-14,South Africa,Android,Organic
+4770,2022-06-15,South Africa,Android,Organic
+4771,2022-08-10,Nigeria,Web,Referral
+4772,2022-03-02,South Africa,Android,Ads
+4773,2022-05-09,South Africa,iOS,Organic
+4774,2022-06-22,Ghana,Android,Referral
+4775,2022-06-05,Ghana,iOS,Referral
+4776,2022-04-20,Kenya,iOS,Ads
+4777,2022-09-26,Kenya,Web,Ads
+4778,2022-12-22,Nigeria,iOS,Organic
+4779,2022-10-05,South Africa,Android,Organic
+4780,2022-03-15,South Africa,iOS,Ads
+4781,2022-07-26,Ghana,Android,Referral
+4782,2022-10-06,South Africa,Web,Referral
+4783,2022-11-22,Ghana,iOS,Ads
+4784,2022-12-06,South Africa,iOS,Ads
+4785,2022-12-23,Kenya,Android,Referral
+4786,2022-12-06,South Africa,Android,Organic
+4787,2022-07-23,Ghana,Web,Ads
+4788,2022-06-10,Kenya,iOS,Referral
+4789,2022-01-28,Nigeria,Web,Organic
+4790,2022-09-14,South Africa,Web,Referral
+4791,2022-06-14,South Africa,iOS,Ads
+4792,2022-03-04,Kenya,Android,Ads
+4793,2022-01-22,Kenya,Android,Organic
+4794,2022-03-11,Kenya,iOS,Organic
+4795,2022-04-06,Nigeria,iOS,Organic
+4796,2022-06-12,Nigeria,Android,Ads
+4797,2022-03-20,South Africa,iOS,Organic
+4798,2022-01-05,Ghana,Android,Referral
+4799,2022-11-12,Kenya,Android,Referral
+4800,2022-04-30,Ghana,Web,Organic
+4801,2022-10-29,South Africa,Android,Organic
+4802,2022-06-27,Kenya,iOS,Ads
+4803,2022-06-25,South Africa,iOS,Ads
+4804,2022-08-05,South Africa,iOS,Referral
+4805,2022-02-25,Nigeria,Web,Organic
+4806,2022-07-06,South Africa,Android,Referral
+4807,2022-08-20,Nigeria,Web,Ads
+4808,2022-09-12,Nigeria,iOS,Referral
+4809,2022-04-14,Kenya,Android,Referral
+4810,2022-03-18,South Africa,Web,Referral
+4811,2022-08-18,Kenya,Android,Ads
+4812,2022-09-15,Nigeria,iOS,Ads
+4813,2022-09-21,South Africa,Android,Organic
+4814,2022-11-27,South Africa,iOS,Organic
+4815,2022-07-01,Ghana,Web,Organic
+4816,2022-09-13,Nigeria,Web,Organic
+4817,2022-02-07,Kenya,iOS,Organic
+4818,2022-06-25,Kenya,iOS,Organic
+4819,2022-01-27,Nigeria,Android,Organic
+4820,2022-10-03,Nigeria,Web,Referral
+4821,2022-05-20,Kenya,iOS,Organic
+4822,2022-10-26,Kenya,iOS,Ads
+4823,2022-10-14,Ghana,Web,Referral
+4824,2022-04-01,Ghana,Web,Ads
+4825,2022-03-02,South Africa,iOS,Referral
+4826,2022-12-31,Kenya,iOS,Referral
+4827,2022-12-13,South Africa,Android,Organic
+4828,2022-06-12,Ghana,iOS,Ads
+4829,2022-12-17,Ghana,Android,Organic
+4830,2022-05-23,Ghana,iOS,Ads
+4831,2022-09-10,Ghana,Android,Organic
+4832,2022-09-26,Ghana,iOS,Ads
+4833,2022-10-18,South Africa,Web,Ads
+4834,2022-07-06,Ghana,iOS,Ads
+4835,2022-10-31,Kenya,Android,Organic
+4836,2022-10-18,South Africa,Web,Referral
+4837,2022-03-27,South Africa,Android,Referral
+4838,2022-06-15,Ghana,iOS,Referral
+4839,2022-04-24,South Africa,Android,Organic
+4840,2022-12-22,South Africa,Web,Organic
+4841,2022-07-02,Ghana,iOS,Ads
+4842,2022-07-26,South Africa,Android,Organic
+4843,2022-09-13,South Africa,iOS,Referral
+4844,2022-08-23,Kenya,Android,Ads
+4845,2022-12-21,Nigeria,iOS,Ads
+4846,2022-01-03,Nigeria,iOS,Organic
+4847,2022-07-27,Ghana,Android,Organic
+4848,2022-07-16,Kenya,Web,Referral
+4849,2022-12-07,South Africa,Android,Ads
+4850,2022-05-05,Ghana,Web,Ads
+4851,2022-05-18,South Africa,iOS,Referral
+4852,2022-12-05,Ghana,Web,Ads
+4853,2022-01-25,Nigeria,Web,Referral
+4854,2022-03-09,Ghana,Android,Ads
+4855,2022-03-02,Kenya,Android,Referral
+4856,2022-01-29,South Africa,Android,Ads
+4857,2022-01-19,Kenya,Web,Ads
+4858,2022-06-20,Nigeria,iOS,Organic
+4859,2022-03-15,South Africa,Android,Organic
+4860,2022-03-02,Ghana,Android,Ads
+4861,2022-06-02,South Africa,iOS,Ads
+4862,2022-10-03,Nigeria,iOS,Referral
+4863,2022-02-17,Ghana,Web,Ads
+4864,2022-07-30,Nigeria,Android,Organic
+4865,2022-12-09,Kenya,iOS,Ads
+4866,2022-05-19,South Africa,Android,Referral
+4867,2022-04-20,Kenya,Android,Referral
+4868,2022-07-02,Nigeria,Web,Ads
+4869,2022-01-28,Ghana,Android,Ads
+4870,2022-07-16,Nigeria,iOS,Ads
+4871,2022-07-10,Kenya,Web,Organic
+4872,2022-11-11,South Africa,Android,Referral
+4873,2022-02-20,South Africa,Web,Ads
+4874,2022-05-29,Nigeria,iOS,Referral
+4875,2022-09-25,Nigeria,Android,Referral
+4876,2022-02-19,Nigeria,Web,Referral
+4877,2022-09-03,Nigeria,iOS,Organic
+4878,2022-04-23,Ghana,Android,Ads
+4879,2022-06-19,Ghana,iOS,Organic
+4880,2022-06-15,South Africa,Web,Ads
+4881,2022-01-14,South Africa,Web,Referral
+4882,2022-07-22,Ghana,Android,Organic
+4883,2022-10-15,Ghana,Android,Ads
+4884,2022-07-08,Kenya,Android,Organic
+4885,2022-06-04,Nigeria,iOS,Referral
+4886,2022-02-24,South Africa,Android,Referral
+4887,2022-07-01,Ghana,Android,Referral
+4888,2022-07-29,Kenya,iOS,Referral
+4889,2022-03-16,Nigeria,Web,Referral
+4890,2022-10-04,South Africa,Android,Referral
+4891,2022-05-13,Nigeria,iOS,Referral
+4892,2022-12-09,Kenya,Android,Organic
+4893,2022-02-28,Ghana,Web,Ads
+4894,2022-12-11,South Africa,Android,Ads
+4895,2022-07-01,Ghana,iOS,Referral
+4896,2022-12-05,Ghana,iOS,Referral
+4897,2022-11-17,South Africa,iOS,Referral
+4898,2022-03-05,Nigeria,Android,Referral
+4899,2022-11-23,South Africa,iOS,Organic
+4900,2022-09-17,Nigeria,Android,Referral
+4901,2022-07-12,Ghana,Web,Organic
+4902,2022-05-23,Ghana,Web,Ads
+4903,2022-04-14,South Africa,Android,Ads
+4904,2022-08-02,Nigeria,Android,Ads
+4905,2022-08-30,Kenya,iOS,Ads
+4906,2022-07-28,Kenya,Web,Ads
+4907,2022-04-03,Kenya,Android,Organic
+4908,2022-05-22,Ghana,iOS,Organic
+4909,2022-04-22,Nigeria,iOS,Organic
+4910,2022-02-28,South Africa,Android,Referral
+4911,2022-02-12,Nigeria,iOS,Referral
+4912,2022-07-26,Nigeria,Web,Ads
+4913,2022-09-25,Kenya,Android,Referral
+4914,2022-10-23,Nigeria,Android,Organic
+4915,2022-04-28,Nigeria,Web,Referral
+4916,2022-01-20,Nigeria,iOS,Referral
+4917,2022-08-10,Kenya,Web,Ads
+4918,2022-06-15,South Africa,iOS,Referral
+4919,2022-05-11,Kenya,iOS,Referral
+4920,2022-06-05,South Africa,Web,Ads
+4921,2022-07-03,Nigeria,iOS,Referral
+4922,2022-03-31,Nigeria,Android,Referral
+4923,2022-04-04,Nigeria,Android,Referral
+4924,2022-01-13,South Africa,Web,Organic
+4925,2022-11-18,Kenya,iOS,Organic
+4926,2022-10-20,South Africa,Android,Organic
+4927,2022-08-18,South Africa,iOS,Ads
+4928,2022-11-18,South Africa,Android,Ads
+4929,2022-10-19,Nigeria,Web,Referral
+4930,2022-01-26,South Africa,Web,Organic
+4931,2022-03-16,Kenya,Web,Referral
+4932,2022-12-30,Ghana,iOS,Organic
+4933,2022-10-26,Kenya,Web,Ads
+4934,2022-05-30,Nigeria,Web,Organic
+4935,2022-05-28,Kenya,Web,Ads
+4936,2022-01-08,Kenya,Web,Organic
+4937,2022-01-29,Ghana,Web,Referral
+4938,2022-10-23,Kenya,Web,Referral
+4939,2022-07-28,Nigeria,Web,Organic
+4940,2022-05-08,South Africa,iOS,Ads
+4941,2022-12-06,Kenya,iOS,Organic
+4942,2022-04-26,Nigeria,Web,Ads
+4943,2022-05-24,South Africa,Web,Organic
+4944,2022-11-14,Ghana,iOS,Referral
+4945,2022-08-23,South Africa,Android,Organic
+4946,2022-01-07,Kenya,Android,Organic
+4947,2022-02-14,Kenya,Web,Referral
+4948,2022-08-27,Kenya,iOS,Ads
+4949,2022-06-04,Nigeria,Android,Organic
+4950,2022-06-30,Ghana,Web,Referral
+4951,2022-08-03,Ghana,Android,Ads
+4952,2022-03-29,South Africa,Web,Ads
+4953,2022-09-13,South Africa,Android,Referral
+4954,2022-03-14,Kenya,Android,Organic
+4955,2022-06-28,South Africa,Android,Ads
+4956,2022-07-31,Kenya,Web,Ads
+4957,2022-10-20,Kenya,Android,Ads
+4958,2022-08-22,Kenya,Android,Ads
+4959,2022-08-27,Ghana,Web,Ads
+4960,2022-08-11,Ghana,iOS,Organic
+4961,2022-04-29,Nigeria,Android,Organic
+4962,2022-11-09,Nigeria,Web,Referral
+4963,2022-09-21,Ghana,iOS,Ads
+4964,2022-07-26,Nigeria,Web,Ads
+4965,2022-04-05,Ghana,Web,Referral
+4966,2022-08-10,Nigeria,Web,Referral
+4967,2022-10-03,Kenya,iOS,Organic
+4968,2022-08-19,Nigeria,iOS,Ads
+4969,2022-11-05,Kenya,Web,Referral
+4970,2022-04-29,South Africa,Android,Ads
+4971,2022-09-25,Ghana,Web,Organic
+4972,2022-09-30,Nigeria,Android,Ads
+4973,2022-03-05,Ghana,Android,Organic
+4974,2022-10-25,Nigeria,iOS,Ads
+4975,2022-12-16,Nigeria,iOS,Ads
+4976,2022-01-11,Nigeria,Web,Referral
+4977,2022-04-08,South Africa,iOS,Ads
+4978,2022-03-12,Kenya,Android,Ads
+4979,2022-12-30,Nigeria,iOS,Ads
+4980,2022-02-27,South Africa,Web,Referral
+4981,2022-10-17,South Africa,Android,Ads
+4982,2022-09-08,Kenya,iOS,Referral
+4983,2022-10-03,Nigeria,iOS,Organic
+4984,2022-02-19,Ghana,iOS,Referral
+4985,2022-12-24,Nigeria,Android,Ads
+4986,2022-08-04,Ghana,Web,Ads
+4987,2022-02-21,Nigeria,Android,Referral
+4988,2022-09-28,Kenya,Web,Organic
+4989,2022-03-25,Ghana,iOS,Referral
+4990,2022-10-20,Nigeria,Android,Organic
+4991,2022-05-06,South Africa,iOS,Referral
+4992,2022-10-23,South Africa,Android,Organic
+4993,2022-03-13,Kenya,Web,Referral
+4994,2022-10-23,Kenya,iOS,Ads
+4995,2022-08-24,Kenya,Web,Referral
+4996,2022-02-25,Ghana,iOS,Referral
+4997,2022-12-26,Nigeria,iOS,Referral
+4998,2022-04-20,Ghana,iOS,Organic
+4999,2022-07-11,South Africa,iOS,Referral
+5000,2022-04-03,Ghana,Web,Referral
