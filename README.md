@@ -39,7 +39,7 @@ fintech-analytics/
 │   ├── users.csv
 │   └── revenue.csv
 │
-├── notebooks/
+├── notebook/
 │   └── fintech_analytics_project.ipynb
 │
 ├── app/
